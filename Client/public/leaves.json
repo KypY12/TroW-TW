@@ -1,0 +1,20 @@
+{
+    "trains": [
+        {
+            "id": "vlad1",
+            "from": "Timisoara Nord",
+            "to": "Iasi",
+            "leave": "07: 46",
+            "arrive": "07: 46 (a doua zi)",
+            "duration": "9 ore"
+        },
+        {
+            "id": "vlad2",
+            "from": "Timisoara Nord",
+            "to": "Iasi",
+            "leave": "07: 46",
+            "arrive": "07: 46 (a doua zi)",
+            "duration": "9 ore"
+        }
+    ]
+}
