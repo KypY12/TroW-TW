@@ -1,0 +1,37 @@
+Api calls:
+
+GET: https://api.opencagedata.com/geocode/v1/json?key={accessToken}&q=palatul+culturii+iasi
+GET: https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}
+
+Exemplu request rest api:
+https://domain/controller/method?params=param?etc=etc
+
+POST:https://domain/auth/login [register, resetPassword]
+
+DELETE:https://domain/user/deleteAccount
+PUT:https://domain/user/editPassword [editUserDetails]
+
+GET: https://domain/trains/leave?year=*?location=*?day=*?month=*
+
+GET: https://domain/routes/route?year=*?location=*,*?day=*?month=*?stopover=*
+
+POST:https://domain/trips/add
+
+DELETE:https://domain/trips/remove?id=*
+
+#4.1 APi microserviciu
+
+POST: https://domain/add
+DELETE: https://domain/remove
+
+#5 Autentificare
+Vom folosi cookies deoarece vine cu suport nativ din partea browserului, iar in cazul altor clienti (Android, iOS), clentii http suporta cookies sau manipularea headers.
+Orice forma de autentificare folosind tokens ar adauga multa complexitate si nu ar aduce beneficii, intrucat nu avem microservicii care sa comunice intre ele.
+
+#6 Microservicii
+Vom avea un microerviciu care va trimite notificari (optional email-uri de notificare) utilizatorilor care au adaugat trasee in wishlist pentru a nu rata trenul. Arhitectura este foarte simpla: o functie care se repeta la un intervat de 10 min si care verifica cui trebuie sa trimita notificare. Baza de date va fi separata de restul aplicatiei iar datele vor fi introduse de catre backend (identitate verificata cu un token).
+
+#Bonus
+CI/CD Pipeline using Jenkins, deployment on AWS using Docker containers and Kubernetes.
+Unit testing with Jest and E2E with Nightwatch, also integrated in the pipeline.
+Babel but without IE support => we'll end up with es6 code

@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="ro-RO">
+
+<head>
+    <meta charset="utf-8">
+    <title> Documentație TroW </title>
+    <link rel="stylesheet" href="documentatie.css">
+</head>
+
+<body>
+    <article>
+        <header>
+            <h1 style="font-size:250% !important;">
+                TroW (Trin routes on Web)
+            </h1>
+            <section typeof=sa:AuthorList>
+                <h2 style="font-size:150% !important;">
+                    Realizat de:
+                </h2>
+                <ul style="list-style-type : none;">
+                    <li typeOf="sa:ContributorRole" property="schema:Author">
+                        <span typeof="schema:Person">
+                            <span property="schema:name">Chipăruș Alexandru-Denis</span>
+                        </span>
+                    </li>
+                    <li typeOf="sa:ContributorRole" property="schema:Author">
+                        <span typeof="schema:Person">
+                            <span property="schema:name">Cîrstean Vlad-Bogdan</span>
+                        </span>
+                    </li>
+                </ul>
+            </section>
+        </header>
+        <section>
+            <h2> 1. Descrierea aplicației </h2>
+            <figure typeOf="sa:image">
+                <img src="diagram.svg" alt="img" style="width:100%;">
+                <figcaption style="text-align: center;">Diagram</figcaption>
+            </figure>
+            <p>Avand la dispozitie datele XML publice privitoare la mersul trenurilor furnizate de SNTFC "CFR Calatori" S.A., sa se
+            dezvolte o aplicatie Web care sa ofere suport pentru planificarea unui voiaj -- posibil, dus-intors -- intre diverse
+            localitati (inclusiv posibile escale dorite), cu numar minim de minute de asteptare. Se va oferi suport pentru
+            compararea modificarilor unor rute si, eventual, timpii de plecare/sosire pentru fiecare an pentru care sunt disponibile
+            aceste date (de pilda, 2016/2017, 2017/2018, 2018/2019). De asemenea, se vor propune tehnici de optimizare (eventual,
+            euristici) pentru generarea cat mai rapida a rezultatelor si de figurare a rutelor pe harta.</p>
+
+        </section>
+        <section>
+<h2>2. Stagii de dezvoltare<h2>
+
+    <ul>
+        <li>
+        <h3>Prototip server</h3>
+        Am realizat prototipul unui server WEB care a devenit ulterior REST API.
+
+        </li>
+        <li>
+        <h3>Structura MVC</h3>
+            Am crea un controller, model, view pe care le-am luat ca model în implementare.
+        </li>
+        <li>
+        <h3>Algoritmul de căutare a drumului minim</h3>
+            Ne-am documentat cu privire la metode eficiente de rezolvare a problemei drumului minim într-un 
+            graf, însă am ales sa folosim o metodă mai simplă/clasică pentru că volumul datelor (numărul stațiilor)
+            nu este mare. De aceea am realizat o implementare a Algoritmul lui Dijkstra adaptată problemei unei
+            noi dimensiuni și anume "timpul curent".
+        </li>
+        <li>
+        <h3>Front-end : SPA</h3>
+            Am implementat un mic framework pentru partea de front-end care ne oferă posibilitatea de a obține 
+            datele prin AJAX și oferă o experiență Single Page Application.
+        </li>
+        <li>
+        <h3>Stagii intermediare</h3>
+            Pe lângă aceste stagii complexe am avut și stagii mai simple, intermediare, care au reprezentat
+            procesări intensive de date în format JSON (în mod special).
+        </li>
+
+    </ul>
+        </section>
+        <section>
+            <h2> 2. Restfull API</h2>
+            <p> Un restfull api scalabil pe orizontala ce foloseste o baza de date SQL pentru stoca
+                datele utilizatorilor si o baza de date NoSql in memory (Redis) pentru persistenta sesiunilor. </p>
+            <p> Sesiunile sunt statefull, putand fi revocate oricand si utilizam cookies pentru stocare client side</p>
+            <p> Pentru a crea acest API, am fost nevoiti sa ne cream un server web in NodeJs care se comporta
+                similar cu popularul framework ExpressJs. Am implementat posibilitatea de a atasa routes si de a adauga middlewares pe ramurile dorite
+            </p>
+        </section>
+        <section>
+            <h2>2. Frontend</h2>
+            <p> Am creat un mic framework de tip Single Page Application care obtine toate datele prin apeluri AJAX.
+           <p> Pentru impleemntarea acestuia am creat un router care ruleaza in browser si controleaza componentele care vin randate.</p>
+        <p> Randarea se face prin atasarea aplicatiei la un div (spre exemplu #app) si manipuleaza continutul acestuia cu innerHtml.</p>
+   <p>  Am renuntat la structura MVC pentru client intrucat am considerat mult mai util sa avem single page components.</p>
+ <p>Desi nu e final, acest mic framework e functional si poate fi extins in viitor</p>
+        </section>
+        <section>
+            <h2>3. Algoritmul de cautare</h2>
+            <p>Pentru aflarea rutei cu timpul minim de așteptare am utilizat un algoritm asemanator cu Algoritmul lui Dijkstra,
+            reprezentând defapt o extensie a acestuia.</p>
+            <p>La bază am utilizat un PriorityQueue implementat să rețină starea completă a nodului (stației curente), astfel pe lângă
+            timpul minim până la stația curentă PriorityQueue-ul a reținut atât ora actuală cât și numărul trenului care
+            s-a deplasat până la stația curentă.</p>
+            <p>De asemenea, pentru a putea implementa algoritmul, am realizat o conversie de la fișierele XML oferite de CFR Călători
+            la JSON "brut",
+            pe care mai apoi l-am procesat pentru a stoca direct o structură de date de tip listă de vecini în format
+            JSON. Algoritmul realizat utilizează acest ultim fișier obținut.</p>
+            
+            
+            <p> <b>Procesare JSON intensivă </b></p>
+            
+            <p>Am realizat multe script-uri de procesare JSON pentru a prelua datele în diverse forme necesare pentru a fi redate
+            în pagină. Printre acestea se numără: script pentru obținerea de locații valide (GetLocationsScript.js),
+            obținerea unei liste de trenuri, etc.</p>
+        </section>
+        <section>
+            <h2>4 Securitate</h2>
+            <ul>
+                <li>SQL Injection: parameterized queries </li>
+                <li>XSS: Nu reflectam continut si nu afisam continut de la clienti </li>
+                <li>CSRF: Avem implementat server side generator pt token (Are loc pentru fiecare cookie) </li>
+                <li>MitM: Folosim tls pt comunicarea cu bazele de date, cu apiul, cu clientul </li>
+                <li>Path Traversal: Serverul ofera acces doar la fisierele din folderul public </li>
+                <li>Headers: Am folosit tot ce are sens </li>
+            </ul>
+        </section>
+        <section>
+            <h2>Bibliografie</h2>
+            <ul>
+                <li><a href="https://www.draw.io/"> Draw.io </a></li>
+                <li><a href="https://w3c.github.io/scholarly-html/"> Scholarly HTML </a></li>
+            </ul>
+        </section>
+    </article>
+</body>

@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Train Routes</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="/public/main.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="/public/apiDoc.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="/public/spinning.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="/public/header.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css"
+        integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.5.1/dist/leaflet.css"
+        integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+        crossorigin="" />
+    <script src="https://unpkg.com/leaflet@1.5.1/dist/leaflet.js"
+        integrity="sha512-GffPMF3RvMeYyc1LWMHtK8EbPv0iNZ8/oTtHPx9/cc2ILxQ+u905qIwdpULaqDkyBKgOaB57QTMg7ztg8Jm2Og=="
+        crossorigin=""></script>
+
+    <script src="/dist/main.js"></script>
+</head>
+
+<body>
+
+    <div id="navBar">
+
+        <ul id="navBarMenu">
+            <li class="nav-bar-element"><a href="" onclick=" event.preventDefault();
+                    app.goto('/routes');">Planificare traseu <span class="nav-element-description">Planificati un
+                        traseu
+                        si obtineti rutele
+                        posibile</span></a>
+            </li>
+            <li class="nav-bar-element"><a href="" onclick=" event.preventDefault(); app.goto('/leave');">Sosiri /
+                    plecari <span class="nav-element-description">Tabele cu informatii specifice pentru fiecare
+                        statie</span></a>
+            </li>
+            <li class="nav-bar-element"><a href="" onclick=" event.preventDefault(); app.goto('/details');">Informatii
+                    trenuri <span class="nav-element-description">Informatii despre fiecare cursa</span></a></li>
+            </li>
+            <li class="nav-bar-element"><a href="" onclick=" event.preventDefault(); app.goto('/apidoc');">Documentatie API <span class="nav-element-description">Informatii
+                        despre API-ul oferit de TroW</span></a>
+            </li>
+            <li class="nav-bar-element"><a href="" onclick=" event.preventDefault(); app.goto('/about');">Despre <span class="nav-element-description">Informatii
+                        despre Train Routes si date de contact</span></a>
+            </li>
+            <li class="nav-bar-element"><a href="" id="myAccount" onclick=" event.preventDefault(); app.goto('/login');">Contul Meu
+                    <span class="nav-element-description">Acceseaza contul tau</span></a>
+            </li>
+        </ul>
+    </div>
+
+    <div id="higherPart">
+        <div id="timeHigher">
+            <img id="trainHigherImage" src="/public/headerImage.jpg" alt="">
+            <iframe
+                src="http://free.timeanddate.com/clock/i6olssro/n2209/tlro32/fn16/fs28/fcfff/tct/pct/ftb/tt0/tw0/th2/tb4"
+                width="266" height="68"></iframe>
+
+        </div>
+        <div id="quickMenuButtons">
+            <button class="quick-menu-button">Planificare Traseu</button>
+            <button class="quick-menu-button">Sosiri / Plecari</button>
+            <button class="quick-menu-button">Informatii trenuri</button>
+        </div>
+
+        <div id="quickMenuCompContainers">
+            <div id="planificareTraseu" class="quick-menu-comp-container">
+                
+                <div id="formContainer">
+                    <div id="stationsButton">
+                        <button type="button" id="addStation">Adaugă stație</button>
+                    </div>
+                    <form action="routes">
+                        <select name="routeYear" id="anulTraseului" type="text" placeholder="Anul" title="Anul" value="2019">
+                            <option value="2014">2014</option>
+                            <option value="2015">2015</option>
+                            <option value="2016">2016</option>
+                            <option value="2017">2017</option>
+                            <option value="2018">2018</option>
+                            <option value="2019">2019</option>
+                        </select>
+                        <br \>
+
+                        <input name="" id="plecareGaraInput" class="routeStation" type="text" placeholder="Plecare din gara" title="Plecare din gara">
+                        <input name="" id="sosireGaraInput" class="routeStation" type="text" placeholder="Sosire in gara" title="Sosire in gara">
+
+
+                    </form>
+                </div>
+                <button id="obtineTraseuBtn">Obtine traseu</button>
+
+            </div>
+
+            <div id="sosiriPlecari" class="quick-menu-comp-container">
+                <form action="a">
+                    <input id="garaInput" type="text" placeholder="Gara" title="Gara">
+                    <div id="optiuneAfisareSP">
+                        <input id="plecariRadio" type="radio" name="optiuneASP" value="plecari"><label
+                            for="plecariRadio"><span><span></span></span>Plecari</label>
+                        <input id="sosirileRadio" type="radio" name="optiuneASP" value="sosiri"><label
+                            for="sosirileRadio"><span><span></span></span>Sosirile</label>
+                    </div>
+
+                    <select id="anulGara" type="text" placeholder="An" title="An" value="2019">
+                        <option value="2014">2014</option>
+                        <option value="2015">2015</option>
+                        <option value="2016">2016</option>
+                        <option value="2017">2017</option>
+                        <option value="2018">2018</option>
+                        <option value="2019">2019</option>
+                    </select>
+
+                </form>
+                <button id="obtineInformatiiBtn">Obtine informatii</button>
+            </div>
+
+            <div id="informatiiTrenuri" class="quick-menu-comp-container">
+                <form action="about.html">
+                    <input id="numarTrenInput" type="text" placeholder="Numar tren"
+                        title="Numar tren">
+                        <br />
+
+                    <select id="anulTrenului" type="text" placeholder="An tren"
+                        title="An tren" value="2019">
+                        <option value="2014">2014</option>
+                        <option value="2015">2015</option>
+                        <option value="2016">2016</option>
+                        <option value="2017">2017</option>
+                        <option value="2018">2018</option>
+                        <option value="2019">2019</option>
+                    </select>
+                </form>
+                <button id="veziRutaTrenBtn">Vezi rute tren</button>
+            </div>
+
+        </div>
+
+    </div>
+
+
+    <div id="#app"></div>
+
+    <script src="/public/main-script.js"> </script>
+    <script src="/public/quickmenu.js"></script>
+    <button onclick="window.scrollTop()" id="goUp" title="Go to top"><i class="fas fa-arrow-up"></i></button>
+</body>
+
+</html>

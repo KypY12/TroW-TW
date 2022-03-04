@@ -1,0 +1,252 @@
+.main-body{
+  display: grid;
+   margin: 30px;
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+.main-body a{
+   text-decoration: none;
+   color: #92122e;
+}
+.main-body a:hover{
+   text-decoration: underline;
+}
+
+
+.details{
+ 
+display: grid;
+grid-template-columns: 1fr;
+}
+.details > .row {
+    display: flex;
+    flex-direction: row;
+    padding: 8px 4px;
+    border-bottom: 2px solid rgba(230, 228, 228, 0.562);
+}
+
+.details > .row:nth-child(2n) {
+    background-color:rgba(247, 247, 247, 0.541);
+}
+
+.details > .row-header {
+    background-color:#92122e;
+    font-weight: bold;
+    color: #f3ffb9;
+}
+
+.details > .row > span, .main-body a{
+    padding-right:  10px;
+    flex-direction: column;
+  flex-basis: 100%;
+  flex: 1;
+   white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.details > .row > span{
+   font-weight: bold;
+}
+#mapid { 
+    height: 200px; 
+}
+
+.js-edit>.row>span:nth-child(6){
+    max-width: 50px;
+}
+.js-edit{
+    background-color:rgba(247, 247, 247, 0.541);
+}
+
+
+.routes{
+  margin: 20px;
+  display:grid;
+  grid-template-columns: 1fr;
+   border-style: solid;
+  border-width: 1px;
+  border-color:rgba(196, 196, 196, 0.63);
+  padding: 20px;
+  box-shadow: 10px 10px 10px rgba(196, 196, 196, 0.63);
+}
+
+.routes .indent{
+ color: green;
+}
+
+.routes .indent2{
+  grid-column: 1/-1;
+  grid-row: 6;
+}
+
+.routes div{
+  margin: 10px;
+  font-size: 1.1em;
+  font-weight: bold;
+  text-align: center;
+}
+
+.routes .green{
+  grid-column: 1/-1;
+  width: auto;
+  height: 10px;
+  background-color: green;
+}
+
+@media only screen and (min-width: 1000px){
+ .routes{
+   grid-template-columns: 0.6fr 1fr 1fr 1fr;
+ }
+
+ .routes .indent2{
+  grid-column: 1/-1;
+  grid-row: 3;
+}
+
+.routes .green{
+  grid-column: 1/-1;
+}
+
+}
+
+@media screen and (min-width: 600px) and (max-width: 1000px){
+ .routes{
+   grid-template-columns:1fr 1fr ;
+ }
+
+ .routes .indent2{
+  grid-column: 1/-1;
+  grid-row: 4;
+}
+
+.routes .green{
+  grid-row: 3;
+  grid-column: 1/-1;
+}
+}
+
+.routesIndirect{
+  margin: 20px;
+  display:grid;
+  grid-template-columns: 1fr;
+   border-style: solid;
+  border-width: 1px;
+  border-color:rgba(196, 196, 196, 0.63);
+  padding: 20px;
+  box-shadow: 10px 10px 10px rgba(196, 196, 196, 0.63);
+}
+
+.routesIndirect .indent{
+ color: red;
+}
+
+.routesIndirect .indent2{
+  grid-column: 1/-1;
+  grid-row: 6;
+}
+
+.routesIndirect div{
+  margin: 10px;
+  font-size: 1.1em;
+  font-weight: bold;
+  text-align: center;
+}
+
+.routesIndirect .green{
+  grid-column: 1/-1;
+  width: auto;
+  height: 10px;
+  background-color: red;
+}
+.routesIndirect>.link{
+   grid-column: 1/-1;
+  display: grid;
+  text-align: center;
+}
+
+
+@media only screen and (min-width: 1000px){
+ .routesIndirect{
+   grid-template-columns: 0.6fr 1fr 1fr 1fr;
+ }
+ .routesIndirect>.link{
+   grid-template-columns: 0.6fr 1fr 1fr 1fr;
+ }
+
+
+ .routesIndirect .indent2{
+  grid-column: 1/-1;
+  grid-row: 3;
+}
+
+.routesIndirect .green{
+  grid-column: 1/-1;
+}
+
+}
+
+@media screen and (min-width: 600px) and (max-width: 1000px){
+ .routesIndirect{
+   grid-template-columns:1fr 1fr ;
+ }
+
+ .routesIndirect>.link{
+   grid-template-columns:1fr 1fr ;
+ }
+
+ .routesIndirect .indent2{
+  grid-column: 1/-1;
+  grid-row: 4;
+}
+
+.routesIndirect .green{
+  grid-row: 3;
+  grid-column: 1/-1;
+}
+}
+
+
+
+
+.login{
+  margin:20px;
+
+  display: grid;
+  grid-template-columns: 1fr 300px 1fr;
+}
+
+.login>form{
+  width: 300px;
+  grid-column: 2/3;
+   border-style: solid;
+  border-width: 1px;
+  border-color:rgba(196, 196, 196, 0.63);
+  padding: 20px;
+  box-shadow: 10px 10px 10px rgba(196, 196, 196, 0.63);
+
+}
+
+.login input{
+  width: 300px;
+  height: 20px;
+}
+
+#goUp {
+  display: none; 
+  position: fixed; 
+  bottom: 20px; 
+  right: 30px; 
+  z-index: 99; 
+  border: none; 
+  outline: none; 
+  background-color: rgba(214, 16, 16, 0.541); 
+  
+  cursor: pointer; 
+  padding: 20px;
+  border-radius: 10px; 
+}
+
+#goUp:hover {
+  background-color: rgba(247, 14, 14, 0.685); 
+}

@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Ghidul utilizatorului TroW</title>
+    <style>
+        a{
+            color: #6c0e23;
+            font-size: 20px;
+
+        }
+        img, p{
+            width: 50vw;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        #navBarImg{
+            width: 70vw;
+        }
+        body{
+            font-size: 20px;
+            align-content: center;
+            align-items: center;
+            justify-content: center;
+            justify-items: center;
+            text-align: center;
+            color: #6c0e23;
+            background-color: #f3ffb9;
+        }
+        ol{
+            text-align: left;
+            align-self: center;
+            justify-self: center;
+            margin-left: auto;
+            margin-right: auto;
+            width: 30vw;
+        }
+        section{
+            align-self: center;
+            justify-self: center;
+            align-content: center;
+            align-items: center;
+            justify-content: center;
+            justify-items: center;
+        }
+    </style>
+</head>
+<body>
+    <h1>Ghidul utilizatorului TroW</h1>
+    <ol>
+        <li><a href="#planTras">Planificați o rută</a></li>
+        <li><a href="#plecariSosiri">Afișați informații despre plecări/sosiri specifice unei stații</a></li>
+        <li><a href="#trenInfo">Afisați informații despre un tren</a></li>
+        <li><a href="#navBar">Utilizare bară navigație</a></li>
+        <li><a href="#auth">Autentificare</a></li>
+        <li><a href="#register">Înregistrare</a></li>
+        <li><a href="#editData">Editare date personale</a></li>
+        <li><a href="#reset">Resetare parolă</a></li>
+    </ol>
+    <section>
+        <h2 id="planTras">1.Planificați o rută</h2>
+        <p>În meniul "Planificare Traseu" 
+        adăugați stații suplimentare dacă doriți un traseu 
+        personalizat sau introduceți direct
+        stația origine, stația destinație și anul.</p>
+        <img src="./images/planTraseu.png" alt="Traseu">
+    </section>
+    <section>
+        <h2 id="plecariSosiri">2.Afișați informații despre plecări/sosiri specifice unei stații</h2>
+        <p>În meniul "Sosiri/Plecări" alegeți o stație, bifați 
+        "Plecări" sau "Sosiri" apoi alegeți anul și apăsați "Obține
+        informații".</p>
+        <img src="./images/leave.png" alt="Plecari/Sosiri">
+    </section>   
+    <section>
+        <h2 id="trenInfo">3.Afisați informații despre un tren</h2>
+        <p>Alegeți numărul trenului iar apoi anul și 
+        apăsați butonul "Vezi rute tren".</p>
+        <img src="./images/trains.png" alt="Tren">
+    </section>
+    <section>
+        <h2 id="navBar">4.Utilizare bară navigație</h2>
+        <p>Bara de navigație oferă rute spre informații suplimentare despre funcționalitățile 
+            aplicației și de asemenea catre documentația API-ului pus la dispoziția clientului și
+            contul meu.
+        </p>
+        <img id="navBarImg" src="./images/navbar.png" alt="Navigatie">
+    </section>
+    <section>
+        <h2 id="auth">5.Autentificare</h2>
+        <p>Pentru autentificare apăsați pe butonul <em>Contul Meu</em> iar acesta vă va redirecta către 
+            pagina de mai jos.
+        </p>
+        <img src="./images/autentificare.png" alt="Autentificare">
+    </section>
+    <section>
+        <h2 id="register">6.Înregistrare</h2>
+        <p>De asemenea pentru înregistrare apăsați pe <em>Înregistrare</em> de pe pagina de autentificare,
+            care vă va redirecta către pagina de mai jos.
+        </p>
+        <img src="./images/inreg.png" alt="Inregistrare">
+    </section>
+
+    <section>
+        <h2 id="editData">7.Editare date personale</h2>
+        <p>După autentificare în pagina <em>Contul Meu</em>
+            se pot schimba datele personale.
+        </p>
+        <img src="./images/editdata.png" alt="Date Personale">
+    </section>
+
+    <section>
+        <h2 id="reset">8.Resetare parolă</h2>
+        <p>De asemenea, se poate modifica parola tot din pagina <em>Contul Meu</em>, după autentificare, sau chiar
+            ștergerea totală a contului.
+        </p>
+        <img src="./images/newpass.png" alt="Parola noua">
+    </section>
+    
+</body>
+</html>

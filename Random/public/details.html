@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Train Routes</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="css/main.css">
+    <script defer src="javascript/main.js"></script>
+    <link rel="stylesheet" type="text/css" media="screen" href="css/header.css">
+
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css"
+        integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
+        crossorigin="" />
+    <script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js"
+        integrity="sha512-QVftwZFqvtRNi0ZyCtsznlKSWOStnDORoefr1enyq5mVL4tmKB3S/EnC3rRJcxCPavG10IcrVGSmPh6Qw5lwrg=="
+        crossorigin=""></script>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css"
+        integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+
+</head>
+
+<body>
+
+    <div id="navBar">
+
+        <ul id="navBarMenu">
+            <li class="nav-bar-element"><a href="routes.html">Planificare traseu <span
+                        class="nav-element-description">Planificati un traseu si obtineti rutele posibile</span></a>
+            </li>
+            <li class="nav-bar-element"><a href="arivals.html">Sosiri / plecari <span
+                        class="nav-element-description">Tabele
+                        cu informatii specifice pentru fiecare statie</span></a>
+            </li>
+            <li class="nav-bar-element"><a href="details.html">Informatii trenuri <span
+                        class="nav-element-description">Informatii despre fiecare cursa</span></a></li>
+            <li class="nav-bar-element"><a href="#"> Autentificare <span class="nav-element-description"> Autentifică-te
+                        pentru a intra în contul propriu </span></a></li>
+            <li class="nav-bar-element"><a href="#"> Înregistrare<span class="nav-element-description">Crează un cont
+                        nou
+                    </span></a></li>
+            <li class="nav-bar-element"><a href="">Despre <span class="nav-element-description">Informatii despre Train
+                        Routes si date de contact</span></a>
+
+
+            </li>
+        </ul>
+    </div>
+
+    <div id="higherPart">
+        <div id="timeHigher">
+            <img id="trainHigherImage" src="images/headerImage.jpg" alt="">
+            <iframe
+                src="http://free.timeanddate.com/clock/i6olssro/n2209/tlro32/fn16/fs28/fcfff/tct/pct/ftb/tt0/tw0/th2/tb4"
+                width="266" height="68"></iframe>
+
+        </div>
+        <div id="quickMenuButtons">
+            <button class="quick-menu-button">Planificare Traseu</button>
+            <button class="quick-menu-button">Sosiri / Plecari</button>
+            <button class="quick-menu-button">Informatii trenuri</button>
+        </div>
+
+        <div id="quickMenuCompContainers">
+            <div id="planificareTraseu" class="quick-menu-comp-container">
+
+                <form action="a">
+                    <input id="plecareGaraInput" type="text" placeholder="Plecare din gara" title="Plecare din gara">
+
+                    <input id="sosireGaraInput" type="text" placeholder="Sosire in gara" title="Sosire in gara">
+
+                    <input id="dateTravelDay" type="text" placeholder="Ziua" title="Ziua">
+
+                    <input id="dateTravelMonth" type="text" placeholder="Luna" title="Luna">
+
+                </form>
+                <button id="obtineTraseuBtn">Obtine traseu</button>
+
+            </div>
+
+            <div id="sosiriPlecari" class="quick-menu-comp-container">
+                <form action="a">
+                    <input id="garaInput" type="text" placeholder="Gara" title="Gara">
+                    <div id="optiuneAfisareSP">
+                        <input id="plecariRadio" type="radio" name="optiuneASP" value="plecari"><label
+                            for="plecariRadio"><span><span></span></span>Plecari</label>
+                        <input id="sosirileRadio" type="radio" name="optiuneASP" value="sosiri"><label
+                            for="sosirileRadio"><span><span></span></span>Sosirile</label>
+                    </div>
+
+                    <input id="dateTravelDaySP" type="text" placeholder="Ziua" title="Ziua">
+
+                    <input id="dateTravelMonthSP" type="text" placeholder="Luna" title="Luna">
+
+                </form>
+                <button id="obtineInformatiiBtn">Obtine informatii</button>
+            </div>
+
+            <div id="informatiiTrenuri" class="quick-menu-comp-container">
+                <form action="a">
+                    <input id="numarTrenInput" type="text" placeholder="Numar tren (2-5 cifre)"
+                        title="Numar tren (2-5 cifre)">
+                </form>
+                <button id="veziRutaTrenBtn">Vezi ruta tren</button>
+            </div>
+
+        </div>
+
+    </div>
+
+
+    <div class="main-body">
+        <div class="map">
+            <h2>Harta traseului</h2>
+            <div id="mapid"></div>
+
+            <form name="valform" action="" method="POST">
+
+                <input type="text" id="cctextboxid" name="cctextbox"><br />
+
+                <input type="button" name="submit" value="Submit"
+                    onclick="isValidCreditCard(document.getElementById('cctextboxid').value)" />
+
+        </div>
+
+        <H2>Detaliile traseului</H2>
+        <p>Acest tren se opreste de 42 ori inainte de a ajunge la destinatie: <a href="">Iasi</a>. De
+            asemenea,
+            trece prin 82 de gari fara a se
+            opri.
+        </p>
+        <div class="details  js-edit">
+
+
+            <div class="row row-header">
+
+                <span>De la</span>
+                <span>Plecare</span>
+                <span>La</span>
+                <span>Sosire</span>
+                <span>Distanta</span>
+                <span>Oprire</span>
+            </div>
+
+            <div class="row">
+
+                <a href="">Timisoara Nord</a>
+                <span>13:35</span>
+                <a href="">Iasi</a>
+                <span>07:46 (a doua zi)</span>
+                <span>848 km</span>
+                <span><i class="fas fa-ban"></i></span>
+
+            </div>
+
+            <div class="row">
+
+                <a href="">Timisoara Nord</a>
+                <span>13:35</span>
+                <a href="">Iasi</a>
+                <span>07:46 (a doua zi)</span>
+                <span>848 km</span>
+                <span>7 min</span>
+
+            </div>
+            <div class="row">
+
+                <a href="">Timisoara Nord</a>
+                <span>13:35</span>
+                <a href="">Iasi</a>
+                <span>07:46 (a doua zi)</span>
+                <span>848 km</span>
+                <span><i class="fas fa-ban"></i></span>
+
+            </div>
+            <div class="row">
+
+                <a href="">Timisoara Nord</a>
+                <span>13:35</span>
+                <a href="">Iasi</a>
+                <span>07:46 (a doua zi)</span>
+                <span>848 km</span>
+                <span><i class="fas fa-ban"></i></span>
+
+            </div>
+            <div class="row">
+
+                <a href="">Timisoara Nord</a>
+                <span>13:35</span>
+                <a href="">Iasi</a>
+                <span>07:46 (a doua zi)</span>
+                <span>848 km</span>
+                <span><i class="fas fa-ban"></i></span>
+
+            </div>
+            <div class="row">
+
+                <a href="">Timisoara Nord</a>
+                <span>13:35</span>
+                <a href="">Iasi</a>
+                <span>07:46 (a doua zi)</span>
+                <span>848 km</span>
+                <span>10 min</span>
+
+            </div>
+        </div>
+    </div>
+    <script src="javascript/quickmenu.js"></script>
+    <button onclick="topFunction()" id="goUp" title="Go to top"><i class="fas fa-arrow-up"></i></button>
+</body>
+
+
+</html>

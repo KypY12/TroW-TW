@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Train Routes</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="css/main.css">
+    <script defer src="javascript/main.js"></script>
+    <link rel="stylesheet" type="text/css" media="screen" href="css/header.css">
+    <link rel="stylesheet" href="css/leaflet.css" />
+    <script src="javascript/leaflet.js"></script>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css"
+        integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+
+</head>
+
+<body>
+
+    <div id="navBar">
+
+        <ul id="navBarMenu">
+            <li class="nav-bar-element"><a href="routes.html">Planificare traseu <span class="nav-element-description">Planificati un traseu si obtineti rutele posibile</span></a></li>
+            <li class="nav-bar-element"><a href="arivals.html">Sosiri / plecari <span class="nav-element-description">Tabele cu informatii specifice pentru fiecare statie</span></a></li>
+            <li class="nav-bar-element"><a href="details.html">Informatii trenuri <span class="nav-element-description">Informatii despre fiecare cursa</span></a></li>
+            <li class="nav-bar-element"><a href="https://mytrain.ro/ro/intarzieri/">Intarzieri <span class="nav-element-description">Informatii actualizate despre intarzieri recente si statistici</span></a>
+            <li class="nav-bar-element"><a href="https://mytrain.ro/ro/operatori/">Operatori trenuri <span class="nav-element-description">Informatii despre operatorii romani de transport feroviar</span></a>
+            <li class="nav-bar-element"><a href="about.html">Despre <span class="nav-element-description">Informatii despre Train Routes si date de contact</span></a>
+                
+                
+            </li>
+        </ul>
+    </div>
+
+    <div id="higherPart">
+            <div id="timeHigher">
+                    <img id="trainHigherImage" src="images/headerImage.jpg" alt="">
+                    <iframe src="http://free.timeanddate.com/clock/i6olssro/n2209/tlro32/fn16/fs28/fcfff/tct/pct/ftb/tt0/tw0/th2/tb4" width="266" height="68"></iframe>
+            
+                </div>
+            <div id="quickMenuButtons">
+                    <button class="quick-menu-button">Planificare Traseu</button>
+                    <button class="quick-menu-button">Sosiri / Plecari</button>
+                    <button class="quick-menu-button">Informatii trenuri</button>
+                </div>
+        
+            <div id="quickMenuCompContainers">
+                <div id="planificareTraseu" class="quick-menu-comp-container">
+                    
+                    <form action="a">
+                        <input id="plecareGaraInput" type="text" placeholder="Plecare din gara" title="Plecare din gara">
+                    
+                        <input id="sosireGaraInput" type="text" placeholder="Sosire in gara" title="Sosire in gara">
+
+                        <input id="dateTravelDay" type="text" placeholder="Ziua" title="Ziua">
+
+                        <input id="dateTravelMonth" type="text" placeholder="Luna" title="Luna">
+               
+                    </form>
+                    <button id="obtineTraseuBtn">Obtine traseu</button>
+
+                </div>
+                
+                <div id="sosiriPlecari" class="quick-menu-comp-container">
+                    <form action="a">
+                        <input id="garaInput" type="text" placeholder="Gara" title="Gara">
+                        <div id="optiuneAfisareSP">
+                            <input id="plecariRadio" type="radio" name="optiuneASP" value="plecari"><label for="plecariRadio"><span><span></span></span>Plecari</label>
+                            <input id="sosirileRadio" type="radio" name="optiuneASP" value="sosiri"><label for="sosirileRadio"><span><span></span></span>Sosirile</label>
+                        </div>
+    
+                        <input id="dateTravelDaySP" type="text" placeholder="Ziua" title="Ziua">
+                       
+                        <input id="dateTravelMonthSP" type="text" placeholder="Luna" title="Luna">
+                        
+                    </form>
+                    <button id="obtineInformatiiBtn">Obtine informatii</button>
+                </div>
+                
+                <div id="informatiiTrenuri" class="quick-menu-comp-container">
+                    <form action="about.html">
+                        <input id="numarTrenInput" type="text" placeholder="Numar tren (2-5 cifre)" title="Numar tren (2-5 cifre)">
+                    </form>
+                    <button id="veziRutaTrenBtn">Vezi ruta tren</button>
+                </div>
+
+            </div>
+
+    </div>
+
+<div class="main-body">
+	
+	    <div class="routes">
+	        <div class="indent">
+	            <span><i class="fas fa-hashtag"></i></span>
+	            <span>Varianta 1</span>
+	        </div>
+	        <div class="indent2">
+	            <span>05:20 - 14:42</span>
+	            <span>(9 ore si 22 minute)</span>
+	            <span>Legatura directa</span>
+	        </div>
+	        <div>
+	            <span><i class="fas fa-train"></i></span>
+	            <span>IR 1692 (Bucuresti Nord)</span>
+	        </div>
+	        <div>
+	            <span><i class="fas fa-sign-out-alt"></i></span>
+	            <span>Timisoara Nord</span>
+	            <span><i class="far fa-clock"></i></span>
+	            <span>05:20</span>
+	        </div>
+	        <div>
+	            <span><i class="fas fa-sign-out-alt"></i></span>
+	            <span>Bucuresti Nord</span>
+	            <span><i class="far fa-clock"></i></span>
+	            <span>14:42</span>
+	        </div>
+	
+	        <div class="green"></div>
+	
+	
+            
+        </div>
+        
+        <div class="routesIndirect">
+                <div class="indent">
+                    <span><i class="fas fa-hashtag"></i></span>
+                    <span>Varianta 2</span>
+                </div>
+                <div class="indent2">
+                    <span>05:20 - 14:42</span>
+                    <span>(19 ore si 22 minute)</span>
+                    <span>Legatura indirecta</span>
+                </div>
+                <div>
+                    <span><i class="fas fa-train"></i></span>
+                    <span>IR 1692 (Bucuresti Nord)</span>
+                </div>
+                <div>
+                    <span><i class="fas fa-sign-out-alt"></i></span>
+                    <span>Timisoara Nord</span>
+                    <span><i class="far fa-clock"></i></span>
+                    <span>05:20</span>
+                </div>
+                <div>
+                    <span><i class="fas fa-sign-out-alt"></i></span>
+                    <span>Bucuresti Nord</span>
+                    <span><i class="far fa-clock"></i></span>
+                    <span>14:42</span>
+                </div>
+        
+                <div class="green"></div>
+        
+                <div class="link">
+                    <div class="indent">
+                        <span><i class="fas fa-plus"></i></span>
+                    </div>
+                    <div>
+                        <span><i class="fas fa-train"></i></span>
+                        <span>IR 1692 (Bucuresti Nord)</span>
+                    </div>
+                    <div>
+                        <span><i class="fas fa-sign-out-alt"></i></span>
+                        <span>Timisoara Nord</span>
+                        <span><i class="far fa-clock"></i></span>
+                        <span>05:20</span>
+                    </div>
+                    <div>
+                        <span><i class="fas fa-sign-out-alt"></i></span>
+                        <span>Bucuresti Nord</span>
+                        <span><i class="far fa-clock"></i></span>
+                        <span>14:42</span>
+                    </div>
+                </div>
+            </div>
+</div>
+
+
+<script src="javascript/quickmenu.js"></script>
+    <button onclick="topFunction()" id="goUp" title="Go to top"><i class="fas fa-arrow-up"></i></button>
+</body>
+</html>

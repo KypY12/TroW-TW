@@ -1,0 +1,6387 @@
+[
+    {
+        "stationName": "Târgu Jiu",
+        "lat": "45.0463503",
+        "lon": "23.2808281428323"
+    },
+    {
+        "stationName": "Ram. Budieni",
+        "lat": "45.01721",
+        "lon": "23.40303"
+    },
+    {
+        "stationName": "Ramificaţia C.A.M. h.",
+        "lat": "45.043587",
+        "lon": "23.285179"
+    },
+    {
+        "stationName": "Ecaterina Teodoroiu",
+        "lat": "45.4440644",
+        "lon": "25.5731709594613"
+    },
+    {
+        "stationName": "Ram. Amaradia",
+        "lat": "45.068966",
+        "lon": "23.408716"
+    },
+    {
+        "stationName": "Amaradia",
+        "lat": "45.0619549",
+        "lon": "23.3957565"
+    },
+    {
+        "stationName": "Drăguţeşti h.",
+        "lat": "44.9755356",
+        "lon": "23.2328279"
+    },
+    {
+        "stationName": "Cârbeşti Hm.",
+        "lat": "44.93333",
+        "lon": "23.2"
+    },
+    {
+        "stationName": "Rogojelu",
+        "lat": "44.9260169",
+        "lon": "23.1350675"
+    },
+    {
+        "stationName": "Rovinari Hm.",
+        "lat": "44.919265",
+        "lon": "23.18231"
+    },
+    {
+        "stationName": "Rovinari Sud h.",
+        "lat": "44.899949",
+        "lon": "23.165546"
+    },
+    {
+        "stationName": "Plopşoru",
+        "lat": "44.789841",
+        "lon": "23.3502446"
+    },
+    {
+        "stationName": "Vlăduleni Gorj h.",
+        "lat": "44.8885665",
+        "lon": "23.2372656"
+    },
+    {
+        "stationName": "Bâlteni h.",
+        "lat": "44.8691918",
+        "lon": "23.2731136"
+    },
+    {
+        "stationName": "Peşteana Jiu h.",
+        "lat": "44.8469505",
+        "lon": "23.3040115"
+    },
+    {
+        "stationName": "Sărdăneşti h.",
+        "lat": "44.8787237",
+        "lon": "22.8881591"
+    },
+    {
+        "stationName": "Turceni",
+        "lat": "44.672258",
+        "lon": "23.3799819183983"
+    },
+    {
+        "stationName": "Gârbovu h.",
+        "lat": "44.7322485",
+        "lon": "23.3573578"
+    },
+    {
+        "stationName": "Termo Turceni h.",
+        "lat": "44.672508",
+        "lon": "23.408928"
+    },
+    {
+        "stationName": "Ram. Filiaşi",
+        "lat": "44.553742",
+        "lon": "23.520335"
+    },
+    {
+        "stationName": "Piteşti",
+        "lat": "44.8572343",
+        "lon": "24.8719422"
+    },
+    {
+        "stationName": "Bradu de Sus",
+        "lat": "44.8133376",
+        "lon": "24.9152951"
+    },
+    {
+        "stationName": "Ram. Goleşti",
+        "lat": "44.8273256",
+        "lon": "24.9336518"
+    },
+    {
+        "stationName": "Piteşti Nord",
+        "lat": "44.8697431",
+        "lon": "24.8610132"
+    },
+    {
+        "stationName": "Pârvu Hm.",
+        "lat": "44.7331001",
+        "lon": "24.8968767"
+    },
+    {
+        "stationName": "Pârvu h.",
+        "lat": "44.7331",
+        "lon": "24.896877"
+    },
+    {
+        "stationName": "Costeşti",
+        "lat": "45.046896",
+        "lon": "26.7600265580667"
+    },
+    {
+        "stationName": "Suseni h.",
+        "lat": "46.6595518",
+        "lon": "25.5571542"
+    },
+    {
+        "stationName": "Fâlfani Hm.",
+        "lat": "44.6093276",
+        "lon": "24.8241324"
+    },
+    {
+        "stationName": "Stolnici Hm.",
+        "lat": "44.567823",
+        "lon": "24.781063"
+    },
+    {
+        "stationName": "Hârseşti Hm.",
+        "lat": "44.52038",
+        "lon": "24.777321"
+    },
+    {
+        "stationName": "Corbu",
+        "lat": "44.507743",
+        "lon": "24.7052401970762"
+    },
+    {
+        "stationName": "Sineşti Hm.",
+        "lat": "44.4654842",
+        "lon": "24.6744819"
+    },
+    {
+        "stationName": "Potcoava",
+        "lat": "44.4745223",
+        "lon": "24.6311089"
+    },
+    {
+        "stationName": "Bâlteni Olt Hm.",
+        "lat": "44.45378",
+        "lon": "24.521105"
+    },
+    {
+        "stationName": "Recea Hm.",
+        "lat": "44.4381307",
+        "lon": "24.4578192"
+    },
+    {
+        "stationName": "Slatina",
+        "lat": "44.4299971",
+        "lon": "24.3631837"
+    },
+    {
+        "stationName": "Milcov Hm.",
+        "lat": "45.644764",
+        "lon": "27.262002"
+    },
+    {
+        "stationName": "Slătioara Hm.",
+        "lat": "47.37919",
+        "lon": "26.11722"
+    },
+    {
+        "stationName": "Criva h.",
+        "lat": "48.2675783",
+        "lon": "26.669946"
+    },
+    {
+        "stationName": "Piatra Olt",
+        "lat": "44.366535",
+        "lon": "24.2571329405405"
+    },
+    {
+        "stationName": "Balş",
+        "lat": "44.35616005",
+        "lon": "24.0881481497937"
+    },
+    {
+        "stationName": "Şopârliţa hc.",
+        "lat": "44.2766002",
+        "lon": "24.27436"
+    },
+    {
+        "stationName": "Vlăduleni",
+        "lat": "44.2619049",
+        "lon": "24.3234576"
+    },
+    {
+        "stationName": "Craiova",
+        "lat": "44.3190159",
+        "lon": "23.7965614"
+    },
+    {
+        "stationName": "Bordei hc.(900)",
+        "lat": "44.295861",
+        "lon": "23.818799"
+    },
+    {
+        "stationName": "Banu Mărăcine Hm.",
+        "lat": "44.411778",
+        "lon": "26.059164"
+    },
+    {
+        "stationName": "Craiova Triaj hc.",
+        "lat": "44.339877",
+        "lon": "23.7955709"
+    },
+    {
+        "stationName": "Cernele",
+        "lat": "44.33439",
+        "lon": "23.7443706"
+    },
+    {
+        "stationName": "Bordei hc.(913)",
+        "lat": "44.295861",
+        "lon": "23.818799"
+    },
+    {
+        "stationName": "Plaiu Vulcăneşti Hm.",
+        "lat": "44.35",
+        "lon": "23.95"
+    },
+    {
+        "stationName": "Jiu Hm.",
+        "lat": "44.3055659",
+        "lon": "23.845434"
+    },
+    {
+        "stationName": "Viaductu Cârcea h.",
+        "lat": "44.27098",
+        "lon": "23.885211"
+    },
+    {
+        "stationName": "Malu Mare Hm.",
+        "lat": "44.238797",
+        "lon": "23.855704"
+    },
+    {
+        "stationName": "Pasaju Coşoveni hc.",
+        "lat": "44.242881",
+        "lon": "23.928823"
+    },
+    {
+        "stationName": "Leu Hm.",
+        "lat": "44.2013039",
+        "lon": "24.0342541"
+    },
+    {
+        "stationName": "Ţărţăl h.",
+        "lat": "44.1999448",
+        "lon": "24.1154485"
+    },
+    {
+        "stationName": "Jianca",
+        "lat": "44.163492",
+        "lon": "24.132041"
+    },
+    {
+        "stationName": "Radomiru hc.",
+        "lat": "44.156137",
+        "lon": "24.162709"
+    },
+    {
+        "stationName": "Grozăveşti Hm.",
+        "lat": "44.147911",
+        "lon": "24.234841"
+    },
+    {
+        "stationName": "Cezieni h.",
+        "lat": "44.1828491",
+        "lon": "24.2686119"
+    },
+    {
+        "stationName": "Caracal",
+        "lat": "44.1122597",
+        "lon": "24.3455331"
+    },
+    {
+        "stationName": "Fărcaşele Hm.",
+        "lat": "44.143226",
+        "lon": "24.442753"
+    },
+    {
+        "stationName": "Stoeneşti h.",
+        "lat": "45.1220945",
+        "lon": "24.1640958"
+    },
+    {
+        "stationName": "Drăgăneşti Olt",
+        "lat": "44.1670552",
+        "lon": "24.5255879"
+    },
+    {
+        "stationName": "Dăneasa h.",
+        "lat": "44.140944",
+        "lon": "24.5609719"
+    },
+    {
+        "stationName": "Radomireşti Hm.",
+        "lat": "46.54605",
+        "lon": "26.99448"
+    },
+    {
+        "stationName": "Mihăeşti Hm.",
+        "lat": "44.126086",
+        "lon": "24.790127"
+    },
+    {
+        "stationName": "Măldăeni Hm.",
+        "lat": "44.126692",
+        "lon": "24.917694"
+    },
+    {
+        "stationName": "Roşiori Nord",
+        "lat": "44.1229508",
+        "lon": "24.980493"
+    },
+    {
+        "stationName": "Atârnaţi Hm.",
+        "lat": "45.68333",
+        "lon": "27.51667"
+    },
+    {
+        "stationName": "Roşiori Hm.",
+        "lat": "46.96384",
+        "lon": "26.82582"
+    },
+    {
+        "stationName": "Rădoieşti Hm.",
+        "lat": "44.146178",
+        "lon": "25.146229"
+    },
+    {
+        "stationName": "Vârtoapele hc.",
+        "lat": "44.1679178",
+        "lon": "25.2129871"
+    },
+    {
+        "stationName": "Olteni",
+        "lat": "45.1421433",
+        "lon": "24.3789437299356"
+    },
+    {
+        "stationName": "Gălăteni Hm.",
+        "lat": "44.215033",
+        "lon": "25.358689"
+    },
+    {
+        "stationName": "Ciolpani Hm.",
+        "lat": "44.243927",
+        "lon": "25.460662"
+    },
+    {
+        "stationName": "R. 1 Videle",
+        "lat": "44.274599",
+        "lon": "25.5277294"
+    },
+    {
+        "stationName": "Videle",
+        "lat": "44.27975125",
+        "lon": "25.5319585918532"
+    },
+    {
+        "stationName": "Zăvestreni Hm.",
+        "lat": "44.302779",
+        "lon": "25.592023"
+    },
+    {
+        "stationName": "R. 2 Videle",
+        "lat": "44.274599",
+        "lon": "25.5277294"
+    },
+    {
+        "stationName": "Angheleşti h.",
+        "lat": "46.2455229",
+        "lon": "23.0980532"
+    },
+    {
+        "stationName": "Vadu Lat Hm.",
+        "lat": "44.343078",
+        "lon": "25.701877"
+    },
+    {
+        "stationName": "Zorile h.",
+        "lat": "47.4563733",
+        "lon": "28.7394595"
+    },
+    {
+        "stationName": "Grădinari",
+        "lat": "44.56947585",
+        "lon": "24.269142921749"
+    },
+    {
+        "stationName": "Domneştii de Sus h.",
+        "lat": "44.406147",
+        "lon": "25.892533"
+    },
+    {
+        "stationName": "R. 1 Chiajna",
+        "lat": "44.4588774",
+        "lon": "25.9778979"
+    },
+    {
+        "stationName": "Chiajna",
+        "lat": "44.4588774",
+        "lon": "25.9778979"
+    },
+    {
+        "stationName": "Bucureştii Noi",
+        "lat": "44.4902616",
+        "lon": "26.0323010885202"
+    },
+    {
+        "stationName": "Bucureştii Noi Gr. C",
+        "lat": "44.4902616",
+        "lon": "26.0323010885202"
+    },
+    {
+        "stationName": "Bucureşti Nord Post 5",
+        "lat": "44.44666695",
+        "lon": "26.0738497185045"
+    },
+    {
+        "stationName": "Bucureşti Nord Gr.A",
+        "lat": "44.437361",
+        "lon": "26.063409"
+    },
+    {
+        "stationName": "Pajura Hm. (IIIK)",
+        "lat": "44.479721",
+        "lon": "26.048888"
+    },
+    {
+        "stationName": "Bucureşti Basarab h.",
+        "lat": "44.4451539",
+        "lon": "26.0614225"
+    },
+    {
+        "stationName": "Bucureşti Nord Gr.B",
+        "lat": "44.492224",
+        "lon": "26.126617"
+    },
+    {
+        "stationName": "Carpaţi h. (IIIK)",
+        "lat": "44.436501",
+        "lon": "26.095176"
+    },
+    {
+        "stationName": "Fălcoiu h.",
+        "lat": "44.22885",
+        "lon": "24.3723067"
+    },
+    {
+        "stationName": "Pârşcoveni hc.",
+        "lat": "44.2916633",
+        "lon": "24.2321079"
+    },
+    {
+        "stationName": "Mărăşeşti",
+        "lat": "45.8740808",
+        "lon": "27.2184171"
+    },
+    {
+        "stationName": "Mărăşeşti Ram. Putna",
+        "lat": "45.654501",
+        "lon": "25.572369"
+    },
+    {
+        "stationName": "Pădureni Putna Hm.",
+        "lat": "45.932037",
+        "lon": "27.215955"
+    },
+    {
+        "stationName": "Putna Seacă Hm.",
+        "lat": "45.805296",
+        "lon": "27.19639"
+    },
+    {
+        "stationName": "Focşani",
+        "lat": "45.697274",
+        "lon": "27.1856921"
+    },
+    {
+        "stationName": "Coteşti Hm.",
+        "lat": "45.645095",
+        "lon": "27.062133"
+    },
+    {
+        "stationName": "Gugeşti",
+        "lat": "46.763133",
+        "lon": "27.896608461729"
+    },
+    {
+        "stationName": "Sihlea Hm.",
+        "lat": "45.50358",
+        "lon": "27.113452"
+    },
+    {
+        "stationName": "Voetin h.",
+        "lat": "45.4434573",
+        "lon": "27.1449062"
+    },
+    {
+        "stationName": "Râmnicu Sărat",
+        "lat": "45.3854458",
+        "lon": "27.0417011"
+    },
+    {
+        "stationName": "Zoita Hm.",
+        "lat": "45.286149",
+        "lon": "27.0127636"
+    },
+    {
+        "stationName": "Boboc Hm.",
+        "lat": "45.2094997",
+        "lon": "26.9287514"
+    },
+    {
+        "stationName": "Buzău Ram. Boboc",
+        "lat": "45.2123",
+        "lon": "26.978104"
+    },
+    {
+        "stationName": "Buzău",
+        "lat": "45.26564025",
+        "lon": "26.7905800705891"
+    },
+    {
+        "stationName": "Buzău Ram. Gr. A",
+        "lat": "45.149645",
+        "lon": "26.817361"
+    },
+    {
+        "stationName": "Buzău Sud",
+        "lat": "45.1642092",
+        "lon": "26.8143242"
+    },
+    {
+        "stationName": "Băile Sarata Monteoru hcv.",
+        "lat": "45.101291",
+        "lon": "26.704099"
+    },
+    {
+        "stationName": "Ulmeni",
+        "lat": "45.08095735",
+        "lon": "26.6387471925287"
+    },
+    {
+        "stationName": "Clondiru hc.",
+        "lat": "45.0535579",
+        "lon": "26.6157176"
+    },
+    {
+        "stationName": "Săhăteni Hm.",
+        "lat": "45.035241",
+        "lon": "26.519734"
+    },
+    {
+        "stationName": "Mizil",
+        "lat": "45.0043589",
+        "lon": "26.4450817890162"
+    },
+    {
+        "stationName": "Inoteşti Hm.",
+        "lat": "44.971674",
+        "lon": "26.349138"
+    },
+    {
+        "stationName": "Tomşani hc.",
+        "lat": "45.124566",
+        "lon": "24.046965"
+    },
+    {
+        "stationName": "Cricov Hm.",
+        "lat": "45.08333",
+        "lon": "26.26667"
+    },
+    {
+        "stationName": "Valea Calugareasca Hm",
+        "lat": "44.946764",
+        "lon": "26.163349"
+    },
+    {
+        "stationName": "Ploieşti Est",
+        "lat": "44.9366996",
+        "lon": "26.0812272442033"
+    },
+    {
+        "stationName": "Ploieşti Sud",
+        "lat": "44.925291",
+        "lon": "26.0297567553559"
+    },
+    {
+        "stationName": "Ploieşti Triaj",
+        "lat": "44.90204135",
+        "lon": "26.015059455217"
+    },
+    {
+        "stationName": "Ploieşti Vest",
+        "lat": "44.9082934",
+        "lon": "25.9839383"
+    },
+    {
+        "stationName": "Crivina",
+        "lat": "44.5067555",
+        "lon": "22.5707478391634"
+    },
+    {
+        "stationName": "Prahova h.",
+        "lat": "44.9401379",
+        "lon": "26.0345618"
+    },
+    {
+        "stationName": "P. M. Ram. Ploieşti Tj.",
+        "lat": "44.960004",
+        "lon": "25.983631"
+    },
+    {
+        "stationName": "Periş",
+        "lat": "46.695473",
+        "lon": "24.6664709453738"
+    },
+    {
+        "stationName": "Scroviştea h.",
+        "lat": "44.72111",
+        "lon": "26.02397"
+    },
+    {
+        "stationName": "Buftea",
+        "lat": "44.5598644",
+        "lon": "25.9498677"
+    },
+    {
+        "stationName": "Dârza h.",
+        "lat": "44.6008416",
+        "lon": "25.9485055"
+    },
+    {
+        "stationName": "P. mac. R1 Buciumeni",
+        "lat": "47.45982",
+        "lon": "26.302639"
+    },
+    {
+        "stationName": "Chitila",
+        "lat": "44.5059871",
+        "lon": "25.987703"
+    },
+    {
+        "stationName": "P. mac. R3 Buciumeni",
+        "lat": "47.45982",
+        "lon": "26.302639"
+    },
+    {
+        "stationName": "Depoul Buc.Triaj h. (IIIK)",
+        "lat": "44.491592",
+        "lon": "26.002697"
+    },
+    {
+        "stationName": "Bucureşti Triaj hc.",
+        "lat": "44.4727278",
+        "lon": "26.0207841"
+    },
+    {
+        "stationName": "Ram. Săbăreni",
+        "lat": "44.508377",
+        "lon": "25.88015"
+    },
+    {
+        "stationName": "Ram. Pajura",
+        "lat": "44.479721",
+        "lon": "26.048888"
+    },
+    {
+        "stationName": "Depoul Buc.Triaj h.(300)",
+        "lat": "44.421576",
+        "lon": "26.131729"
+    },
+    {
+        "stationName": "Vatra Dornei",
+        "lat": "47.3469264",
+        "lon": "25.3557638"
+    },
+    {
+        "stationName": "Vatra Dornei Băi hc.",
+        "lat": "47.346203",
+        "lon": "25.356865"
+    },
+    {
+        "stationName": "Argestru Hm.",
+        "lat": "47.387778",
+        "lon": "25.337276"
+    },
+    {
+        "stationName": "Roşu Hm.",
+        "lat": "44.4790694",
+        "lon": "26.0235188"
+    },
+    {
+        "stationName": "Dorna Candrenilor h.",
+        "lat": "47.3560216",
+        "lon": "25.2692097"
+    },
+    {
+        "stationName": "Floreni",
+        "lat": "46.9380021",
+        "lon": "28.9888291"
+    },
+    {
+        "stationName": "Ramificaţia Floreni",
+        "lat": "45.043587",
+        "lon": "23.285179"
+    },
+    {
+        "stationName": "Grădiniţa",
+        "lat": "46.588223",
+        "lon": "29.995955"
+    },
+    {
+        "stationName": "Silhoasa Hm.",
+        "lat": "47.347422",
+        "lon": "25.011187"
+    },
+    {
+        "stationName": "Lunca Ilvei",
+        "lat": "47.3656835",
+        "lon": "24.9558927308561"
+    },
+    {
+        "stationName": "Ilva Mare Hm.",
+        "lat": "47.386046",
+        "lon": "24.851631"
+    },
+    {
+        "stationName": "Măgura Ilvei Hm.",
+        "lat": "47.37462",
+        "lon": "24.80439"
+    },
+    {
+        "stationName": "Poiana Ilvei",
+        "lat": "47.3569264",
+        "lon": "24.7406792"
+    },
+    {
+        "stationName": "Leşu Ilvei Hm.",
+        "lat": "47.316315",
+        "lon": "24.691954"
+    },
+    {
+        "stationName": "Strâmba h.",
+        "lat": "47.5461495",
+        "lon": "24.4369846"
+    },
+    {
+        "stationName": "Ilva Mică",
+        "lat": "47.3128311",
+        "lon": "24.6504841"
+    },
+    {
+        "stationName": "Podereia Feldrului h.",
+        "lat": "47.282126",
+        "lon": "24.615746"
+    },
+    {
+        "stationName": "Nepos h.",
+        "lat": "47.2775934",
+        "lon": "24.5330246"
+    },
+    {
+        "stationName": "Rebrişoara Hm.",
+        "lat": "47.28557",
+        "lon": "24.454147"
+    },
+    {
+        "stationName": "Năsăud",
+        "lat": "47.2866323",
+        "lon": "24.4090078272227"
+    },
+    {
+        "stationName": "Năsăud h.",
+        "lat": "47.2828598",
+        "lon": "24.4108077"
+    },
+    {
+        "stationName": "Salva",
+        "lat": "47.3084435",
+        "lon": "24.3554908627034"
+    },
+    {
+        "stationName": "Mititei h.",
+        "lat": "47.2835426",
+        "lon": "24.3172623"
+    },
+    {
+        "stationName": "Coşbuc Hm.",
+        "lat": "47.367512",
+        "lon": "24.39444"
+    },
+    {
+        "stationName": "Nimigea Hm.",
+        "lat": "47.247463",
+        "lon": "24.298721"
+    },
+    {
+        "stationName": "Nimigea h.",
+        "lat": "47.233333",
+        "lon": "24.278461"
+    },
+    {
+        "stationName": "Mogoşeni Hm.",
+        "lat": "47.21391",
+        "lon": "24.25421"
+    },
+    {
+        "stationName": "Cociu h.",
+        "lat": "47.1966924",
+        "lon": "24.2305222"
+    },
+    {
+        "stationName": "Beclean pe Someş",
+        "lat": "47.1769585",
+        "lon": "24.1820328"
+    },
+    {
+        "stationName": "Şintereag Hm.",
+        "lat": "47.18333",
+        "lon": "24.3"
+    },
+    {
+        "stationName": "Coldău Hm.",
+        "lat": "47.181193",
+        "lon": "24.135976"
+    },
+    {
+        "stationName": "Caila hc.",
+        "lat": "47.1430949",
+        "lon": "24.3657094"
+    },
+    {
+        "stationName": "Măgheruş Şieu Hm.",
+        "lat": "47.08333",
+        "lon": "24.38333"
+    },
+    {
+        "stationName": "Sfântu h.",
+        "lat": "46.145485",
+        "lon": "23.517059"
+    },
+    {
+        "stationName": "Arcalia hc.",
+        "lat": "47.0871919",
+        "lon": "24.3558259"
+    },
+    {
+        "stationName": "Sărăţel Hm.",
+        "lat": "45.17316",
+        "lon": "26.08967"
+    },
+    {
+        "stationName": "Sărata h.",
+        "lat": "47.0558246",
+        "lon": "23.4963189"
+    },
+    {
+        "stationName": "Mărişelu Hm.",
+        "lat": "47.01667",
+        "lon": "24.51667"
+    },
+    {
+        "stationName": "Domneşti pe Şieu h.",
+        "lat": "47.042873",
+        "lon": "24.470486"
+    },
+    {
+        "stationName": "Bistriţa Fabrici h.",
+        "lat": "47.127604",
+        "lon": "24.476797"
+    },
+    {
+        "stationName": "Bistriţa Nord",
+        "lat": "47.1320499",
+        "lon": "24.4824991"
+    },
+    {
+        "stationName": "Viişoara h.",
+        "lat": "46.2961261",
+        "lon": "24.5990595"
+    },
+    {
+        "stationName": "Valea lui Mihai",
+        "lat": "47.5171304",
+        "lon": "22.1348938"
+    },
+    {
+        "stationName": "Şilindru Hm.",
+        "lat": "47.435764",
+        "lon": "22.044188"
+    },
+    {
+        "stationName": "Sanislău Hm.",
+        "lat": "47.639927",
+        "lon": "22.320444"
+    },
+    {
+        "stationName": "Resighea h.",
+        "lat": "47.5967936",
+        "lon": "22.2956379"
+    },
+    {
+        "stationName": "Carei",
+        "lat": "47.6815304",
+        "lon": "22.4687163"
+    },
+    {
+        "stationName": "Domăneşti h.",
+        "lat": "47.7107082",
+        "lon": "22.5897513"
+    },
+    {
+        "stationName": "Tiream h.",
+        "lat": "47.6137847",
+        "lon": "22.4728058"
+    },
+    {
+        "stationName": "Gen. Gh. Avramescu Hm.",
+        "lat": "47.699587",
+        "lon": "22.679662"
+    },
+    {
+        "stationName": "Tăşnad",
+        "lat": "47.4780916",
+        "lon": "22.5848552"
+    },
+    {
+        "stationName": "Moftin h.",
+        "lat": "47.686792",
+        "lon": "22.597983"
+    },
+    {
+        "stationName": "Sătmărel h.",
+        "lat": "47.7381438",
+        "lon": "22.7942026"
+    },
+    {
+        "stationName": "Satu Mare Sud",
+        "lat": "47.7720153",
+        "lon": "22.8703193"
+    },
+    {
+        "stationName": "Satu Mare",
+        "lat": "47.73319845",
+        "lon": "22.7655419954237"
+    },
+    {
+        "stationName": "Ram. Botiz h.",
+        "lat": "47.835616",
+        "lon": "22.920181"
+    },
+    {
+        "stationName": "Botiz Hm.",
+        "lat": "47.828163",
+        "lon": "22.948649"
+    },
+    {
+        "stationName": "Oradea",
+        "lat": "47.0549163",
+        "lon": "21.9285231"
+    },
+    {
+        "stationName": "Episcopia Bihor",
+        "lat": "47.09930135",
+        "lon": "21.8984026827934"
+    },
+    {
+        "stationName": "Oradea Est",
+        "lat": "47.0431824",
+        "lon": "21.9621033"
+    },
+    {
+        "stationName": "Oradea Vest Hm.",
+        "lat": "47.059619",
+        "lon": "21.892773"
+    },
+    {
+        "stationName": "Diosig Hm.",
+        "lat": "47.306227",
+        "lon": "21.996534"
+    },
+    {
+        "stationName": "Tămăşeu h.",
+        "lat": "47.2211608",
+        "lon": "21.9275998"
+    },
+    {
+        "stationName": "Ram. Târguşor Bihor",
+        "lat": "47.375044",
+        "lon": "22.169473"
+    },
+    {
+        "stationName": "Roşiori Bihor h.",
+        "lat": "47.2567721",
+        "lon": "21.9520896"
+    },
+    {
+        "stationName": "Săcuieni Bihor",
+        "lat": "47.3632782",
+        "lon": "22.0711761"
+    },
+    {
+        "stationName": "Micula Hm.",
+        "lat": "47.899906",
+        "lon": "22.963025"
+    },
+    {
+        "stationName": "Porumbeşti Hm.",
+        "lat": "47.983414",
+        "lon": "22.981117"
+    },
+    {
+        "stationName": "Halmeu",
+        "lat": "47.9802091",
+        "lon": "23.0074818699865"
+    },
+    {
+        "stationName": "Jibou",
+        "lat": "47.260376",
+        "lon": "23.2578878"
+    },
+    {
+        "stationName": "Cuceu Sălaj h.",
+        "lat": "47.2666102",
+        "lon": "23.1948304"
+    },
+    {
+        "stationName": "Someş Odorhei Hm.",
+        "lat": "47.321933",
+        "lon": "23.261671"
+    },
+    {
+        "stationName": "Mirşid Hm.",
+        "lat": "47.23333",
+        "lon": "23.13333"
+    },
+    {
+        "stationName": "Poptelec h.",
+        "lat": "45.293315",
+        "lon": "21.878188"
+    },
+    {
+        "stationName": "Zalău Nord",
+        "lat": "47.2207387",
+        "lon": "23.040964"
+    },
+    {
+        "stationName": "Guruslău h.",
+        "lat": "47.2781297",
+        "lon": "22.9832402"
+    },
+    {
+        "stationName": "Bocşa Sălaj h.",
+        "lat": "47.2978248",
+        "lon": "22.9166746"
+    },
+    {
+        "stationName": "Sărmăşag",
+        "lat": "47.3451444",
+        "lon": "22.8320051"
+    },
+    {
+        "stationName": "Câmpia Sălaj h.",
+        "lat": "47.3149923",
+        "lon": "22.887893"
+    },
+    {
+        "stationName": "Sărmăşag h.",
+        "lat": "47.3451444",
+        "lon": "22.8320051"
+    },
+    {
+        "stationName": "Acâş Hm.",
+        "lat": "47.534757",
+        "lon": "22.779458"
+    },
+    {
+        "stationName": "Cluj Napoca",
+        "lat": "46.769379",
+        "lon": "23.5899542"
+    },
+    {
+        "stationName": "Cluj Napoca Est",
+        "lat": "46.7789859",
+        "lon": "23.670864"
+    },
+    {
+        "stationName": "Baciu Triaj Hm.",
+        "lat": "46.7871242",
+        "lon": "23.5273753"
+    },
+    {
+        "stationName": "Dezmir h.",
+        "lat": "46.76893915",
+        "lon": "23.7228291130744"
+    },
+    {
+        "stationName": "Apahida",
+        "lat": "46.8021725",
+        "lon": "23.7546388"
+    },
+    {
+        "stationName": "Clujana h.",
+        "lat": "46.786359",
+        "lon": "23.60601"
+    },
+    {
+        "stationName": "Ram. Cojocna",
+        "lat": "46.749604",
+        "lon": "23.840383"
+    },
+    {
+        "stationName": "Apahida h.",
+        "lat": "46.8021725",
+        "lon": "23.7546388"
+    },
+    {
+        "stationName": "Jucu de Jos hc.",
+        "lat": "46.86667",
+        "lon": "23.8"
+    },
+    {
+        "stationName": "Răscruci h.",
+        "lat": "46.9056905",
+        "lon": "23.7685987"
+    },
+    {
+        "stationName": "Bonţida Hm.",
+        "lat": "46.909454",
+        "lon": "23.816174"
+    },
+    {
+        "stationName": "Fundătura h.",
+        "lat": "46.5432897",
+        "lon": "24.0435741"
+    },
+    {
+        "stationName": "Iclod Hm.",
+        "lat": "46.983909",
+        "lon": "23.807518"
+    },
+    {
+        "stationName": "Livada Someş h.",
+        "lat": "47.006392",
+        "lon": "23.8461"
+    },
+    {
+        "stationName": "Gherla",
+        "lat": "47.03198445",
+        "lon": "23.9119435315038"
+    },
+    {
+        "stationName": "Dej Călători",
+        "lat": "47.1415273",
+        "lon": "23.8943143"
+    },
+    {
+        "stationName": "Buneşti h.",
+        "lat": "46.106675",
+        "lon": "25.0597538"
+    },
+    {
+        "stationName": "Călimăneşti Vrancea h.",
+        "lat": "45.9614892",
+        "lon": "27.2160411"
+    },
+    {
+        "stationName": "Pufeşti Hm.",
+        "lat": "45.999088",
+        "lon": "27.209007"
+    },
+    {
+        "stationName": "Domneşti Târg h.",
+        "lat": "46.0274981",
+        "lon": "27.1883663"
+    },
+    {
+        "stationName": "Adjud",
+        "lat": "46.1005122",
+        "lon": "27.1810469"
+    },
+    {
+        "stationName": "Urecheşti Hm.",
+        "lat": "46.131961",
+        "lon": "27.090486"
+    },
+    {
+        "stationName": "Sascut Hm.",
+        "lat": "46.207939",
+        "lon": "27.105837"
+    },
+    {
+        "stationName": "Adjudu Vechi h.",
+        "lat": "46.1348696",
+        "lon": "27.1887631"
+    },
+    {
+        "stationName": "G-ral. E. Grigorescu Hm.",
+        "lat": "46.770735",
+        "lon": "23.554924"
+    },
+    {
+        "stationName": "Cosmeşti Hm.",
+        "lat": "44.243927",
+        "lon": "25.460662"
+    },
+    {
+        "stationName": "Tecuci Ram. Cosmeşti",
+        "lat": "44.343078",
+        "lon": "24.857836"
+    },
+    {
+        "stationName": "Tecuci",
+        "lat": "44.343814",
+        "lon": "24.8573673068063"
+    },
+    {
+        "stationName": "Tecuci Nord hc.(605)",
+        "lat": "45.847192",
+        "lon": "27.411364"
+    },
+    {
+        "stationName": "Malul Alb h.",
+        "lat": "45.126323",
+        "lon": "24.35067"
+    },
+    {
+        "stationName": "Barcea",
+        "lat": "45.7502061",
+        "lon": "27.4759522"
+    },
+    {
+        "stationName": "Tecuci Nord hc.(600)",
+        "lat": "45.847192",
+        "lon": "27.411364"
+    },
+    {
+        "stationName": "Umbrăreşti h.",
+        "lat": "45.7095438",
+        "lon": "27.4996977"
+    },
+    {
+        "stationName": "Iveşti Hm.",
+        "lat": "46.192202",
+        "lon": "27.536233"
+    },
+    {
+        "stationName": "Buceşti h.",
+        "lat": "45.6528722",
+        "lon": "27.5286666"
+    },
+    {
+        "stationName": "Lieşti",
+        "lat": "45.6160115",
+        "lon": "27.5442181"
+    },
+    {
+        "stationName": "Şerbăneşti h.",
+        "lat": "44.3284669",
+        "lon": "24.6935611"
+    },
+    {
+        "stationName": "Hanu Conachi Hm.",
+        "lat": "45.593506",
+        "lon": "27.572974"
+    },
+    {
+        "stationName": "Tudor Vladimirescu hc.",
+        "lat": "45.4454913",
+        "lon": "23.3821916"
+    },
+    {
+        "stationName": "Independenţa Hm.",
+        "lat": "44.275439",
+        "lon": "27.161322"
+    },
+    {
+        "stationName": "Vameş h.",
+        "lat": "45.5311362",
+        "lon": "27.7071336"
+    },
+    {
+        "stationName": "Piscu h.",
+        "lat": "45.5015556",
+        "lon": "27.7283987"
+    },
+    {
+        "stationName": "Vasile Alecsandri h.",
+        "lat": "45.4515186",
+        "lon": "27.7980148"
+    },
+    {
+        "stationName": "Şendreni Hm.",
+        "lat": "45.413284",
+        "lon": "27.923696"
+    },
+    {
+        "stationName": "Braniştea h.",
+        "lat": "47.1720256",
+        "lon": "24.0661497"
+    },
+    {
+        "stationName": "Şerbeştii Vechi h.",
+        "lat": "45.4215623",
+        "lon": "27.8797055"
+    },
+    {
+        "stationName": "Barboşi Triaj h.",
+        "lat": "45.4030817",
+        "lon": "27.9653959"
+    },
+    {
+        "stationName": "Ram. Barbosi Triaj Post 14",
+        "lat": "45.403082",
+        "lon": "27.965396"
+    },
+    {
+        "stationName": "Ram. Barboşi Triaj",
+        "lat": "45.403082",
+        "lon": "27.965396"
+    },
+    {
+        "stationName": "Barboşi",
+        "lat": "46.5808719",
+        "lon": "24.1819349"
+    },
+    {
+        "stationName": "Fileşti Hm.",
+        "lat": "45.45",
+        "lon": "27.98333"
+    },
+    {
+        "stationName": "Zagna Vădeni h.",
+        "lat": "45.379467",
+        "lon": "27.962619"
+    },
+    {
+        "stationName": "Vădeni Hm.",
+        "lat": "45.370728",
+        "lon": "27.923546"
+    },
+    {
+        "stationName": "Ramificaţia Tunel",
+        "lat": "45.043587",
+        "lon": "23.285179"
+    },
+    {
+        "stationName": "Galaţi",
+        "lat": "45.4338215",
+        "lon": "28.0549395"
+    },
+    {
+        "stationName": "Drobeta Tr. Severin",
+        "lat": "44.6257835",
+        "lon": "22.6531975"
+    },
+    {
+        "stationName": "Drobeta Tr. Severin Mf.",
+        "lat": "44.608454",
+        "lon": "22.732179"
+    },
+    {
+        "stationName": "Valea Albă Hm.",
+        "lat": "45.416167",
+        "lon": "25.539881"
+    },
+    {
+        "stationName": "Ergheviţa h.",
+        "lat": "44.6077222",
+        "lon": "22.7852191"
+    },
+    {
+        "stationName": "Gârniţa Hm.",
+        "lat": "44.58987",
+        "lon": "22.85446"
+    },
+    {
+        "stationName": "Prunişor Hm.",
+        "lat": "46.41927",
+        "lon": "22.1219"
+    },
+    {
+        "stationName": "Igiroasa Hm.",
+        "lat": "44.588855",
+        "lon": "22.975152"
+    },
+    {
+        "stationName": "Tâmna",
+        "lat": "44.5713364",
+        "lon": "23.0149383"
+    },
+    {
+        "stationName": "Ciochiuţa Hm.",
+        "lat": "44.604034",
+        "lon": "23.116053"
+    },
+    {
+        "stationName": "Strehaia hc.",
+        "lat": "44.6230405",
+        "lon": "23.1957462"
+    },
+    {
+        "stationName": "Strehaia",
+        "lat": "44.6230405",
+        "lon": "23.1957462"
+    },
+    {
+        "stationName": "Butoieşti Hm.",
+        "lat": "44.58333",
+        "lon": "23.36667"
+    },
+    {
+        "stationName": "Lunca Banului h.",
+        "lat": "44.6141639",
+        "lon": "23.2451756"
+    },
+    {
+        "stationName": "Gura Motrului Hm.",
+        "lat": "44.55155",
+        "lon": "23.44467"
+    },
+    {
+        "stationName": "R. 2 Turceni",
+        "lat": "44.6812584",
+        "lon": "23.3714732"
+    },
+    {
+        "stationName": "Filiaşi",
+        "lat": "44.5525105",
+        "lon": "23.5212984341879"
+    },
+    {
+        "stationName": "Răcari Hm.",
+        "lat": "44.623553",
+        "lon": "25.741199"
+    },
+    {
+        "stationName": "Ţânţăreni Hm.",
+        "lat": "44.9547257",
+        "lon": "25.9990279"
+    },
+    {
+        "stationName": "R. 1 Turceni",
+        "lat": "44.6812584",
+        "lon": "23.3714732"
+    },
+    {
+        "stationName": "Coţofeni Hm.",
+        "lat": "44.428409",
+        "lon": "23.622171"
+    },
+    {
+        "stationName": "Brădeşti h.",
+        "lat": "46.3419884",
+        "lon": "25.3423371"
+    },
+    {
+        "stationName": "Işalniţa",
+        "lat": "44.3946185",
+        "lon": "23.7356691689492"
+    },
+    {
+        "stationName": "Almăj h.",
+        "lat": "44.4469065",
+        "lon": "23.7069312"
+    },
+    {
+        "stationName": "Işalniţa hc.",
+        "lat": "44.3946512",
+        "lon": "23.7332513"
+    },
+    {
+        "stationName": "Tiborszallas",
+        "lat": "47.8149251",
+        "lon": "22.4079242"
+    },
+    {
+        "stationName": "Hotoan h.",
+        "lat": "47.556285",
+        "lon": "22.4886298"
+    },
+    {
+        "stationName": "Santău h.",
+        "lat": "47.5103406",
+        "lon": "22.5109948"
+    },
+    {
+        "stationName": "Săcăşeni h.",
+        "lat": "47.479955",
+        "lon": "22.6856373"
+    },
+    {
+        "stationName": "Supur Haltă hc.",
+        "lat": "47.464844",
+        "lon": "22.794219"
+    },
+    {
+        "stationName": "Giorocuţa h.",
+        "lat": "47.4322568",
+        "lon": "22.7976937"
+    },
+    {
+        "stationName": "Derşida h.",
+        "lat": "47.3881025",
+        "lon": "22.8016994"
+    },
+    {
+        "stationName": "Odoreu h.",
+        "lat": "47.7969878",
+        "lon": "22.9936732"
+    },
+    {
+        "stationName": "Medieşu Aurit Hm.",
+        "lat": "47.787982",
+        "lon": "23.131591"
+    },
+    {
+        "stationName": "Seini",
+        "lat": "47.7484996",
+        "lon": "23.2831939"
+    },
+    {
+        "stationName": "Timişoara Nord",
+        "lat": "45.750774",
+        "lon": "21.2073285001529"
+    },
+    {
+        "stationName": "Ram. Pav. C.F.R.",
+        "lat": "45.659743",
+        "lon": "25.632107"
+    },
+    {
+        "stationName": "Timişoara Est",
+        "lat": "45.7667051",
+        "lon": "21.2444722357653"
+    },
+    {
+        "stationName": "Ronaţ Triaj Cab 1 h",
+        "lat": "45.770991",
+        "lon": "21.175602"
+    },
+    {
+        "stationName": "Ronaţ Triaj Gr. D",
+        "lat": "45.7940292",
+        "lon": "21.1673701"
+    },
+    {
+        "stationName": "Ram. Pav. C.F.R",
+        "lat": "45.659743",
+        "lon": "25.632107"
+    },
+    {
+        "stationName": "Ram. Ronat Triaj",
+        "lat": "45.785227",
+        "lon": "21.170311"
+    },
+    {
+        "stationName": "Ram. 2 Jimbolia",
+        "lat": "45.768317",
+        "lon": "21.268359"
+    },
+    {
+        "stationName": "Ronaţ Triaj Cab.1 h.",
+        "lat": "45.785227",
+        "lon": "21.170311"
+    },
+    {
+        "stationName": "Ronaţ Triaj h.",
+        "lat": "45.785227",
+        "lon": "21.170311"
+    },
+    {
+        "stationName": "Ronaţ Triaj h",
+        "lat": "45.785227",
+        "lon": "21.170311"
+    },
+    {
+        "stationName": "Sânandrei Hm.",
+        "lat": "45.853604",
+        "lon": "21.166786"
+    },
+    {
+        "stationName": "Băile Călacea",
+        "lat": "45.9115825",
+        "lon": "21.1701086"
+    },
+    {
+        "stationName": "Orţişoara",
+        "lat": "45.9636056",
+        "lon": "21.1983354"
+    },
+    {
+        "stationName": "Valea Viilor Hm.",
+        "lat": "47.1",
+        "lon": "24.2"
+    },
+    {
+        "stationName": "Aradu Nou",
+        "lat": "46.14678",
+        "lon": "21.32429"
+    },
+    {
+        "stationName": "Ram. Glogovăţ",
+        "lat": "46.176544",
+        "lon": "21.406072"
+    },
+    {
+        "stationName": "Arad",
+        "lat": "46.29366545",
+        "lon": "21.8937624475094"
+    },
+    {
+        "stationName": "Şofronea",
+        "lat": "46.2784385",
+        "lon": "21.3155564"
+    },
+    {
+        "stationName": "Glogovăţ",
+        "lat": "46.1638285",
+        "lon": "21.4063807"
+    },
+    {
+        "stationName": "Utvinişu Nou",
+        "lat": "46.2397004",
+        "lon": "21.3547541"
+    },
+    {
+        "stationName": "Cornăţel Moldova h.",
+        "lat": "46.132334",
+        "lon": "27.045623"
+    },
+    {
+        "stationName": "Căiuţi Hm.",
+        "lat": "46.157488",
+        "lon": "26.919703"
+    },
+    {
+        "stationName": "Borzeşti Bacău",
+        "lat": "46.2216667",
+        "lon": "26.8552172"
+    },
+    {
+        "stationName": "Borzeşti Bacău h.",
+        "lat": "46.2421343",
+        "lon": "26.8205295"
+    },
+    {
+        "stationName": "Oneşti",
+        "lat": "46.25165",
+        "lon": "26.7893824182569"
+    },
+    {
+        "stationName": "Trotuş h.",
+        "lat": "46.244194",
+        "lon": "26.761948"
+    },
+    {
+        "stationName": "Viişoara h",
+        "lat": "46.2961261",
+        "lon": "24.5990595"
+    },
+    {
+        "stationName": "Târgu Ocna Hm.",
+        "lat": "46.272757",
+        "lon": "26.641119"
+    },
+    {
+        "stationName": "Saline hc.",
+        "lat": "46.282435",
+        "lon": "26.606986"
+    },
+    {
+        "stationName": "Cireşoaia h.",
+        "lat": "47.1425571",
+        "lon": "24.0598275"
+    },
+    {
+        "stationName": "Dofteana Bacău",
+        "lat": "46.3314296",
+        "lon": "26.5342414"
+    },
+    {
+        "stationName": "Valea Uzului Haltă h.",
+        "lat": "46.370468",
+        "lon": "26.500467"
+    },
+    {
+        "stationName": "Valea Uzului Hm.",
+        "lat": "46.34299",
+        "lon": "26.25278"
+    },
+    {
+        "stationName": "Comăneşti",
+        "lat": "44.937621",
+        "lon": "22.8680923133662"
+    },
+    {
+        "stationName": "Asău Hm.",
+        "lat": "46.435718",
+        "lon": "26.400525"
+    },
+    {
+        "stationName": "Caraliţa h.",
+        "lat": "46.444407",
+        "lon": "26.341875"
+    },
+    {
+        "stationName": "Goioasa Hm.",
+        "lat": "46.44951",
+        "lon": "26.291962"
+    },
+    {
+        "stationName": "Simbrea Hm.",
+        "lat": "46.48333",
+        "lon": "26.21667"
+    },
+    {
+        "stationName": "Brusturoasa hc.",
+        "lat": "46.5217547",
+        "lon": "26.1784401"
+    },
+    {
+        "stationName": "Ghimeş",
+        "lat": "46.5676022",
+        "lon": "26.0890098"
+    },
+    {
+        "stationName": "Bolovăniş h.",
+        "lat": "46.616365",
+        "lon": "26.0516911"
+    },
+    {
+        "stationName": "Lunca de Mijloc Hm.",
+        "lat": "46.578518",
+        "lon": "25.99584"
+    },
+    {
+        "stationName": "Tarcău h.",
+        "lat": "46.890929",
+        "lon": "26.1309383"
+    },
+    {
+        "stationName": "Utuşoiu h.",
+        "lat": "46.535162",
+        "lon": "25.9313172"
+    },
+    {
+        "stationName": "Livezi Ciuc",
+        "lat": "46.5261283",
+        "lon": "25.8898377"
+    },
+    {
+        "stationName": "Caracău h.",
+        "lat": "46.5299016",
+        "lon": "25.8591131"
+    },
+    {
+        "stationName": "Nădejdea Hm.",
+        "lat": "46.5131058",
+        "lon": "25.832044"
+    },
+    {
+        "stationName": "Nădejdea Sat h.",
+        "lat": "46.4892317",
+        "lon": "25.8280259"
+    },
+    {
+        "stationName": "Mihăileni Hm.",
+        "lat": "46.4701928",
+        "lon": "25.8216666"
+    },
+    {
+        "stationName": "Siculeni",
+        "lat": "46.4360992",
+        "lon": "25.7590211"
+    },
+    {
+        "stationName": "Miercurea Ciuc",
+        "lat": "46.3614042",
+        "lon": "25.8026675"
+    },
+    {
+        "stationName": "Mădăraş Ciuc Hm.",
+        "lat": "46.4878767",
+        "lon": "25.7419889734447"
+    },
+    {
+        "stationName": "Racu h.",
+        "lat": "46.4517753",
+        "lon": "25.7605998"
+    },
+    {
+        "stationName": "Sâncrăieni Hm.",
+        "lat": "46.307568",
+        "lon": "25.840882"
+    },
+    {
+        "stationName": "Huedin",
+        "lat": "46.8629674",
+        "lon": "23.020427448203"
+    },
+    {
+        "stationName": "Jebuc h.",
+        "lat": "46.866978",
+        "lon": "23.096019"
+    },
+    {
+        "stationName": "Brăişoru Hm.",
+        "lat": "46.85739",
+        "lon": "22.95717"
+    },
+    {
+        "stationName": "Gălăşeni h.",
+        "lat": "46.9853356",
+        "lon": "22.4260452"
+    },
+    {
+        "stationName": "Aghireş",
+        "lat": "47.1616399",
+        "lon": "23.0176356"
+    },
+    {
+        "stationName": "Aghireş h.",
+        "lat": "47.1616399",
+        "lon": "23.0176356"
+    },
+    {
+        "stationName": "Dorolţu h.",
+        "lat": "46.8560407",
+        "lon": "23.2951674"
+    },
+    {
+        "stationName": "Gârbău Hm.",
+        "lat": "46.83305",
+        "lon": "23.3524"
+    },
+    {
+        "stationName": "Nădăşel h.",
+        "lat": "46.8",
+        "lon": "23.43333"
+    },
+    {
+        "stationName": "Rădaia h.",
+        "lat": "46.8015425",
+        "lon": "23.4643435"
+    },
+    {
+        "stationName": "Suceag h.",
+        "lat": "46.782606",
+        "lon": "23.461231"
+    },
+    {
+        "stationName": "Bologa h.",
+        "lat": "46.8824542",
+        "lon": "22.8788928"
+    },
+    {
+        "stationName": "Poieni",
+        "lat": "46.348111",
+        "lon": "22.910210387635"
+    },
+    {
+        "stationName": "Ciucea Hm.",
+        "lat": "46.954604",
+        "lon": "22.808816"
+    },
+    {
+        "stationName": "Valea Drăganului h.",
+        "lat": "46.9028476",
+        "lon": "22.83146"
+    },
+    {
+        "stationName": "Oradea Est Triaj h.",
+        "lat": "47.03496",
+        "lon": "21.970289"
+    },
+    {
+        "stationName": "Ram. Oradea Est Gr. A",
+        "lat": "47.05561",
+        "lon": "21.91494"
+    },
+    {
+        "stationName": "Oşorhei Hm.",
+        "lat": "47.03333",
+        "lon": "22.05"
+    },
+    {
+        "stationName": "Săcădat h.",
+        "lat": "47.0441185",
+        "lon": "22.134894"
+    },
+    {
+        "stationName": "Tileagd",
+        "lat": "47.0739247",
+        "lon": "22.2006925"
+    },
+    {
+        "stationName": "Săbolciu h.",
+        "lat": "47.0744166",
+        "lon": "22.1526222"
+    },
+    {
+        "stationName": "Telechiu Hm.",
+        "lat": "47.05538",
+        "lon": "22.27466"
+    },
+    {
+        "stationName": "Ţeţchea hc.",
+        "lat": "47.0459392",
+        "lon": "22.3248478"
+    },
+    {
+        "stationName": "Aleşd",
+        "lat": "47.0596749",
+        "lon": "22.3973751"
+    },
+    {
+        "stationName": "Aleşd h.",
+        "lat": "47.0596749",
+        "lon": "22.3973751"
+    },
+    {
+        "stationName": "Vadu Crişului Hm.",
+        "lat": "46.970413",
+        "lon": "22.512359"
+    },
+    {
+        "stationName": "Vadu Crişului h.",
+        "lat": "46.9860493",
+        "lon": "22.5169342"
+    },
+    {
+        "stationName": "Şuncuiuş Hm.",
+        "lat": "46.938722",
+        "lon": "22.526646"
+    },
+    {
+        "stationName": "Peştera h.",
+        "lat": "44.1842829",
+        "lon": "28.1269829"
+    },
+    {
+        "stationName": "Bălnaca h.",
+        "lat": "46.9421471",
+        "lon": "22.5693433"
+    },
+    {
+        "stationName": "Bratca",
+        "lat": "46.9284724",
+        "lon": "22.6027569"
+    },
+    {
+        "stationName": "Stâna de Vale h.",
+        "lat": "46.6905421",
+        "lon": "22.6211025"
+    },
+    {
+        "stationName": "Butan h.",
+        "lat": "47.0163566",
+        "lon": "22.4370009"
+    },
+    {
+        "stationName": "Bulz Hm.",
+        "lat": "44.53333",
+        "lon": "23.88333"
+    },
+    {
+        "stationName": "Deva",
+        "lat": "45.8772755",
+        "lon": "22.9025412729826"
+    },
+    {
+        "stationName": "Săuleşti h.",
+        "lat": "45.8639747",
+        "lon": "22.9898728"
+    },
+    {
+        "stationName": "Mintia",
+        "lat": "45.919038",
+        "lon": "22.8504267987635"
+    },
+    {
+        "stationName": "Simeria",
+        "lat": "45.848795",
+        "lon": "23.0128211"
+    },
+    {
+        "stationName": "Simeria Triaj",
+        "lat": "45.8280952",
+        "lon": "23.0132346"
+    },
+    {
+        "stationName": "Ram. Simeria",
+        "lat": "45.855411",
+        "lon": "25.740745"
+    },
+    {
+        "stationName": "Semnal Simeria",
+        "lat": "44.446612",
+        "lon": "26.148466"
+    },
+    {
+        "stationName": "Mintia h.",
+        "lat": "45.9233599",
+        "lon": "22.8482887"
+    },
+    {
+        "stationName": "Brănişca Hm.",
+        "lat": "45.91667",
+        "lon": "22.78333"
+    },
+    {
+        "stationName": "Veţel h.",
+        "lat": "45.9000224",
+        "lon": "22.7971066"
+    },
+    {
+        "stationName": "Ilia",
+        "lat": "45.934765",
+        "lon": "22.6583636976112"
+    },
+    {
+        "stationName": "Gurasada Hm.",
+        "lat": "45.95483",
+        "lon": "22.59491"
+    },
+    {
+        "stationName": "Câmpuri Surduc Hm.",
+        "lat": "45.93944",
+        "lon": "22.55365"
+    },
+    {
+        "stationName": "Burjuc h.",
+        "lat": "45.9522375",
+        "lon": "22.4866627"
+    },
+    {
+        "stationName": "Zam",
+        "lat": "46.00481",
+        "lon": "22.4457206603554"
+    },
+    {
+        "stationName": "Petriş pe Mureş h.",
+        "lat": "46.014009",
+        "lon": "22.396838"
+    },
+    {
+        "stationName": "Ilteu",
+        "lat": "46.016571",
+        "lon": "22.3594239"
+    },
+    {
+        "stationName": "Săvârşin",
+        "lat": "46.0139798",
+        "lon": "22.2348452"
+    },
+    {
+        "stationName": "Vărădia Hm.",
+        "lat": "45.07833",
+        "lon": "21.54694"
+    },
+    {
+        "stationName": "Vărădia h.",
+        "lat": "45.0817026",
+        "lon": "21.5423295"
+    },
+    {
+        "stationName": "Ghiroda h.",
+        "lat": "45.7681865",
+        "lon": "21.3016829"
+    },
+    {
+        "stationName": "Remetea Mare",
+        "lat": "45.7822459",
+        "lon": "21.3743405245763"
+    },
+    {
+        "stationName": "Semnal Timişoara Est",
+        "lat": "44.446612",
+        "lon": "26.148466"
+    },
+    {
+        "stationName": "Izvin h.",
+        "lat": "45.7990361",
+        "lon": "21.4593483"
+    },
+    {
+        "stationName": "Şuştra h.",
+        "lat": "45.7861583",
+        "lon": "21.5839189"
+    },
+    {
+        "stationName": "Topolovăţ",
+        "lat": "45.7687527",
+        "lon": "21.6290038"
+    },
+    {
+        "stationName": "Chizătău Hm.",
+        "lat": "45.750252",
+        "lon": "21.711657"
+    },
+    {
+        "stationName": "Lugoj",
+        "lat": "45.6862542",
+        "lon": "21.9063162"
+    },
+    {
+        "stationName": "Cliciova",
+        "lat": "45.794623",
+        "lon": "21.9618178"
+    },
+    {
+        "stationName": "Boldur h.",
+        "lat": "45.6941676",
+        "lon": "21.7766585"
+    },
+    {
+        "stationName": "Lugoj Nord h.",
+        "lat": "45.707145",
+        "lon": "21.888558"
+    },
+    {
+        "stationName": "Coşteiu Mare Hm.",
+        "lat": "45.748492",
+        "lon": "21.859324"
+    },
+    {
+        "stationName": "Găvojdia",
+        "lat": "45.6166667",
+        "lon": "22.0166667"
+    },
+    {
+        "stationName": "Sacu h.",
+        "lat": "45.5743194",
+        "lon": "22.1191578"
+    },
+    {
+        "stationName": "Căvăran",
+        "lat": "45.5458913",
+        "lon": "22.1498304"
+    },
+    {
+        "stationName": "Zăgujeni Hm.",
+        "lat": "45.481039",
+        "lon": "22.167108"
+    },
+    {
+        "stationName": "Tibiscu h.",
+        "lat": "45.455651",
+        "lon": "22.182936"
+    },
+    {
+        "stationName": "Caransebeş",
+        "lat": "45.4106108",
+        "lon": "22.2182232"
+    },
+    {
+        "stationName": "Caransebeş haltă h.",
+        "lat": "45.407459",
+        "lon": "22.204751"
+    },
+    {
+        "stationName": "Ram. Caransebeş",
+        "lat": "45.417799",
+        "lon": "22.212401"
+    },
+    {
+        "stationName": "Balta Sărată",
+        "lat": "44.0131705",
+        "lon": "24.8241754131267"
+    },
+    {
+        "stationName": "Valea Timişului Hm.",
+        "lat": "45.34891",
+        "lon": "22.26592"
+    },
+    {
+        "stationName": "Petroşniţa h.",
+        "lat": "45.3233744",
+        "lon": "22.2589467"
+    },
+    {
+        "stationName": "Vălişoara Hm.",
+        "lat": "46.365981",
+        "lon": "23.593372"
+    },
+    {
+        "stationName": "Slatina Timiş",
+        "lat": "45.2604821",
+        "lon": "22.2842442"
+    },
+    {
+        "stationName": "Armeniş",
+        "lat": "45.2093601",
+        "lon": "22.3100578"
+    },
+    {
+        "stationName": "Teregova Hm.",
+        "lat": "45.146671",
+        "lon": "22.284692"
+    },
+    {
+        "stationName": "Luncaviţa h.",
+        "lat": "45.0931277",
+        "lon": "22.2670334"
+    },
+    {
+        "stationName": "Domaşnea Cornea Hm.",
+        "lat": "45.059572",
+        "lon": "22.308327"
+    },
+    {
+        "stationName": "Cornea h.",
+        "lat": "45.0410801",
+        "lon": "22.3251641"
+    },
+    {
+        "stationName": "Cruşovăţ",
+        "lat": "44.995902",
+        "lon": "22.320745464876"
+    },
+    {
+        "stationName": "Iablaniţa",
+        "lat": "44.9511737",
+        "lon": "22.3137504"
+    },
+    {
+        "stationName": "Mehadia Nouă Hm.",
+        "lat": "44.878754",
+        "lon": "22.383655"
+    },
+    {
+        "stationName": "Băile Herculane",
+        "lat": "44.8861275",
+        "lon": "22.4223016036181"
+    },
+    {
+        "stationName": "Topleţ Hm.",
+        "lat": "44.79722",
+        "lon": "22.39444"
+    },
+    {
+        "stationName": "Valea Cernei Hm.",
+        "lat": "44.768454",
+        "lon": "22.391224"
+    },
+    {
+        "stationName": "Orşova",
+        "lat": "44.7234689",
+        "lon": "22.3982754"
+    },
+    {
+        "stationName": "Vârciorova Hm.",
+        "lat": "45.327377",
+        "lon": "22.349133"
+    },
+    {
+        "stationName": "Şantier Naval h.",
+        "lat": "44.721632",
+        "lon": "22.423934"
+    },
+    {
+        "stationName": "Călimăneşti",
+        "lat": "46.4133252",
+        "lon": "24.7327088"
+    },
+    {
+        "stationName": "Dăeşti Hm.",
+        "lat": "45.198722",
+        "lon": "24.382633"
+    },
+    {
+        "stationName": "Păuşa h.",
+        "lat": "46.946933",
+        "lon": "21.8708591"
+    },
+    {
+        "stationName": "Cozia Hm.",
+        "lat": "45.329414",
+        "lon": "24.281792"
+    },
+    {
+        "stationName": "Bujoreni Vâlcea Hm.",
+        "lat": "45.13529",
+        "lon": "24.37908"
+    },
+    {
+        "stationName": "Ram. Rm. Vâlcea Est",
+        "lat": "45.108916",
+        "lon": "24.369909"
+    },
+    {
+        "stationName": "Râmnicu Vâlcea Nord h.",
+        "lat": "45.109691",
+        "lon": "24.375703"
+    },
+    {
+        "stationName": "Râmnicu Vâlcea",
+        "lat": "45.1031731",
+        "lon": "24.3647209"
+    },
+    {
+        "stationName": "Râureni",
+        "lat": "45.06004305",
+        "lon": "24.3355939358479"
+    },
+    {
+        "stationName": "Ostroveni h.",
+        "lat": "43.8108617",
+        "lon": "23.8995537"
+    },
+    {
+        "stationName": "Baia Mare",
+        "lat": "47.6565584",
+        "lon": "23.5719843"
+    },
+    {
+        "stationName": "Ram. Lăpuşel",
+        "lat": "47.615799",
+        "lon": "23.472331"
+    },
+    {
+        "stationName": "Satulung pe Someş Hm.",
+        "lat": "47.577483",
+        "lon": "23.416957"
+    },
+    {
+        "stationName": "Fersig h.",
+        "lat": "47.5404929",
+        "lon": "23.3837119"
+    },
+    {
+        "stationName": "Mireşu Mare PM.",
+        "lat": "45.133731",
+        "lon": "26.374245"
+    },
+    {
+        "stationName": "Ulmeni Sălaj",
+        "lat": "47.4618692",
+        "lon": "23.2988818"
+    },
+    {
+        "stationName": "Ţicău h.",
+        "lat": "47.4456634",
+        "lon": "23.3072281"
+    },
+    {
+        "stationName": "Benesat Hm.",
+        "lat": "47.41049",
+        "lon": "23.28904"
+    },
+    {
+        "stationName": "Aluniş Sălaj h.",
+        "lat": "47.3852082",
+        "lon": "23.2755522"
+    },
+    {
+        "stationName": "Inău h.",
+        "lat": "47.5173343",
+        "lon": "23.8248344"
+    },
+    {
+        "stationName": "Ciceu Cristur h.",
+        "lat": "47.1941613",
+        "lon": "24.093562"
+    },
+    {
+        "stationName": "Reteag Hm.",
+        "lat": "47.192824",
+        "lon": "24.009285"
+    },
+    {
+        "stationName": "Reteag h.",
+        "lat": "47.1957439",
+        "lon": "24.0184578"
+    },
+    {
+        "stationName": "Ciceu Mihăeşti h.",
+        "lat": "44.126086",
+        "lon": "24.790127"
+    },
+    {
+        "stationName": "Dej Triaj",
+        "lat": "47.15796",
+        "lon": "23.91153"
+    },
+    {
+        "stationName": "Războieni",
+        "lat": "47.091245",
+        "lon": "26.5601895305233"
+    },
+    {
+        "stationName": "Lunca Mureşului h.",
+        "lat": "46.8745991",
+        "lon": "24.790733"
+    },
+    {
+        "stationName": "Unirea hc.",
+        "lat": "46.4021876",
+        "lon": "23.811558"
+    },
+    {
+        "stationName": "Gligoreşti Hm.",
+        "lat": "46.38422",
+        "lon": "22.84508"
+    },
+    {
+        "stationName": "Călăraşi Turda Hm.",
+        "lat": "46.48751",
+        "lon": "23.885214"
+    },
+    {
+        "stationName": "Grindeni h.",
+        "lat": "46.5000586",
+        "lon": "23.9969229"
+    },
+    {
+        "stationName": "Unirea Hm.",
+        "lat": "44.257621",
+        "lon": "27.597937"
+    },
+    {
+        "stationName": "Gura Arieşului h.",
+        "lat": "46.4293542",
+        "lon": "23.955528"
+    },
+    {
+        "stationName": "Cheţani h.",
+        "lat": "46.4643514",
+        "lon": "24.02788"
+    },
+    {
+        "stationName": "Luduş",
+        "lat": "46.4833055",
+        "lon": "24.0950842"
+    },
+    {
+        "stationName": "Bogata Mureş h.",
+        "lat": "46.4564083",
+        "lon": "24.1196172"
+    },
+    {
+        "stationName": "Iernut",
+        "lat": "46.4499167",
+        "lon": "24.230724691868"
+    },
+    {
+        "stationName": "Cuci h.",
+        "lat": "46.4642687",
+        "lon": "24.1562257"
+    },
+    {
+        "stationName": "Cipău h.",
+        "lat": "46.4487573",
+        "lon": "24.2778586"
+    },
+    {
+        "stationName": "Sânpaul Hm.",
+        "lat": "46.452596",
+        "lon": "24.350712"
+    },
+    {
+        "stationName": "Ogra h.",
+        "lat": "46.4466822",
+        "lon": "24.3180444"
+    },
+    {
+        "stationName": "Chirileu h.",
+        "lat": "46.4766437",
+        "lon": "24.3829648"
+    },
+    {
+        "stationName": "G-ral N. Dăscălescu Hm.",
+        "lat": "46.490871",
+        "lon": "24.462561"
+    },
+    {
+        "stationName": "Vidrasău h.",
+        "lat": "46.4748336",
+        "lon": "24.4126615"
+    },
+    {
+        "stationName": "Târgu Mureş Sud",
+        "lat": "46.5052404",
+        "lon": "24.4958665"
+    },
+    {
+        "stationName": "Azomureş h.",
+        "lat": "46.5156931",
+        "lon": "24.5048228314371"
+    },
+    {
+        "stationName": "Târgu Mureş",
+        "lat": "46.5446244",
+        "lon": "24.5611947"
+    },
+    {
+        "stationName": "Târgu Mureş Nord Hm.",
+        "lat": "46.554285",
+        "lon": "24.564311"
+    },
+    {
+        "stationName": "Dumbrăvioara Hm.",
+        "lat": "46.639516",
+        "lon": "24.638109"
+    },
+    {
+        "stationName": "Sibiu",
+        "lat": "45.7973912",
+        "lon": "24.1519202"
+    },
+    {
+        "stationName": "Sibiu h.(210)",
+        "lat": "45.792401",
+        "lon": "24.150225"
+    },
+    {
+        "stationName": "Sibiu h.(203)",
+        "lat": "45.792401",
+        "lon": "24.150225"
+    },
+    {
+        "stationName": "Turnişor Hm.",
+        "lat": "45.800731",
+        "lon": "24.130354"
+    },
+    {
+        "stationName": "Sibiu Gr.Şelimbăr Hm.",
+        "lat": "46.157011",
+        "lon": "24.343932"
+    },
+    {
+        "stationName": "Sibiu Triaj",
+        "lat": "45.7800996",
+        "lon": "24.1876467"
+    },
+    {
+        "stationName": "Cristian Sibiu h.",
+        "lat": "45.783709",
+        "lon": "24.0282908"
+    },
+    {
+        "stationName": "Orlat",
+        "lat": "45.7562824",
+        "lon": "23.9671347"
+    },
+    {
+        "stationName": "Sibiel h.",
+        "lat": "45.7661222",
+        "lon": "23.908118"
+    },
+    {
+        "stationName": "Sălişte Hm.",
+        "lat": "45.9",
+        "lon": "23.4"
+    },
+    {
+        "stationName": "Săcelu Sibiului h.",
+        "lat": "45.781442",
+        "lon": "23.947809"
+    },
+    {
+        "stationName": "Aciliu h.",
+        "lat": "45.8306599",
+        "lon": "23.8756026"
+    },
+    {
+        "stationName": "Apoldu de Sus Hm.",
+        "lat": "45.850483",
+        "lon": "23.828843"
+    },
+    {
+        "stationName": "Tilişca h.",
+        "lat": "45.7986608",
+        "lon": "23.8456009"
+    },
+    {
+        "stationName": "Apoldu de Jos h.",
+        "lat": "45.8794675",
+        "lon": "23.8462731"
+    },
+    {
+        "stationName": "Miercurea Sibiu Hm.",
+        "lat": "45.889712",
+        "lon": "23.793995"
+    },
+    {
+        "stationName": "Băile Miercurea h.",
+        "lat": "45.908673",
+        "lon": "23.7387486"
+    },
+    {
+        "stationName": "Sfântu Gheorghe",
+        "lat": "45.8659935",
+        "lon": "25.7865367"
+    },
+    {
+        "stationName": "Arcuş h.",
+        "lat": "45.9007801",
+        "lon": "25.7754359"
+    },
+    {
+        "stationName": "Prejmer Hm.",
+        "lat": "45.738381",
+        "lon": "25.777878"
+    },
+    {
+        "stationName": "Ilieni h.",
+        "lat": "46.4637085",
+        "lon": "24.5302144"
+    },
+    {
+        "stationName": "Hărman",
+        "lat": "45.7066804",
+        "lon": "25.6852889"
+    },
+    {
+        "stationName": "Pav. CFR Braşov Triaj h.",
+        "lat": "45.789803",
+        "lon": "24.179637"
+    },
+    {
+        "stationName": "Braşov",
+        "lat": "45.6523093",
+        "lon": "25.6102746"
+    },
+    {
+        "stationName": "Dârste",
+        "lat": "45.61890275",
+        "lon": "25.6535716142634"
+    },
+    {
+        "stationName": "Stupini Hm.",
+        "lat": "47.07346",
+        "lon": "23.38206"
+    },
+    {
+        "stationName": "Telciu Hm.",
+        "lat": "47.42934",
+        "lon": "24.395141"
+    },
+    {
+        "stationName": "Bichigiu h.",
+        "lat": "47.4232323",
+        "lon": "24.3393095"
+    },
+    {
+        "stationName": "Romuli h.",
+        "lat": "47.5461495",
+        "lon": "24.4369846"
+    },
+    {
+        "stationName": "Dealu Ştefăniţei",
+        "lat": "47.5787849",
+        "lon": "24.4209531"
+    },
+    {
+        "stationName": "Săcel Hm.",
+        "lat": "47.634155",
+        "lon": "24.437651"
+    },
+    {
+        "stationName": "Vişeu de Jos",
+        "lat": "47.7244216",
+        "lon": "24.3657085"
+    },
+    {
+        "stationName": "Leordina",
+        "lat": "47.7894862",
+        "lon": "24.2472878"
+    },
+    {
+        "stationName": "Bocicoel h.",
+        "lat": "47.6978837",
+        "lon": "24.3199458"
+    },
+    {
+        "stationName": "Petrova hc.",
+        "lat": "47.8370327",
+        "lon": "24.2025295"
+    },
+    {
+        "stationName": "Leordina h.",
+        "lat": "47.7894862",
+        "lon": "24.2472878"
+    },
+    {
+        "stationName": "Vişeu Bistra h.",
+        "lat": "47.863644",
+        "lon": "24.190896"
+    },
+    {
+        "stationName": "Valea Vişeului",
+        "lat": "47.9143798",
+        "lon": "24.1531512"
+    },
+    {
+        "stationName": "Lunca la Tisa h.",
+        "lat": "47.9521203",
+        "lon": "24.0488783"
+    },
+    {
+        "stationName": "Bocicoi  Hm.",
+        "lat": "47.96667",
+        "lon": "24"
+    },
+    {
+        "stationName": "Crăciuneşti h.",
+        "lat": "46.4773",
+        "lon": "24.5752414"
+    },
+    {
+        "stationName": "Cămara Sighet Hm.",
+        "lat": "47.94303",
+        "lon": "23.909085"
+    },
+    {
+        "stationName": "Sighetu Marmaţiei",
+        "lat": "47.9283242",
+        "lon": "23.8915583"
+    },
+    {
+        "stationName": "Iaşi",
+        "lat": "47.161494",
+        "lon": "27.5840504"
+    },
+    {
+        "stationName": "Leţcani",
+        "lat": "47.1954794",
+        "lon": "27.4064456"
+    },
+    {
+        "stationName": "Nicolina",
+        "lat": "47.145232",
+        "lon": "27.574174"
+    },
+    {
+        "stationName": "Podu Iloaiei",
+        "lat": "47.217763",
+        "lon": "27.2660552839361"
+    },
+    {
+        "stationName": "Budăi hc.",
+        "lat": "46.8130769",
+        "lon": "28.9753453"
+    },
+    {
+        "stationName": "Târgu Frumos",
+        "lat": "47.2100643",
+        "lon": "27.0136647"
+    },
+    {
+        "stationName": "Pietrişu h.",
+        "lat": "45.119279",
+        "lon": "25.7245495"
+    },
+    {
+        "stationName": "Ruginoasa Hm.",
+        "lat": "46.93484",
+        "lon": "23.27105"
+    },
+    {
+        "stationName": "Costeşti Iaşi hc.",
+        "lat": "47.2327642",
+        "lon": "26.9304694"
+    },
+    {
+        "stationName": "Ramificaţia Paşcani",
+        "lat": "45.043587",
+        "lon": "23.285179"
+    },
+    {
+        "stationName": "Paşcani",
+        "lat": "47.2480765",
+        "lon": "26.7256423"
+    },
+    {
+        "stationName": "Paşcani Triaj",
+        "lat": "45.824753",
+        "lon": "28.181996"
+    },
+    {
+        "stationName": "Lunca Siretului h.",
+        "lat": "44.4254258",
+        "lon": "26.0179878"
+    },
+    {
+        "stationName": "Semnal Paşcani",
+        "lat": "44.446612",
+        "lon": "26.148466"
+    },
+    {
+        "stationName": "Lespezi Hm.",
+        "lat": "45.562392",
+        "lon": "24.592276"
+    },
+    {
+        "stationName": "Probota h.",
+        "lat": "47.3782519",
+        "lon": "27.5064395"
+    },
+    {
+        "stationName": "Dolhasca",
+        "lat": "47.426148",
+        "lon": "26.611131"
+    },
+    {
+        "stationName": "Corni h.",
+        "lat": "47.478318",
+        "lon": "23.0190425"
+    },
+    {
+        "stationName": "Liteni Hm.",
+        "lat": "47.299768",
+        "lon": "27.042641"
+    },
+    {
+        "stationName": "Băneşti Suceava hc.",
+        "lat": "47.5894624",
+        "lon": "26.5233534"
+    },
+    {
+        "stationName": "Vereşti",
+        "lat": "47.6069649",
+        "lon": "26.4396175"
+    },
+    {
+        "stationName": "Văratec",
+        "lat": "47.13933785",
+        "lon": "26.2690038416544"
+    },
+    {
+        "stationName": "Bursuceni h.",
+        "lat": "47.4898415",
+        "lon": "28.0145089"
+    },
+    {
+        "stationName": "Bucecea Hm",
+        "lat": "47.76667",
+        "lon": "26.43333"
+    },
+    {
+        "stationName": "Suceava",
+        "lat": "47.5327387",
+        "lon": "25.8173527992344"
+    },
+    {
+        "stationName": "Suceava Nord",
+        "lat": "44.2088537",
+        "lon": "28.6290131"
+    },
+    {
+        "stationName": "Suceava Vest",
+        "lat": "47.6481512",
+        "lon": "26.2253369"
+    },
+    {
+        "stationName": "Dărmăneşti",
+        "lat": "46.3679115",
+        "lon": "26.47888270549"
+    },
+    {
+        "stationName": "Zimnicea",
+        "lat": "43.6567653",
+        "lon": "25.3650281"
+    },
+    {
+        "stationName": "Ulmuleţ h.",
+        "lat": "43.73333",
+        "lon": "25.35"
+    },
+    {
+        "stationName": "Şoimu h.",
+        "lat": "43.8325786",
+        "lon": "25.4442195"
+    },
+    {
+        "stationName": "Păuleasa h.",
+        "lat": "45.021885",
+        "lon": "21.8575871"
+    },
+    {
+        "stationName": "Smârdioasa h.",
+        "lat": "43.8495156",
+        "lon": "25.4352407"
+    },
+    {
+        "stationName": "Brânceni h.",
+        "lat": "43.877896",
+        "lon": "25.3973676"
+    },
+    {
+        "stationName": "Ţigăneşti h.",
+        "lat": "43.899115",
+        "lon": "25.381409"
+    },
+    {
+        "stationName": "Semnal Alexandria",
+        "lat": "44.446612",
+        "lon": "26.148466"
+    },
+    {
+        "stationName": "Buzescu h.",
+        "lat": "44.010819",
+        "lon": "25.2254689"
+    },
+    {
+        "stationName": "Plosca Hm.",
+        "lat": "44.030924",
+        "lon": "25.142579"
+    },
+    {
+        "stationName": "Peret hc.",
+        "lat": "44.047259",
+        "lon": "25.095775"
+    },
+    {
+        "stationName": "Semnal Roşiori",
+        "lat": "44.446612",
+        "lon": "26.148466"
+    },
+    {
+        "stationName": "Răduleşti Hm.",
+        "lat": "44.226806",
+        "lon": "25.541395"
+    },
+    {
+        "stationName": "Târnavele Hm.",
+        "lat": "44.159192",
+        "lon": "25.546849"
+    },
+    {
+        "stationName": "Vlaşca Hm.",
+        "lat": "44.3857688",
+        "lon": "27.8446038"
+    },
+    {
+        "stationName": "Răsuceni h.",
+        "lat": "44.0891366",
+        "lon": "25.6711073"
+    },
+    {
+        "stationName": "Toporu",
+        "lat": "44.0186321",
+        "lon": "25.659884"
+    },
+    {
+        "stationName": "Chiriacu Hm.",
+        "lat": "43.981324",
+        "lon": "25.763976"
+    },
+    {
+        "stationName": "Stăneşti Hm.",
+        "lat": "43.925791",
+        "lon": "25.832975"
+    },
+    {
+        "stationName": "Onceşti h.",
+        "lat": "47.8481391",
+        "lon": "23.9818272"
+    },
+    {
+        "stationName": "Bălănoaia Hm.",
+        "lat": "43.95",
+        "lon": "25.93333"
+    },
+    {
+        "stationName": "Cetatea h.",
+        "lat": "44.7765453",
+        "lon": "23.6181324"
+    },
+    {
+        "stationName": "Giurgiu Nord",
+        "lat": "43.9236403",
+        "lon": "25.9653531"
+    },
+    {
+        "stationName": "Giurgiu",
+        "lat": "44.1235263",
+        "lon": "26.0500444807338"
+    },
+    {
+        "stationName": "Făurei",
+        "lat": "44.040932",
+        "lon": "27.700097934635"
+    },
+    {
+        "stationName": "Făurei Ram.Deduleşti",
+        "lat": "45.085969",
+        "lon": "27.272363"
+    },
+    {
+        "stationName": "C.A.Rosetti Hm.",
+        "lat": "45.271648",
+        "lon": "27.976379"
+    },
+    {
+        "stationName": "Făurei Ram. Cireşu",
+        "lat": "45.085969",
+        "lon": "27.272363"
+    },
+    {
+        "stationName": "Găiseanca h.",
+        "lat": "44.4644965",
+        "lon": "25.5869139"
+    },
+    {
+        "stationName": "Deduleşti Hm.",
+        "lat": "45.144319",
+        "lon": "27.387904"
+    },
+    {
+        "stationName": "Ianca hc.",
+        "lat": "45.1342582",
+        "lon": "27.470622"
+    },
+    {
+        "stationName": "Plopu",
+        "lat": "44.64720615",
+        "lon": "25.5280802581311"
+    },
+    {
+        "stationName": "Urleasca Hm.",
+        "lat": "45.138275",
+        "lon": "27.647032"
+    },
+    {
+        "stationName": "Traian Sat Hm.",
+        "lat": "45.187528",
+        "lon": "27.730858"
+    },
+    {
+        "stationName": "Lacu Sărat",
+        "lat": "46.8034185",
+        "lon": "22.3552757"
+    },
+    {
+        "stationName": "Brăila",
+        "lat": "45.11780995",
+        "lon": "27.6672100941664"
+    },
+    {
+        "stationName": "Baldovineşti Hm.",
+        "lat": "45.319203",
+        "lon": "27.916083"
+    },
+    {
+        "stationName": "Barboşi Ram.Port",
+        "lat": "45.4",
+        "lon": "27.98333"
+    },
+    {
+        "stationName": "Barboşi Ram.Siret",
+        "lat": "45.4",
+        "lon": "27.98333"
+    },
+    {
+        "stationName": "Băile Ocna Sibiului h.",
+        "lat": "45.88333",
+        "lon": "24.05"
+    },
+    {
+        "stationName": "Mândra h.",
+        "lat": "45.8228924",
+        "lon": "25.0466557"
+    },
+    {
+        "stationName": "Loamneş Hm.",
+        "lat": "45.93333",
+        "lon": "24.1"
+    },
+    {
+        "stationName": "Hăşag h.",
+        "lat": "45.9776098",
+        "lon": "24.0827686"
+    },
+    {
+        "stationName": "Şeica Mare",
+        "lat": "46.0246931",
+        "lon": "24.1563438"
+    },
+    {
+        "stationName": "Veşeud h.",
+        "lat": "45.9296409",
+        "lon": "24.6412848"
+    },
+    {
+        "stationName": "Şeica Mare h.",
+        "lat": "46.0246931",
+        "lon": "24.1563438"
+    },
+    {
+        "stationName": "Agârbiciu h.",
+        "lat": "46.771694",
+        "lon": "23.2826877"
+    },
+    {
+        "stationName": "Copşa Mică",
+        "lat": "46.1125972",
+        "lon": "24.2288704610845"
+    },
+    {
+        "stationName": "Axente Sever h.",
+        "lat": "46.0935391",
+        "lon": "24.2161435"
+    },
+    {
+        "stationName": "Târnava h.",
+        "lat": "46.1386005",
+        "lon": "24.2947138"
+    },
+    {
+        "stationName": "Mediaş",
+        "lat": "46.1649111",
+        "lon": "24.3511266"
+    },
+    {
+        "stationName": "Valea Lungă Hm.",
+        "lat": "46.08333",
+        "lon": "22.78333"
+    },
+    {
+        "stationName": "Micăsasa h.",
+        "lat": "46.0872685",
+        "lon": "24.1089357"
+    },
+    {
+        "stationName": "Şeica Mică h.",
+        "lat": "46.0548065",
+        "lon": "24.1302597"
+    },
+    {
+        "stationName": "Bratei h.",
+        "lat": "46.170682",
+        "lon": "24.425379"
+    },
+    {
+        "stationName": "Constanţa",
+        "lat": "44.1717856",
+        "lon": "28.6319765"
+    },
+    {
+        "stationName": "Constanţa P2",
+        "lat": "44.1717856",
+        "lon": "28.6319765"
+    },
+    {
+        "stationName": "Constanţa P1",
+        "lat": "44.1717856",
+        "lon": "28.6319765"
+    },
+    {
+        "stationName": "Post Constanţa Vii",
+        "lat": "44.1717856",
+        "lon": "28.6319765"
+    },
+    {
+        "stationName": "Agigea Nord",
+        "lat": "44.1261888",
+        "lon": "28.6347268"
+    },
+    {
+        "stationName": "Agigea Ecluză Hm.",
+        "lat": "44.0894091",
+        "lon": "28.6241767"
+    },
+    {
+        "stationName": "Eforie Nord",
+        "lat": "44.06566375",
+        "lon": "28.6304587694119"
+    },
+    {
+        "stationName": "Eforie Sud",
+        "lat": "44.0334581",
+        "lon": "28.6482683902346"
+    },
+    {
+        "stationName": "Costineşti",
+        "lat": "43.95099085",
+        "lon": "28.6289837090404"
+    },
+    {
+        "stationName": "Costineşti Tabără hc.",
+        "lat": "43.9474945",
+        "lon": "28.6316288"
+    },
+    {
+        "stationName": "Pescăruş h.",
+        "lat": "47.16682015",
+        "lon": "27.5869005629573"
+    },
+    {
+        "stationName": "Neptun hc.",
+        "lat": "43.8748721",
+        "lon": "28.5973109"
+    },
+    {
+        "stationName": "Mangalia",
+        "lat": "43.81493615",
+        "lon": "28.5635138295297"
+    },
+    {
+        "stationName": "Mogoşoaia",
+        "lat": "44.52707485",
+        "lon": "25.9991928381951"
+    },
+    {
+        "stationName": "P.O. Aeroport h.",
+        "lat": "44.5852555",
+        "lon": "26.0753477"
+    },
+    {
+        "stationName": "Odăile h.",
+        "lat": "44.824696",
+        "lon": "26.0549777"
+    },
+    {
+        "stationName": "Baloteşti Hm.",
+        "lat": "44.730608",
+        "lon": "22.643582"
+    },
+    {
+        "stationName": "Căciulaţi Hm.",
+        "lat": "44.626783",
+        "lon": "26.169326"
+    },
+    {
+        "stationName": "Moara Vlasiei Hm.",
+        "lat": "44.639873",
+        "lon": "26.211969"
+    },
+    {
+        "stationName": "Fierbinţi",
+        "lat": "44.5053935",
+        "lon": "25.2887343320624"
+    },
+    {
+        "stationName": "Dridu Hm.",
+        "lat": "44.7",
+        "lon": "26.45"
+    },
+    {
+        "stationName": "Moldoveni h.",
+        "lat": "46.8302887",
+        "lon": "26.7972002"
+    },
+    {
+        "stationName": "Armăşeşti Hm.",
+        "lat": "44.75",
+        "lon": "26.58333"
+    },
+    {
+        "stationName": "Bărbuleşti h.",
+        "lat": "44.7262928",
+        "lon": "26.5992945"
+    },
+    {
+        "stationName": "Urziceni",
+        "lat": "47.7338935",
+        "lon": "22.4044561071076"
+    },
+    {
+        "stationName": "Alexeni h.",
+        "lat": "44.6796571",
+        "lon": "26.7106387"
+    },
+    {
+        "stationName": "Broşteni Hm.",
+        "lat": "44.7331001",
+        "lon": "24.8968767"
+    },
+    {
+        "stationName": "Sărăţuica Hm.",
+        "lat": "44.638867",
+        "lon": "26.901823"
+    },
+    {
+        "stationName": "Sărăţeni Ialomiţa h.",
+        "lat": "44.6342189",
+        "lon": "26.9268613"
+    },
+    {
+        "stationName": "Munteni Buzău h.",
+        "lat": "44.6383832",
+        "lon": "26.972877"
+    },
+    {
+        "stationName": "Căzăneşti",
+        "lat": "44.620748",
+        "lon": "24.3625253080573"
+    },
+    {
+        "stationName": "Ciochina hc.",
+        "lat": "44.5979187",
+        "lon": "27.0586914"
+    },
+    {
+        "stationName": "Andrăşeşti Hm.",
+        "lat": "44.579753",
+        "lon": "27.146827"
+    },
+    {
+        "stationName": "Fundata h.",
+        "lat": "45.4366808",
+        "lon": "25.275116"
+    },
+    {
+        "stationName": "Perieţi h.",
+        "lat": "44.5630835",
+        "lon": "27.2414436"
+    },
+    {
+        "stationName": "Slobozia Veche",
+        "lat": "44.5647019",
+        "lon": "27.34997"
+    },
+    {
+        "stationName": "Slobozia Sud Hm.",
+        "lat": "44.525113",
+        "lon": "27.370548"
+    },
+    {
+        "stationName": "Ungheni Prut Hm.",
+        "lat": "47.2",
+        "lon": "27.78333"
+    },
+    {
+        "stationName": "Cristeşti Jijia",
+        "lat": "47.1696713",
+        "lon": "27.7246022"
+    },
+    {
+        "stationName": "Holboca Hm.",
+        "lat": "47.153307",
+        "lon": "27.685838"
+    },
+    {
+        "stationName": "Remiza T Socola h.",
+        "lat": "47.140449",
+        "lon": "27.646272"
+    },
+    {
+        "stationName": "Ciurea Hm.",
+        "lat": "47.058965",
+        "lon": "27.572876"
+    },
+    {
+        "stationName": "Gorneşti Mureş h.",
+        "lat": "46.6730606",
+        "lon": "24.645497"
+    },
+    {
+        "stationName": "Reghin",
+        "lat": "46.7796886",
+        "lon": "24.7000238"
+    },
+    {
+        "stationName": "Periş Mureş h.",
+        "lat": "46.6942234",
+        "lon": "24.6633681"
+    },
+    {
+        "stationName": "Petelea h.",
+        "lat": "46.7303767",
+        "lon": "24.7071991"
+    },
+    {
+        "stationName": "Ideciu de Jos h.",
+        "lat": "46.8169006",
+        "lon": "24.7611449"
+    },
+    {
+        "stationName": "Aluniş Mureş Hm.",
+        "lat": "46.900012",
+        "lon": "24.823742"
+    },
+    {
+        "stationName": "Brâncoveneşti h.",
+        "lat": "46.8571245",
+        "lon": "24.7613032"
+    },
+    {
+        "stationName": "Halta Aluniş h.",
+        "lat": "45.970434",
+        "lon": "24.108093"
+    },
+    {
+        "stationName": "Ruşii Munţi h.",
+        "lat": "46.9152487",
+        "lon": "24.8328191"
+    },
+    {
+        "stationName": "Deda",
+        "lat": "46.947477",
+        "lon": "24.8717651"
+    },
+    {
+        "stationName": "Deda Bistra Hm.",
+        "lat": "46.944878",
+        "lon": "24.875744"
+    },
+    {
+        "stationName": "Morăreni h.",
+        "lat": "46.3570778",
+        "lon": "25.2184031"
+    },
+    {
+        "stationName": "Hunedoara",
+        "lat": "45.7883307",
+        "lon": "22.9423025367082"
+    },
+    {
+        "stationName": "Pestişu Mare h.",
+        "lat": "45.8030338",
+        "lon": "22.9270291"
+    },
+    {
+        "stationName": "Bârcea Mică",
+        "lat": "45.82206245",
+        "lon": "22.9549441934396"
+    },
+    {
+        "stationName": "Bârcea Mare h.",
+        "lat": "45.8280597",
+        "lon": "22.9599583"
+    },
+    {
+        "stationName": "Pietroşiţa Hm.",
+        "lat": "45.18333",
+        "lon": "25.43333"
+    },
+    {
+        "stationName": "Ţepeş Vodă h.",
+        "lat": "44.4453662",
+        "lon": "28.2363673"
+    },
+    {
+        "stationName": "Fieni",
+        "lat": "45.130649",
+        "lon": "25.4195745"
+    },
+    {
+        "stationName": "Moţăieni h.",
+        "lat": "45.0967276",
+        "lon": "25.4192402"
+    },
+    {
+        "stationName": "Pucioasa Hm.",
+        "lat": "45.069519",
+        "lon": "25.436765"
+    },
+    {
+        "stationName": "Vulcana Pandele P.M.Aj.",
+        "lat": "45.023327",
+        "lon": "25.399821"
+    },
+    {
+        "stationName": "Doiceşti h.",
+        "lat": "44.9959656",
+        "lon": "25.3996873"
+    },
+    {
+        "stationName": "Doiceşti",
+        "lat": "44.9959656",
+        "lon": "25.3996873"
+    },
+    {
+        "stationName": "Săteni h.",
+        "lat": "44.9719516",
+        "lon": "25.4174703"
+    },
+    {
+        "stationName": "Aninoasa Hm.",
+        "lat": "44.972625",
+        "lon": "25.435248"
+    },
+    {
+        "stationName": "Târgovişte",
+        "lat": "44.9267709",
+        "lon": "25.462816"
+    },
+    {
+        "stationName": "Văcăreşti h.",
+        "lat": "46.4658432",
+        "lon": "25.7984942"
+    },
+    {
+        "stationName": "Nucet",
+        "lat": "45.158151",
+        "lon": "26.2892948099682"
+    },
+    {
+        "stationName": "Băbuţeni Hm.",
+        "lat": "47.297057",
+        "lon": "23.393549"
+    },
+    {
+        "stationName": "Ciocmani h.",
+        "lat": "47.289204",
+        "lon": "23.3510422"
+    },
+    {
+        "stationName": "Cuciulat Hm.",
+        "lat": "47.31667",
+        "lon": "23.41667"
+    },
+    {
+        "stationName": "Letca Hm.",
+        "lat": "46.71667",
+        "lon": "26.73333"
+    },
+    {
+        "stationName": "Răstoci Hm.",
+        "lat": "47.36667",
+        "lon": "23.53333"
+    },
+    {
+        "stationName": "Ileanda",
+        "lat": "47.3272534",
+        "lon": "23.6155456"
+    },
+    {
+        "stationName": "Bizuşa h.",
+        "lat": "47.341658",
+        "lon": "23.602877"
+    },
+    {
+        "stationName": "Gâlgău",
+        "lat": "47.2818287",
+        "lon": "23.701567"
+    },
+    {
+        "stationName": "Câţcău h.",
+        "lat": "47.2176494",
+        "lon": "23.789674"
+    },
+    {
+        "stationName": "Căşeiu Hm.",
+        "lat": "47.18333",
+        "lon": "23.86667"
+    },
+    {
+        "stationName": "Gâlgău h.",
+        "lat": "47.2818287",
+        "lon": "23.701567"
+    },
+    {
+        "stationName": "Căpâlna pe Someş h.",
+        "lat": "47.248443",
+        "lon": "23.730213"
+    },
+    {
+        "stationName": "Coplean h.",
+        "lat": "47.1975986",
+        "lon": "23.8259576"
+    },
+    {
+        "stationName": "Şieu Hm.",
+        "lat": "47.723865",
+        "lon": "24.224182"
+    },
+    {
+        "stationName": "Bârla pe Şieu h.",
+        "lat": "44.429964",
+        "lon": "24.779305"
+    },
+    {
+        "stationName": "Monor Gledin",
+        "lat": "46.9595991",
+        "lon": "24.7073299"
+    },
+    {
+        "stationName": "Şieuţ h.",
+        "lat": "46.9766491",
+        "lon": "24.6480685"
+    },
+    {
+        "stationName": "Răstoliţa Hm.",
+        "lat": "46.982126",
+        "lon": "25.006685"
+    },
+    {
+        "stationName": "Borzia h.",
+        "lat": "46.9697419",
+        "lon": "24.9324017"
+    },
+    {
+        "stationName": "Lunca Bradului Hm.",
+        "lat": "46.958103",
+        "lon": "25.104346"
+    },
+    {
+        "stationName": "Andreneasa h.",
+        "lat": "46.9678432",
+        "lon": "25.0242347"
+    },
+    {
+        "stationName": "Stânceni Hm.",
+        "lat": "46.966435",
+        "lon": "25.156198"
+    },
+    {
+        "stationName": "Stânceni Neagra h.",
+        "lat": "46.966435",
+        "lon": "25.156198"
+    },
+    {
+        "stationName": "Topliţa",
+        "lat": "45.6871245",
+        "lon": "22.7860008955505"
+    },
+    {
+        "stationName": "Stânceni h.",
+        "lat": "46.9601847",
+        "lon": "25.2392115"
+    },
+    {
+        "stationName": "Ciobotani h.",
+        "lat": "46.9503763",
+        "lon": "25.2687292"
+    },
+    {
+        "stationName": "Gălăuţaş Hm.",
+        "lat": "46.910944",
+        "lon": "25.406001"
+    },
+    {
+        "stationName": "Subcetate Mureş Hm.",
+        "lat": "46.862347",
+        "lon": "25.440495"
+    },
+    {
+        "stationName": "Sărmaş Runc h.",
+        "lat": "46.9024707",
+        "lon": "25.4453217"
+    },
+    {
+        "stationName": "Ditrău",
+        "lat": "46.8039132",
+        "lon": "25.5009076"
+    },
+    {
+        "stationName": "Lăzarea Hm.",
+        "lat": "46.76667",
+        "lon": "25.48333"
+    },
+    {
+        "stationName": "Gheorgheni",
+        "lat": "46.721277",
+        "lon": "25.594165223362"
+    },
+    {
+        "stationName": "Voşlăbeni Hm.",
+        "lat": "46.647542",
+        "lon": "25.622814"
+    },
+    {
+        "stationName": "Valea Strâmbă h.",
+        "lat": "46.6926478",
+        "lon": "25.5950552"
+    },
+    {
+        "stationName": "Izvoru Mureşului Hm.",
+        "lat": "46.61667",
+        "lon": "25.71667"
+    },
+    {
+        "stationName": "Şugău h.",
+        "lat": "46.6709962",
+        "lon": "25.6049407"
+    },
+    {
+        "stationName": "Izvoru Oltului",
+        "lat": "46.567768",
+        "lon": "25.7950955"
+    },
+    {
+        "stationName": "Sândominic h.",
+        "lat": "46.5793285",
+        "lon": "25.7930527"
+    },
+    {
+        "stationName": "Tomeşti h.",
+        "lat": "46.5573531",
+        "lon": "25.7843973"
+    },
+    {
+        "stationName": "Dăneşti h.",
+        "lat": "46.5165148",
+        "lon": "25.7570673"
+    },
+    {
+        "stationName": "Sânsimion Hm.",
+        "lat": "46.26597",
+        "lon": "25.884444"
+    },
+    {
+        "stationName": "Sântimbru Ciuc h.",
+        "lat": "46.288139",
+        "lon": "25.873717"
+    },
+    {
+        "stationName": "Tuşnad Sat",
+        "lat": "46.1902771",
+        "lon": "25.8931601"
+    },
+    {
+        "stationName": "Vrabia h.",
+        "lat": "46.2230282",
+        "lon": "25.9050486"
+    },
+    {
+        "stationName": "Băile Tuşnad Hm.",
+        "lat": "46.1510466",
+        "lon": "25.8602851"
+    },
+    {
+        "stationName": "Bicsadu Oltului Hm.",
+        "lat": "46.100326",
+        "lon": "25.846924"
+    },
+    {
+        "stationName": "Malnaş Băi",
+        "lat": "46.033962",
+        "lon": "25.8232868329783"
+    },
+    {
+        "stationName": "Malnaş h.",
+        "lat": "46.0091435",
+        "lon": "25.8430704"
+    },
+    {
+        "stationName": "Timişu de Sus Hm.",
+        "lat": "45.524496",
+        "lon": "25.576448"
+    },
+    {
+        "stationName": "Timişu de Jos h.",
+        "lat": "45.5946863",
+        "lon": "25.6380815"
+    },
+    {
+        "stationName": "Predeal",
+        "lat": "45.5026906",
+        "lon": "25.5761027"
+    },
+    {
+        "stationName": "Azuga",
+        "lat": "45.44132285",
+        "lon": "25.5754058262847"
+    },
+    {
+        "stationName": "Buşteni",
+        "lat": "45.4147706",
+        "lon": "25.5354853"
+    },
+    {
+        "stationName": "Sinaia",
+        "lat": "45.3456607",
+        "lon": "25.5479283"
+    },
+    {
+        "stationName": "Poiana Ţapului hc.",
+        "lat": "45.397111",
+        "lon": "25.5409523"
+    },
+    {
+        "stationName": "Valea Largă Hm.",
+        "lat": "44.96371",
+        "lon": "26.1982"
+    },
+    {
+        "stationName": "Sinaia Sud h.",
+        "lat": "47.0583696",
+        "lon": "21.9360715004413"
+    },
+    {
+        "stationName": "Comarnic",
+        "lat": "45.2428373",
+        "lon": "25.6342908"
+    },
+    {
+        "stationName": "Breaza Nord h.",
+        "lat": "45.214762",
+        "lon": "25.647997"
+    },
+    {
+        "stationName": "Breaza hc.",
+        "lat": "45.1810934",
+        "lon": "25.668582"
+    },
+    {
+        "stationName": "Floreşti Prahova",
+        "lat": "45.0298603",
+        "lon": "25.8101181"
+    },
+    {
+        "stationName": "Bobolia h.",
+        "lat": "45.0920029",
+        "lon": "25.7411428"
+    },
+    {
+        "stationName": "Buda",
+        "lat": "44.96290395",
+        "lon": "25.9231950854316"
+    },
+    {
+        "stationName": "Bucureşti Băneasa",
+        "lat": "44.4853387",
+        "lon": "26.0753647"
+    },
+    {
+        "stationName": "Buc. Triaj Post 17",
+        "lat": "44.479069",
+        "lon": "26.023519"
+    },
+    {
+        "stationName": "R. 3 Pantelimon",
+        "lat": "44.5458922",
+        "lon": "28.3309429"
+    },
+    {
+        "stationName": "Pantelimon",
+        "lat": "44.4551271",
+        "lon": "26.2128964839943"
+    },
+    {
+        "stationName": "Ram. Pasarea",
+        "lat": "44.543774",
+        "lon": "26.080233"
+    },
+    {
+        "stationName": "Pantelimon Sud hc.",
+        "lat": "44.4395206",
+        "lon": "26.1056869"
+    },
+    {
+        "stationName": "Pasărea",
+        "lat": "44.4731854",
+        "lon": "26.3192709"
+    },
+    {
+        "stationName": "R. 2 Pantelimon",
+        "lat": "44.44376185",
+        "lon": "26.15247397409"
+    },
+    {
+        "stationName": "Brăneşti Hm.",
+        "lat": "45.041409",
+        "lon": "25.423911"
+    },
+    {
+        "stationName": "Brăneşti Sat h.",
+        "lat": "45.050888",
+        "lon": "25.4238674"
+    },
+    {
+        "stationName": "Fundulea Hm.",
+        "lat": "44.450723",
+        "lon": "26.512328"
+    },
+    {
+        "stationName": "Islaz h.",
+        "lat": "44.457313",
+        "lon": "26.3843839"
+    },
+    {
+        "stationName": "Săruleşti",
+        "lat": "45.486929",
+        "lon": "26.7627678661267"
+    },
+    {
+        "stationName": "Mostiştea h.",
+        "lat": "44.44361",
+        "lon": "26.59528"
+    },
+    {
+        "stationName": "Lehliu",
+        "lat": "44.4754202",
+        "lon": "26.8144362"
+    },
+    {
+        "stationName": "Preasna h.",
+        "lat": "44.3867693",
+        "lon": "26.6695781"
+    },
+    {
+        "stationName": "Dor Mărunt Hm.",
+        "lat": "44.442771",
+        "lon": "26.935389"
+    },
+    {
+        "stationName": "Dor Mărunt Sat h.",
+        "lat": "44.435532",
+        "lon": "26.926417"
+    },
+    {
+        "stationName": "Dragoş Vodă Hm.",
+        "lat": "44.43333",
+        "lon": "27.15"
+    },
+    {
+        "stationName": "Ciulniţa",
+        "lat": "44.7812755",
+        "lon": "25.1612716273955"
+    },
+    {
+        "stationName": "Ivăneşti h.",
+        "lat": "46.6441014",
+        "lon": "27.4635265"
+    },
+    {
+        "stationName": "Bogdana h.",
+        "lat": "47.0213057",
+        "lon": "23.0055814"
+    },
+    {
+        "stationName": "Perişoru Hm.",
+        "lat": "44.434944",
+        "lon": "27.542614"
+    },
+    {
+        "stationName": "Brâncoveni h.",
+        "lat": "44.3138519",
+        "lon": "24.3071073"
+    },
+    {
+        "stationName": "Ogoarele h.",
+        "lat": "45.83333",
+        "lon": "26.71667"
+    },
+    {
+        "stationName": "Ciulniţa Post Şt. Vodă",
+        "lat": "44.537335",
+        "lon": "27.338591"
+    },
+    {
+        "stationName": "Jegălia",
+        "lat": "44.2914482",
+        "lon": "27.6343401"
+    },
+    {
+        "stationName": "Bărăganu Hm.",
+        "lat": "44.812092",
+        "lon": "27.515337"
+    },
+    {
+        "stationName": "Recolta hc.",
+        "lat": "44.423677",
+        "lon": "27.536909"
+    },
+    {
+        "stationName": "Ştefan cel Mare h.",
+        "lat": "44.465527",
+        "lon": "26.1177494133331"
+    },
+    {
+        "stationName": "Feteşti",
+        "lat": "44.3976391",
+        "lon": "27.8460269992366"
+    },
+    {
+        "stationName": "Ramificaţia Borcea",
+        "lat": "44.3857688",
+        "lon": "27.8446038"
+    },
+    {
+        "stationName": "Movila Hm.",
+        "lat": "45.214349",
+        "lon": "27.619696"
+    },
+    {
+        "stationName": "Ovidiu",
+        "lat": "44.2559325",
+        "lon": "28.5621754"
+    },
+    {
+        "stationName": "Dunărea Hm.",
+        "lat": "44.352273",
+        "lon": "27.969174"
+    },
+    {
+        "stationName": "Cernavodă Pod",
+        "lat": "44.337668",
+        "lon": "28.0257583"
+    },
+    {
+        "stationName": "Saligny",
+        "lat": "44.280127",
+        "lon": "28.0905589"
+    },
+    {
+        "stationName": "Mircea Vodă Hm.",
+        "lat": "44.209116",
+        "lon": "27.304077"
+    },
+    {
+        "stationName": "Medgidia",
+        "lat": "44.258894",
+        "lon": "28.2698740978261"
+    },
+    {
+        "stationName": "Post Medgidia Gr. B",
+        "lat": "44.22795",
+        "lon": "28.26801"
+    },
+    {
+        "stationName": "Semnal Medgidia",
+        "lat": "44.446612",
+        "lon": "26.148466"
+    },
+    {
+        "stationName": "Dorobanţu",
+        "lat": "44.4101065",
+        "lon": "28.3268494853174"
+    },
+    {
+        "stationName": "Castelu h.",
+        "lat": "44.2592275",
+        "lon": "28.339309"
+    },
+    {
+        "stationName": "Basarabi",
+        "lat": "44.1742796",
+        "lon": "28.4107956"
+    },
+    {
+        "stationName": "Poarta Albă h.",
+        "lat": "44.2027314",
+        "lon": "28.3968757"
+    },
+    {
+        "stationName": "Valul lui Traian",
+        "lat": "44.1661278",
+        "lon": "28.45155"
+    },
+    {
+        "stationName": "Murfatlar h.",
+        "lat": "44.1742796",
+        "lon": "28.4107956"
+    },
+    {
+        "stationName": "Post Medeea",
+        "lat": "44.1646398",
+        "lon": "28.6043163"
+    },
+    {
+        "stationName": "Piatra Craiului Hm.",
+        "lat": "45.506756",
+        "lon": "25.344409"
+    },
+    {
+        "stationName": "Lacu Crişului h.",
+        "lat": "46.959752",
+        "lon": "22.735358"
+    },
+    {
+        "stationName": "Negreni h.",
+        "lat": "46.9612667",
+        "lon": "22.731328875442"
+    },
+    {
+        "stationName": "Floreşti hc.",
+        "lat": "46.7442664",
+        "lon": "23.4845868"
+    },
+    {
+        "stationName": "Gilort Hm.",
+        "lat": "44.67258",
+        "lon": "23.48753"
+    },
+    {
+        "stationName": "Turburea Hm.",
+        "lat": "45.3252",
+        "lon": "24.70036"
+    },
+    {
+        "stationName": "Bibeşti Hm.",
+        "lat": "44.78001",
+        "lon": "23.49171"
+    },
+    {
+        "stationName": "Musculeşti",
+        "lat": "44.8287615",
+        "lon": "23.5076919"
+    },
+    {
+        "stationName": "Bărbăteşti Hm.",
+        "lat": "45.18333",
+        "lon": "24.11667"
+    },
+    {
+        "stationName": "Jupâneşti Hm.",
+        "lat": "45.062991",
+        "lon": "24.850926"
+    },
+    {
+        "stationName": "Cărbuneşti",
+        "lat": "45.2206932",
+        "lon": "26.2084712"
+    },
+    {
+        "stationName": "Pojogeni Hm.",
+        "lat": "44.99215",
+        "lon": "23.485395"
+    },
+    {
+        "stationName": "Copăcioasa Hm.",
+        "lat": "44.78031",
+        "lon": "22.91024"
+    },
+    {
+        "stationName": "Scoarţa h.",
+        "lat": "45.0178642",
+        "lon": "23.465212"
+    },
+    {
+        "stationName": "Lunca Budieni Hm.",
+        "lat": "45.020191",
+        "lon": "23.359026"
+    },
+    {
+        "stationName": "Ezureni h.",
+        "lat": "45.089996",
+        "lon": "23.325208"
+    },
+    {
+        "stationName": "Bumbeşti Hm.",
+        "lat": "45.12852",
+        "lon": "23.68689"
+    },
+    {
+        "stationName": "Valea Sadului Hm.",
+        "lat": "44.420249",
+        "lon": "26.182469"
+    },
+    {
+        "stationName": "Pietrele Albe Hm.",
+        "lat": "45.176844",
+        "lon": "21.778909"
+    },
+    {
+        "stationName": "Strâmbuţa Hm.",
+        "lat": "45.354297",
+        "lon": "23.38086"
+    },
+    {
+        "stationName": "Livezeni",
+        "lat": "46.5505261",
+        "lon": "24.6333736"
+    },
+    {
+        "stationName": "Lunca Jiului hc.",
+        "lat": "44.3138172",
+        "lon": "23.7656939"
+    },
+    {
+        "stationName": "Petroşani",
+        "lat": "45.4143907",
+        "lon": "23.3740904"
+    },
+    {
+        "stationName": "Ram. Petroşani",
+        "lat": "45.417509",
+        "lon": "23.367983"
+    },
+    {
+        "stationName": "Dep Petroşani h.",
+        "lat": "45.432464",
+        "lon": "23.360333"
+    },
+    {
+        "stationName": "Vizireni h.",
+        "lat": "45.0476428",
+        "lon": "27.1960184"
+    },
+    {
+        "stationName": "Movila Oii h.",
+        "lat": "45.0308769",
+        "lon": "27.0712122"
+    },
+    {
+        "stationName": "Cilibia Hm.",
+        "lat": "45.06667",
+        "lon": "27.06667"
+    },
+    {
+        "stationName": "Bentu h.",
+        "lat": "45.0675377",
+        "lon": "26.9720426"
+    },
+    {
+        "stationName": "Tăbărăşti Sud h.",
+        "lat": "45.069403",
+        "lon": "26.931015"
+    },
+    {
+        "stationName": "Tăbărăşti h.",
+        "lat": "45.079475",
+        "lon": "26.9194348"
+    },
+    {
+        "stationName": "Kotegyan",
+        "lat": "46.7347025",
+        "lon": "21.47905"
+    },
+    {
+        "stationName": "Salonta",
+        "lat": "46.805555",
+        "lon": "21.6462615833333"
+    },
+    {
+        "stationName": "Ciumeghiu Hm.",
+        "lat": "46.728966",
+        "lon": "21.582733"
+    },
+    {
+        "stationName": "Mădăraş Bihor h.",
+        "lat": "46.8297473",
+        "lon": "21.6796625"
+    },
+    {
+        "stationName": "Stolniceni h.",
+        "lat": "47.4094458",
+        "lon": "27.710583"
+    },
+    {
+        "stationName": "Muncel Hm.",
+        "lat": "46.966689",
+        "lon": "24.80339"
+    },
+    {
+        "stationName": "Mogoşeşti hc.",
+        "lat": "47.0417339",
+        "lon": "27.5151798"
+    },
+    {
+        "stationName": "Mirceşti",
+        "lat": "46.8994485",
+        "lon": "27.6704637669452"
+    },
+    {
+        "stationName": "Hălăuceşti hc.",
+        "lat": "47.0949118",
+        "lon": "26.8136963"
+    },
+    {
+        "stationName": "Săbăoani Hm.",
+        "lat": "47.003525",
+        "lon": "26.886506"
+    },
+    {
+        "stationName": "Ram. Trifeşti",
+        "lat": "46.91667",
+        "lon": "26.81667"
+    },
+    {
+        "stationName": "Săcueni Roman Hm.",
+        "lat": "46.85",
+        "lon": "26.88333"
+    },
+    {
+        "stationName": "Galbeni",
+        "lat": "46.7423448",
+        "lon": "26.8428204"
+    },
+    {
+        "stationName": "Şerbeşti Bacău h.",
+        "lat": "46.7018735",
+        "lon": "26.9249811"
+    },
+    {
+        "stationName": "Iteşti Hm.",
+        "lat": "46.668411",
+        "lon": "26.896447"
+    },
+    {
+        "stationName": "Bacău",
+        "lat": "46.5560493",
+        "lon": "26.9153557"
+    },
+    {
+        "stationName": "Valea Seacă",
+        "lat": "46.4689235",
+        "lon": "26.8659997758439"
+    },
+    {
+        "stationName": "Pârteşti h.",
+        "lat": "47.638672",
+        "lon": "25.956378"
+    },
+    {
+        "stationName": "Soloneţ h.",
+        "lat": "47.9943863",
+        "lon": "28.4015958"
+    },
+    {
+        "stationName": "Todireşti h.",
+        "lat": "47.3234587",
+        "lon": "26.8333583"
+    },
+    {
+        "stationName": "Părhăuţi h.",
+        "lat": "47.7106449",
+        "lon": "26.0902036"
+    },
+    {
+        "stationName": "Semnal Dărmăneşti",
+        "lat": "44.446612",
+        "lon": "26.148466"
+    },
+    {
+        "stationName": "Milişăuţi Hm.",
+        "lat": "47.78333",
+        "lon": "26"
+    },
+    {
+        "stationName": "Ghimbav Hm.",
+        "lat": "45.665698",
+        "lon": "25.507298"
+    },
+    {
+        "stationName": "Codlea Hm.",
+        "lat": "45.696869",
+        "lon": "25.447806"
+    },
+    {
+        "stationName": "Dumbrăviţa Bârsei Hm.",
+        "lat": "45.762415",
+        "lon": "25.431746"
+    },
+    {
+        "stationName": "Vlădeni Ardeal",
+        "lat": "45.7634052",
+        "lon": "25.3745449"
+    },
+    {
+        "stationName": "Brădet Hm.",
+        "lat": "45.56791",
+        "lon": "25.77084"
+    },
+    {
+        "stationName": "Valea Homorod h.",
+        "lat": "45.75",
+        "lon": "25.3"
+    },
+    {
+        "stationName": "Şercaia Hm.",
+        "lat": "45.833365",
+        "lon": "25.136007"
+    },
+    {
+        "stationName": "Perşani h.",
+        "lat": "45.7783231",
+        "lon": "25.2166066"
+    },
+    {
+        "stationName": "Făgăraş",
+        "lat": "45.81333",
+        "lon": "24.971663028082"
+    },
+    {
+        "stationName": "Şercaia h.",
+        "lat": "45.8316364",
+        "lon": "25.1392489"
+    },
+    {
+        "stationName": "Voila Hm.",
+        "lat": "45.81839",
+        "lon": "24.84215"
+    },
+    {
+        "stationName": "Mândra Oltului h.",
+        "lat": "45.824739",
+        "lon": "25.045699"
+    },
+    {
+        "stationName": "Beclean pe Olt h.",
+        "lat": "45.832788",
+        "lon": "24.917771"
+    },
+    {
+        "stationName": "Olteţ h.",
+        "lat": "45.8027915",
+        "lon": "24.7623015"
+    },
+    {
+        "stationName": "Dridif h.",
+        "lat": "45.8221999",
+        "lon": "24.8851874"
+    },
+    {
+        "stationName": "Viştea h.",
+        "lat": "46.8025955",
+        "lon": "23.4021752"
+    },
+    {
+        "stationName": "Porumbacu Hm.",
+        "lat": "45.766172",
+        "lon": "24.456154"
+    },
+    {
+        "stationName": "Cârţa h.",
+        "lat": "46.5332746",
+        "lon": "25.7608236"
+    },
+    {
+        "stationName": "Sărata Colun h.",
+        "lat": "45.7576584",
+        "lon": "24.5058769"
+    },
+    {
+        "stationName": "Podu Olt",
+        "lat": "45.6617894",
+        "lon": "24.2986453047661"
+    },
+    {
+        "stationName": "Tălmaciu Hm.",
+        "lat": "45.666722",
+        "lon": "24.263667"
+    },
+    {
+        "stationName": "Turnu Roşu hc.",
+        "lat": "45.6415249",
+        "lon": "24.2991365"
+    },
+    {
+        "stationName": "Sebeş Olt h.",
+        "lat": "45.66667",
+        "lon": "24.31667"
+    },
+    {
+        "stationName": "Veştem h.",
+        "lat": "45.7178618",
+        "lon": "24.2388264"
+    },
+    {
+        "stationName": "Ram. Cisnădie",
+        "lat": "45.712524",
+        "lon": "24.147865"
+    },
+    {
+        "stationName": "Sibiu Triaj h.",
+        "lat": "45.7888841",
+        "lon": "24.1836757"
+    },
+    {
+        "stationName": "Sebeş Alba",
+        "lat": "45.9577309",
+        "lon": "23.5797925"
+    },
+    {
+        "stationName": "Vinţu de Jos",
+        "lat": "45.9868595",
+        "lon": "23.490262688112"
+    },
+    {
+        "stationName": "Rahău h.",
+        "lat": "48.0556765",
+        "lon": "24.2057063"
+    },
+    {
+        "stationName": "Sebeş Glod h.",
+        "lat": "45.972115",
+        "lon": "23.560421"
+    },
+    {
+        "stationName": "Blandiana Hm.",
+        "lat": "45.976668",
+        "lon": "23.385552"
+    },
+    {
+        "stationName": "Alba Iulia",
+        "lat": "46.0687385",
+        "lon": "23.5704398"
+    },
+    {
+        "stationName": "Şibot",
+        "lat": "45.9410607",
+        "lon": "23.3361763"
+    },
+    {
+        "stationName": "Tărtăria h.",
+        "lat": "45.9341052",
+        "lon": "23.4140849"
+    },
+    {
+        "stationName": "Aurel Vlaicu",
+        "lat": "45.909589",
+        "lon": "23.2751277504147"
+    },
+    {
+        "stationName": "Balomiru de Câmp h.",
+        "lat": "45.9386824",
+        "lon": "23.3608719"
+    },
+    {
+        "stationName": "Semnal Şibot",
+        "lat": "44.446612",
+        "lon": "26.148466"
+    },
+    {
+        "stationName": "Orăştie",
+        "lat": "45.8367637",
+        "lon": "23.1958453"
+    },
+    {
+        "stationName": "Geoagiu h.",
+        "lat": "45.9207374",
+        "lon": "23.1997535"
+    },
+    {
+        "stationName": "Turdaş Hm.",
+        "lat": "45.85",
+        "lon": "23.11667"
+    },
+    {
+        "stationName": "Pricaz h.",
+        "lat": "45.8590532",
+        "lon": "23.1709069"
+    },
+    {
+        "stationName": "Simeria Veche h.",
+        "lat": "45.8349562",
+        "lon": "23.0526086"
+    },
+    {
+        "stationName": "Valea Mureşului h.",
+        "lat": "45.6416948",
+        "lon": "25.612717"
+    },
+    {
+        "stationName": "Bârzava",
+        "lat": "46.1063622",
+        "lon": "21.9925659"
+    },
+    {
+        "stationName": "Căpruţa h.",
+        "lat": "46.0886078",
+        "lon": "22.0252195"
+    },
+    {
+        "stationName": "Milova",
+        "lat": "46.1052877",
+        "lon": "21.8002141"
+    },
+    {
+        "stationName": "Corfeni h.",
+        "lat": "46.098109",
+        "lon": "21.826435"
+    },
+    {
+        "stationName": "Radna",
+        "lat": "46.0984177",
+        "lon": "21.6894762"
+    },
+    {
+        "stationName": "Semnal Radna",
+        "lat": "44.446612",
+        "lon": "26.148466"
+    },
+    {
+        "stationName": "Ghioroc",
+        "lat": "46.1558842",
+        "lon": "21.5954413"
+    },
+    {
+        "stationName": "Păuliş h.",
+        "lat": "46.1168952",
+        "lon": "21.5928341"
+    },
+    {
+        "stationName": "Curtici",
+        "lat": "46.3405866",
+        "lon": "21.3104949"
+    },
+    {
+        "stationName": "Lokoshaza",
+        "lat": "46.429761",
+        "lon": "21.2307202"
+    },
+    {
+        "stationName": "Aiud Hm.",
+        "lat": "46.313818",
+        "lon": "23.726645"
+    },
+    {
+        "stationName": "Decea h.",
+        "lat": "46.3830866",
+        "lon": "23.7630818"
+    },
+    {
+        "stationName": "Teiuş",
+        "lat": "46.2060789",
+        "lon": "23.6753302"
+    },
+    {
+        "stationName": "Mirăslău h.",
+        "lat": "46.3643618",
+        "lon": "23.7080214"
+    },
+    {
+        "stationName": "Coşlariu",
+        "lat": "46.1578128",
+        "lon": "23.6882775"
+    },
+    {
+        "stationName": "Coşlariu Gr. P. Mureş",
+        "lat": "46.15813",
+        "lon": "23.68871"
+    },
+    {
+        "stationName": "Ram. Coşlariu",
+        "lat": "46.15813",
+        "lon": "23.68871"
+    },
+    {
+        "stationName": "Sântimbru  Hm.",
+        "lat": "46.13249",
+        "lon": "23.638825"
+    },
+    {
+        "stationName": "Sântimbru h.",
+        "lat": "46.2812609",
+        "lon": "25.8543891"
+    },
+    {
+        "stationName": "Bărăbanţ Hm.",
+        "lat": "46.094623",
+        "lon": "23.59618"
+    },
+    {
+        "stationName": "Holdea Hm.",
+        "lat": "45.894238",
+        "lon": "22.392956"
+    },
+    {
+        "stationName": "Lăpugiu h.",
+        "lat": "45.894175",
+        "lon": "22.47908"
+    },
+    {
+        "stationName": "Margina",
+        "lat": "45.8583213",
+        "lon": "22.2657848"
+    },
+    {
+        "stationName": "Ohaba hc.",
+        "lat": "46.0705867",
+        "lon": "23.7894389"
+    },
+    {
+        "stationName": "Coşteiu h.",
+        "lat": "45.7411189",
+        "lon": "21.8491647"
+    },
+    {
+        "stationName": "Făget",
+        "lat": "45.8558027",
+        "lon": "22.1768874"
+    },
+    {
+        "stationName": "Nemeşeşti h.",
+        "lat": "45.8874316",
+        "lon": "22.3157697"
+    },
+    {
+        "stationName": "Mănăştur Hm.",
+        "lat": "45.827699",
+        "lon": "22.068198"
+    },
+    {
+        "stationName": "Răchita h.",
+        "lat": "45.8753342",
+        "lon": "23.5170715"
+    },
+    {
+        "stationName": "Traian Vuia h.",
+        "lat": "45.7997308",
+        "lon": "22.0678671"
+    },
+    {
+        "stationName": "Susani Bega h.",
+        "lat": "45.81667",
+        "lon": "22.03333"
+    },
+    {
+        "stationName": "Nevrincea h.",
+        "lat": "45.7894267",
+        "lon": "21.9313291"
+    },
+    {
+        "stationName": "Buziaş",
+        "lat": "45.64921",
+        "lon": "21.6042462"
+    },
+    {
+        "stationName": "Căpăt h.",
+        "lat": "45.6870138",
+        "lon": "21.6660968"
+    },
+    {
+        "stationName": "Sacoşu Mic",
+        "lat": "45.6649512",
+        "lon": "21.4243153"
+    },
+    {
+        "stationName": "Bacova h.",
+        "lat": "45.6660194",
+        "lon": "21.5520014"
+    },
+    {
+        "stationName": "Semenic Hm.",
+        "lat": "46.142577",
+        "lon": "21.327155"
+    },
+    {
+        "stationName": "Chevereş h.",
+        "lat": "45.665141",
+        "lon": "21.48698"
+    },
+    {
+        "stationName": "Timişoara Sud",
+        "lat": "45.716151",
+        "lon": "21.2029956247133"
+    },
+    {
+        "stationName": "Giroc h.",
+        "lat": "45.6941795",
+        "lon": "21.2358535"
+    },
+    {
+        "stationName": "Urseni h.",
+        "lat": "45.693154",
+        "lon": "21.3085058"
+    },
+    {
+        "stationName": "Timişoara C.E.T.",
+        "lat": "45.696846",
+        "lon": "21.198948"
+    },
+    {
+        "stationName": "Stamora Moraviţa",
+        "lat": "45.2732327",
+        "lon": "21.2554014"
+    },
+    {
+        "stationName": "Denta h.",
+        "lat": "45.3538894",
+        "lon": "21.2491624"
+    },
+    {
+        "stationName": "Voiteni",
+        "lat": "45.4756719",
+        "lon": "21.2238689601665"
+    },
+    {
+        "stationName": "Jebel",
+        "lat": "45.5555553",
+        "lon": "21.213617"
+    },
+    {
+        "stationName": "Pădureni Timiş  P.M.",
+        "lat": "45.598284",
+        "lon": "21.192536"
+    },
+    {
+        "stationName": "Timişeni Hm.",
+        "lat": "44.88333",
+        "lon": "23.11667"
+    },
+    {
+        "stationName": "Biharkeresztes",
+        "lat": "47.1313432",
+        "lon": "21.7191678"
+    },
+    {
+        "stationName": "Nistoreşti h.",
+        "lat": "45.2022009",
+        "lon": "25.6679262"
+    },
+    {
+        "stationName": "Leorda Hm.",
+        "lat": "47.837039",
+        "lon": "26.444998"
+    },
+    {
+        "stationName": "Botoşani",
+        "lat": "47.85234105",
+        "lon": "26.7595119265934"
+    },
+    {
+        "stationName": "Piatra Neamţ",
+        "lat": "46.9319894",
+        "lon": "26.3695046"
+    },
+    {
+        "stationName": "Dumbrava h.",
+        "lat": "46.9420675",
+        "lon": "24.8049143"
+    },
+    {
+        "stationName": "Semnal Piatra Neamţ",
+        "lat": "46.923061",
+        "lon": "26.375687"
+    },
+    {
+        "stationName": "Roznov",
+        "lat": "46.836341",
+        "lon": "26.5093511090308"
+    },
+    {
+        "stationName": "Săvineşti h.",
+        "lat": "46.8575023",
+        "lon": "26.4710712"
+    },
+    {
+        "stationName": "Zăneşti Neamţ h.",
+        "lat": "46.8179707",
+        "lon": "26.5478362"
+    },
+    {
+        "stationName": "Podoleni Hm.",
+        "lat": "45.747722",
+        "lon": "27.446209"
+    },
+    {
+        "stationName": "Costişa h.",
+        "lat": "46.7516033",
+        "lon": "26.6638533"
+    },
+    {
+        "stationName": "Buhuşi",
+        "lat": "46.735088",
+        "lon": "26.6869638632362"
+    },
+    {
+        "stationName": "Racova h.",
+        "lat": "46.7020595",
+        "lon": "26.7451614"
+    },
+    {
+        "stationName": "Gârleni Hm.",
+        "lat": "44.79997",
+        "lon": "25.2586"
+    },
+    {
+        "stationName": "Lespezi Bacău h.",
+        "lat": "46.6649297",
+        "lon": "26.7688209"
+    },
+    {
+        "stationName": "Iacobeni",
+        "lat": "46.049916",
+        "lon": "24.7170457950088"
+    },
+    {
+        "stationName": "Mestecăniş",
+        "lat": "47.4557923",
+        "lon": "25.335201"
+    },
+    {
+        "stationName": "Pojorâta Hm.",
+        "lat": "45.35478",
+        "lon": "25.06451"
+    },
+    {
+        "stationName": "Câmpulung Est Hm.",
+        "lat": "47.517608",
+        "lon": "25.595537"
+    },
+    {
+        "stationName": "Prisaca Dornei Hm.",
+        "lat": "44.419467",
+        "lon": "26.169768"
+    },
+    {
+        "stationName": "Vama",
+        "lat": "47.84219655",
+        "lon": "23.3930295951302"
+    },
+    {
+        "stationName": "Frasin",
+        "lat": "44.823493",
+        "lon": "23.5328651528392"
+    },
+    {
+        "stationName": "Gura Humorului Oraş",
+        "lat": "47.5509705",
+        "lon": "25.8826203"
+    },
+    {
+        "stationName": "Gura Humorului Hm.",
+        "lat": "47.552352",
+        "lon": "25.942463"
+    },
+    {
+        "stationName": "Berchişeşti Hm.",
+        "lat": "47.526389",
+        "lon": "26.030658"
+    },
+    {
+        "stationName": "Ciprian Porumbescu Hm.",
+        "lat": "47.56842",
+        "lon": "26.06397"
+    },
+    {
+        "stationName": "Lucăceşti h.",
+        "lat": "47.5399557",
+        "lon": "23.3355039"
+    },
+    {
+        "stationName": "Stroieşti",
+        "lat": "47.61249",
+        "lon": "26.9624253023636"
+    },
+    {
+        "stationName": "Bârnova Hm.",
+        "lat": "47.06667",
+        "lon": "27.61667"
+    },
+    {
+        "stationName": "Picioru Lupului h.",
+        "lat": "47.0390228",
+        "lon": "27.5766201"
+    },
+    {
+        "stationName": "Grajduri",
+        "lat": "46.9728172",
+        "lon": "27.5388242"
+    },
+    {
+        "stationName": "Scânteia Hm.",
+        "lat": "44.85",
+        "lon": "27.95"
+    },
+    {
+        "stationName": "Rebricea Hm.",
+        "lat": "46.86667",
+        "lon": "27.55"
+    },
+    {
+        "stationName": "Buhăieşti",
+        "lat": "46.7806375",
+        "lon": "27.5257715737244"
+    },
+    {
+        "stationName": "Rateşu Cuzei h.",
+        "lat": "46.837551",
+        "lon": "27.5642302"
+    },
+    {
+        "stationName": "Bălteni Hm.",
+        "lat": "46.66667",
+        "lon": "27.61667"
+    },
+    {
+        "stationName": "Bârzeşti h.",
+        "lat": "46.485409",
+        "lon": "22.1324645"
+    },
+    {
+        "stationName": "Vaslui",
+        "lat": "46.496847",
+        "lon": "27.8033209957248"
+    },
+    {
+        "stationName": "Brăhăşoaia h.",
+        "lat": "46.7168334",
+        "lon": "27.6031234"
+    },
+    {
+        "stationName": "Munteni Hm.",
+        "lat": "44.926173",
+        "lon": "25.463727"
+    },
+    {
+        "stationName": "Crasna",
+        "lat": "45.1765483",
+        "lon": "23.5211207812779"
+    },
+    {
+        "stationName": "Bulboaca h.",
+        "lat": "46.8848693",
+        "lon": "29.308697"
+    },
+    {
+        "stationName": "Roşieşti hc.",
+        "lat": "46.4396162",
+        "lon": "27.9024172"
+    },
+    {
+        "stationName": "Zorleni",
+        "lat": "46.2659274",
+        "lon": "27.7216068"
+    },
+    {
+        "stationName": "Dodeşti hc.",
+        "lat": "46.3521631",
+        "lon": "27.8939854"
+    },
+    {
+        "stationName": "Bârlad",
+        "lat": "46.22952",
+        "lon": "27.6698771687696"
+    },
+    {
+        "stationName": "Tutova",
+        "lat": "46.1199867",
+        "lon": "27.5614656"
+    },
+    {
+        "stationName": "Dragalina h.",
+        "lat": "44.4345568",
+        "lon": "27.3317663"
+    },
+    {
+        "stationName": "Ghidigeni Hm.",
+        "lat": "46.04911",
+        "lon": "27.486858"
+    },
+    {
+        "stationName": "Nichişeni",
+        "lat": "46.0542996",
+        "lon": "27.4636478"
+    },
+    {
+        "stationName": "Berheci Hm.",
+        "lat": "46.58333",
+        "lon": "27.21667"
+    },
+    {
+        "stationName": "Frunzeasca Hm.",
+        "lat": "45.91812",
+        "lon": "27.4235"
+    },
+    {
+        "stationName": "Rateş Munteni h.",
+        "lat": "45.928728",
+        "lon": "27.431498"
+    },
+    {
+        "stationName": "Tecuci Ram. Frunzeasca",
+        "lat": "45.91812",
+        "lon": "27.4235"
+    },
+    {
+        "stationName": "Băcia h.",
+        "lat": "45.8025818",
+        "lon": "23.0062276"
+    },
+    {
+        "stationName": "Băcia Hm.",
+        "lat": "45.8",
+        "lon": "23.01667"
+    },
+    {
+        "stationName": "Batiz h.",
+        "lat": "45.7784688",
+        "lon": "23.0007008"
+    },
+    {
+        "stationName": "Călan Băi",
+        "lat": "45.7538353",
+        "lon": "23.0032358965623"
+    },
+    {
+        "stationName": "Bretea Streiului Hm.",
+        "lat": "45.66031",
+        "lon": "23.00369"
+    },
+    {
+        "stationName": "Măceu h.",
+        "lat": "45.6700668",
+        "lon": "22.9796648"
+    },
+    {
+        "stationName": "Plopi h.",
+        "lat": "45.6371185",
+        "lon": "23.0021471"
+    },
+    {
+        "stationName": "Subcetate",
+        "lat": "45.6033275",
+        "lon": "22.9978751659337"
+    },
+    {
+        "stationName": "Covragiu h.",
+        "lat": "45.6249047",
+        "lon": "23.0207506"
+    },
+    {
+        "stationName": "Ciopea h.",
+        "lat": "45.271899",
+        "lon": "21.954647"
+    },
+    {
+        "stationName": "Băeşti Hm.",
+        "lat": "45.31772",
+        "lon": "26.78819"
+    },
+    {
+        "stationName": "Ruse",
+        "lat": "43.8480413",
+        "lon": "25.9542057"
+    },
+    {
+        "stationName": "Săbişa h.",
+        "lat": "47.729462",
+        "lon": "23.3290059"
+    },
+    {
+        "stationName": "Ilba h.",
+        "lat": "47.7126396",
+        "lon": "23.3584079"
+    },
+    {
+        "stationName": "Cicârlău h.",
+        "lat": "47.691545",
+        "lon": "23.4037969"
+    },
+    {
+        "stationName": "Cristeşti Paşcani hc.",
+        "lat": "47.264424",
+        "lon": "26.572959"
+    },
+    {
+        "stationName": "Timişeşti Hm.",
+        "lat": "47.23333",
+        "lon": "26.55"
+    },
+    {
+        "stationName": "Plăieşu h.",
+        "lat": "47.2292699",
+        "lon": "26.5022744"
+    },
+    {
+        "stationName": "Sfântu Mina h.",
+        "lat": "44.326035",
+        "lon": "23.789428"
+    },
+    {
+        "stationName": "Târgu Neamţ",
+        "lat": "47.2064268",
+        "lon": "26.360439"
+    },
+    {
+        "stationName": "Leş Bihor Hm.",
+        "lat": "46.980997",
+        "lon": "21.808652"
+    },
+    {
+        "stationName": "Boiu Bihor h.",
+        "lat": "46.6859817",
+        "lon": "21.6089062"
+    },
+    {
+        "stationName": "Zerind Hm.",
+        "lat": "46.622802",
+        "lon": "21.517779"
+    },
+    {
+        "stationName": "Tămaşda h.",
+        "lat": "46.6445335",
+        "lon": "21.5568457"
+    },
+    {
+        "stationName": "Chişineu Criş",
+        "lat": "46.5242228",
+        "lon": "21.5179314"
+    },
+    {
+        "stationName": "Nădab",
+        "lat": "46.4818073",
+        "lon": "21.5098836"
+    },
+    {
+        "stationName": "Comlăuş h.",
+        "lat": "46.36138",
+        "lon": "21.52041"
+    },
+    {
+        "stationName": "Sântana",
+        "lat": "46.3465604",
+        "lon": "21.5049578"
+    },
+    {
+        "stationName": "Zimandu Nou h.",
+        "lat": "46.2810826",
+        "lon": "21.4002178"
+    },
+    {
+        "stationName": "Utviniş h.",
+        "lat": "46.267674",
+        "lon": "21.364069"
+    },
+    {
+        "stationName": "Valea Păltinişului h.",
+        "lat": "45.4854377",
+        "lon": "26.4205765"
+    },
+    {
+        "stationName": "Cornuţel Banat Hm.",
+        "lat": "45.428833",
+        "lon": "22.098611"
+    },
+    {
+        "stationName": "Valeadeni h.",
+        "lat": "45.4001603",
+        "lon": "22.0133687"
+    },
+    {
+        "stationName": "Brebu",
+        "lat": "45.4206845",
+        "lon": "21.9952607650376"
+    },
+    {
+        "stationName": "Ezeriş h.",
+        "lat": "45.4107708",
+        "lon": "21.8856557"
+    },
+    {
+        "stationName": "Reşiţa Nord",
+        "lat": "45.322625",
+        "lon": "21.8708847283064"
+    },
+    {
+        "stationName": "Reşiţa Sud Hm.",
+        "lat": "45.291701",
+        "lon": "21.887032"
+    },
+    {
+        "stationName": "Cârţani h.",
+        "lat": "46.532009",
+        "lon": "25.766739"
+    },
+    {
+        "stationName": "Zăbrani Hm.",
+        "lat": "46.077893",
+        "lon": "21.557161"
+    },
+    {
+        "stationName": "Şarlota h.",
+        "lat": "45.9786102",
+        "lon": "21.5195065"
+    },
+    {
+        "stationName": "Remetea Mică",
+        "lat": "45.9666343",
+        "lon": "21.4796035"
+    },
+    {
+        "stationName": "Fibiş h.",
+        "lat": "45.9727968",
+        "lon": "21.4235521"
+    },
+    {
+        "stationName": "Jidoştiţa h.",
+        "lat": "44.7158175",
+        "lon": "22.5931134"
+    },
+    {
+        "stationName": "Iloviţa h.",
+        "lat": "44.7565631",
+        "lon": "22.474331"
+    },
+    {
+        "stationName": "Sabareni",
+        "lat": "44.5075703",
+        "lon": "25.8785186"
+    },
+    {
+        "stationName": "Ciocăneşti Hm.",
+        "lat": "44.156137",
+        "lon": "24.162709"
+    },
+    {
+        "stationName": "Ghergani Hm.",
+        "lat": "44.63594",
+        "lon": "25.72288"
+    },
+    {
+        "stationName": "Bâldana h.",
+        "lat": "44.6026017",
+        "lon": "25.7789646"
+    },
+    {
+        "stationName": "Titu",
+        "lat": "44.662369",
+        "lon": "25.5738704"
+    },
+    {
+        "stationName": "Conţeşti h.",
+        "lat": "44.6838523",
+        "lon": "25.637261"
+    },
+    {
+        "stationName": "R. 1 Titu",
+        "lat": "44.662369",
+        "lon": "25.5738704"
+    },
+    {
+        "stationName": "R. 2 Titu",
+        "lat": "44.662369",
+        "lon": "25.5738704"
+    },
+    {
+        "stationName": "Boteni h.",
+        "lat": "45.1794214",
+        "lon": "25.1278786"
+    },
+    {
+        "stationName": "Fusea Hm.",
+        "lat": "44.66191",
+        "lon": "25.53448"
+    },
+    {
+        "stationName": "Mătăsaru Hm.",
+        "lat": "44.707238",
+        "lon": "25.429503"
+    },
+    {
+        "stationName": "Găeşti",
+        "lat": "44.7180365",
+        "lon": "25.3109367891437"
+    },
+    {
+        "stationName": "Cojocaru h.",
+        "lat": "44.6944118",
+        "lon": "25.3811743"
+    },
+    {
+        "stationName": "Pătroaia Hm.",
+        "lat": "44.743843",
+        "lon": "25.208582"
+    },
+    {
+        "stationName": "Leordeni Argeş",
+        "lat": "44.7837681",
+        "lon": "25.1241506"
+    },
+    {
+        "stationName": "Călineşti Hm.",
+        "lat": "44.826836",
+        "lon": "25.044716"
+    },
+    {
+        "stationName": "Goleşti",
+        "lat": "44.8393675",
+        "lon": "24.9597455197571"
+    },
+    {
+        "stationName": "Semnal Goleşti",
+        "lat": "44.446612",
+        "lon": "26.148466"
+    },
+    {
+        "stationName": "Podari",
+        "lat": "44.2475323",
+        "lon": "23.7811511"
+    },
+    {
+        "stationName": "Sălcuţa Hm.",
+        "lat": "44.1657676",
+        "lon": "23.7088911"
+    },
+    {
+        "stationName": "Dealul Robului h.",
+        "lat": "46.235578",
+        "lon": "24.866601"
+    },
+    {
+        "stationName": "Segarcea Nord hc.",
+        "lat": "44.0894156",
+        "lon": "23.7301092"
+    },
+    {
+        "stationName": "Segarcea",
+        "lat": "44.096654",
+        "lon": "23.7431112229056"
+    },
+    {
+        "stationName": "Cerăt h.",
+        "lat": "44.0623189",
+        "lon": "23.6900131"
+    },
+    {
+        "stationName": "Portăreşti Hm.",
+        "lat": "44.037634",
+        "lon": "23.645719"
+    },
+    {
+        "stationName": "Urzica Mare h.",
+        "lat": "44.0305385",
+        "lon": "23.6022347"
+    },
+    {
+        "stationName": "Afumaţi h.",
+        "lat": "44.524683",
+        "lon": "26.2494303"
+    },
+    {
+        "stationName": "Siliştea Crucii h.",
+        "lat": "44.0448785",
+        "lon": "23.4819444"
+    },
+    {
+        "stationName": "Boureni P.M.",
+        "lat": "47.2079505",
+        "lon": "26.6128912314662"
+    },
+    {
+        "stationName": "Băileşti",
+        "lat": "44.0230929",
+        "lon": "23.3450079"
+    },
+    {
+        "stationName": "Moţăţei Hm.",
+        "lat": "44.095086",
+        "lon": "23.203505"
+    },
+    {
+        "stationName": "Spineni h.",
+        "lat": "44.7002776",
+        "lon": "24.560915"
+    },
+    {
+        "stationName": "Robăneşti Hm.",
+        "lat": "44.343837",
+        "lon": "24.008224"
+    },
+    {
+        "stationName": "Toporaş h.",
+        "lat": "45.58333",
+        "lon": "26.73333"
+    },
+    {
+        "stationName": "Pieleşti Hm.",
+        "lat": "44.343837",
+        "lon": "24.008224"
+    },
+    {
+        "stationName": "Cârcea h.",
+        "lat": "44.2686875",
+        "lon": "23.8984346"
+    },
+    {
+        "stationName": "Ţibeni h.",
+        "lat": "47.8161826",
+        "lon": "26.0243805"
+    },
+    {
+        "stationName": "Dorneşti",
+        "lat": "47.8711733",
+        "lon": "26.0010948"
+    },
+    {
+        "stationName": "Vicşani",
+        "lat": "47.9375997",
+        "lon": "25.9815699"
+    },
+    {
+        "stationName": "Câmpia Turzii",
+        "lat": "46.5440778",
+        "lon": "23.8831317128184"
+    },
+    {
+        "stationName": "Valea Florilor Hm.",
+        "lat": "46.665436",
+        "lon": "23.860531"
+    },
+    {
+        "stationName": "Cânepişti h.",
+        "lat": "46.558941",
+        "lon": "23.794232"
+    },
+    {
+        "stationName": "Boju",
+        "lat": "46.7101196",
+        "lon": "23.7815928"
+    },
+    {
+        "stationName": "Ploscoş h.",
+        "lat": "46.6433566",
+        "lon": "23.8470556"
+    },
+    {
+        "stationName": "Cojocna Hm.",
+        "lat": "46.749604",
+        "lon": "23.840383"
+    },
+    {
+        "stationName": "Jimbolia",
+        "lat": "45.7910112",
+        "lon": "20.7180407"
+    },
+    {
+        "stationName": "Semnal XC Jimbolia",
+        "lat": "45.794126",
+        "lon": "20.718474"
+    },
+    {
+        "stationName": "Clarii Vii h.",
+        "lat": "45.8071367",
+        "lon": "20.8030073"
+    },
+    {
+        "stationName": "Cărpiniş",
+        "lat": "45.832718",
+        "lon": "23.6588942362843"
+    },
+    {
+        "stationName": "Beregsău hcv.",
+        "lat": "45.789267",
+        "lon": "21.168848"
+    },
+    {
+        "stationName": "Săcălaz h.",
+        "lat": "45.7597036",
+        "lon": "21.1107757"
+    },
+    {
+        "stationName": "Arceşti Hm.",
+        "lat": "44.453744",
+        "lon": "24.257353"
+    },
+    {
+        "stationName": "Găneasa h.",
+        "lat": "44.400712",
+        "lon": "24.2794711"
+    },
+    {
+        "stationName": "Strejeşti",
+        "lat": "44.5350157",
+        "lon": "24.2704885"
+    },
+    {
+        "stationName": "Colibaşi h.",
+        "lat": "45.7176313",
+        "lon": "28.181431"
+    },
+    {
+        "stationName": "Găneasa Olt h.",
+        "lat": "44.400712",
+        "lon": "24.2794711"
+    },
+    {
+        "stationName": "Zlătărei Hm.",
+        "lat": "44.632334",
+        "lon": "24.254867"
+    },
+    {
+        "stationName": "Drăgăşani",
+        "lat": "44.64553945",
+        "lon": "24.2645837218344"
+    },
+    {
+        "stationName": "Zăvideni Hm.",
+        "lat": "44.75431",
+        "lon": "24.248325"
+    },
+    {
+        "stationName": "Călina h.",
+        "lat": "44.7021813",
+        "lon": "24.2537527"
+    },
+    {
+        "stationName": "Orleşti hc.",
+        "lat": "44.7956704",
+        "lon": "24.229881"
+    },
+    {
+        "stationName": "Ioneşti Hm.",
+        "lat": "44.59832",
+        "lon": "24.872789"
+    },
+    {
+        "stationName": "Bucşani Vâlcea h.",
+        "lat": "44.849047",
+        "lon": "24.2258339"
+    },
+    {
+        "stationName": "Băbeni",
+        "lat": "45.4398802",
+        "lon": "26.9854423399208"
+    },
+    {
+        "stationName": "Slăviteşti hc.",
+        "lat": "44.9241822",
+        "lon": "24.2184815"
+    },
+    {
+        "stationName": "Govora",
+        "lat": "45.0688194",
+        "lon": "24.2294349142364"
+    },
+    {
+        "stationName": "Tătărani h.",
+        "lat": "45.0032264",
+        "lon": "25.2744036"
+    },
+    {
+        "stationName": "Râureni hc.",
+        "lat": "45.0554485",
+        "lon": "24.3312487"
+    },
+    {
+        "stationName": "Răstoaca h.",
+        "lat": "45.6594137",
+        "lon": "27.2865949"
+    },
+    {
+        "stationName": "Mânăstirea Turnu h.",
+        "lat": "44.8906849",
+        "lon": "25.9243107"
+    },
+    {
+        "stationName": "Lotru",
+        "lat": "45.4285608",
+        "lon": "23.9380289"
+    },
+    {
+        "stationName": "Câineni",
+        "lat": "45.491246",
+        "lon": "24.3020583"
+    },
+    {
+        "stationName": "Balota h.",
+        "lat": "45.4333483",
+        "lon": "24.2943789"
+    },
+    {
+        "stationName": "Valea Mărului Hm.",
+        "lat": "45.30418",
+        "lon": "25.583359"
+    },
+    {
+        "stationName": "Râu Vadului h.",
+        "lat": "45.5174885",
+        "lon": "24.2797549"
+    },
+    {
+        "stationName": "Robeşti h.",
+        "lat": "45.4509487",
+        "lon": "24.2966906"
+    },
+    {
+        "stationName": "Valea Fratelui h.",
+        "lat": "45.547837",
+        "lon": "24.269098"
+    },
+    {
+        "stationName": "Dâmbovicioara h.",
+        "lat": "45.4377707",
+        "lon": "25.232989"
+    },
+    {
+        "stationName": "Podu Rizii h.",
+        "lat": "44.7075774",
+        "lon": "25.5830984"
+    },
+    {
+        "stationName": "Băneşti h.",
+        "lat": "45.1009898",
+        "lon": "25.7605909"
+    },
+    {
+        "stationName": "Movila Dâmboviţa h.",
+        "lat": "44.7678209",
+        "lon": "25.5719669"
+    },
+    {
+        "stationName": "Cazaci h.",
+        "lat": "46.337597",
+        "lon": "29.986652"
+    },
+    {
+        "stationName": "Orbeni Hm.",
+        "lat": "46.279591",
+        "lon": "27.005628"
+    },
+    {
+        "stationName": "Faraoani Hm.",
+        "lat": "46.434603",
+        "lon": "26.896265"
+    },
+    {
+        "stationName": "Răcăciuni h.",
+        "lat": "46.3260581",
+        "lon": "27.0138404"
+    },
+    {
+        "stationName": "Siretu Bacău h.",
+        "lat": "46.5066318",
+        "lon": "26.9683814"
+    },
+    {
+        "stationName": "Vadu Siretului",
+        "lat": "45.144874",
+        "lon": "26.839815"
+    },
+    {
+        "stationName": "Nyirabrany",
+        "lat": "47.5494817",
+        "lon": "22.0207822"
+    },
+    {
+        "stationName": "Ţăndărei",
+        "lat": "44.64735225",
+        "lon": "27.6403508312446"
+    },
+    {
+        "stationName": "Platoneşti h.",
+        "lat": "46.9064315",
+        "lon": "25.4173095"
+    },
+    {
+        "stationName": "Murgeanca Hm.",
+        "lat": "44.70737",
+        "lon": "27.57577"
+    },
+    {
+        "stationName": "Spicu",
+        "lat": "45.8436927",
+        "lon": "24.9692187"
+    },
+    {
+        "stationName": "Dudeşti Hm.",
+        "lat": "44.884721",
+        "lon": "27.436928"
+    },
+    {
+        "stationName": "Cireşu Hm.",
+        "lat": "44.970324",
+        "lon": "27.366422"
+    },
+    {
+        "stationName": "Scărlăteşti hc.",
+        "lat": "44.9720725",
+        "lon": "27.1808702"
+    },
+    {
+        "stationName": "Cugir  Hm.",
+        "lat": "45.831614",
+        "lon": "23.373604"
+    },
+    {
+        "stationName": "Cugir hc.",
+        "lat": "45.8362888",
+        "lon": "23.3740955"
+    },
+    {
+        "stationName": "Vinerea h.",
+        "lat": "45.8860544",
+        "lon": "23.3530441"
+    },
+    {
+        "stationName": "Călăraşi Sud",
+        "lat": "44.1999846",
+        "lon": "27.3341059"
+    },
+    {
+        "stationName": "Călăraşi Nord Hm.",
+        "lat": "44.190421",
+        "lon": "27.330997"
+    },
+    {
+        "stationName": "Ştefan Vodă h.",
+        "lat": "46.5173976",
+        "lon": "29.6620148"
+    },
+    {
+        "stationName": "Feldioara Hm.",
+        "lat": "46.09874",
+        "lon": "27.35093"
+    },
+    {
+        "stationName": "Rotbav h.",
+        "lat": "45.8392922",
+        "lon": "25.5555795"
+    },
+    {
+        "stationName": "Apaţa",
+        "lat": "45.950432",
+        "lon": "25.5331162"
+    },
+    {
+        "stationName": "Vadu Roşu h.",
+        "lat": "45.873699",
+        "lon": "25.544495"
+    },
+    {
+        "stationName": "Măieruş h.",
+        "lat": "45.8989443",
+        "lon": "25.5409971"
+    },
+    {
+        "stationName": "Ormeniş h.",
+        "lat": "46.3285256",
+        "lon": "24.5450602"
+    },
+    {
+        "stationName": "Racoş Hm.",
+        "lat": "46.022762",
+        "lon": "25.412646"
+    },
+    {
+        "stationName": "Mateiaş h.",
+        "lat": "46.0168289",
+        "lon": "25.3812671"
+    },
+    {
+        "stationName": "Rupea",
+        "lat": "46.0375282",
+        "lon": "25.2214977"
+    },
+    {
+        "stationName": "Paloş Ardeal h.",
+        "lat": "46.116195",
+        "lon": "25.234484"
+    },
+    {
+        "stationName": "Archita h",
+        "lat": "46.1806876",
+        "lon": "25.087223"
+    },
+    {
+        "stationName": "Saschiz h.",
+        "lat": "46.1941249",
+        "lon": "24.961897"
+    },
+    {
+        "stationName": "Vânători",
+        "lat": "47.3664085",
+        "lon": "26.764040875"
+    },
+    {
+        "stationName": "Albeşti Târnava Hm.",
+        "lat": "44.37456",
+        "lon": "23.76704"
+    },
+    {
+        "stationName": "Semnal Vânători",
+        "lat": "44.446612",
+        "lon": "26.148466"
+    },
+    {
+        "stationName": "Sighişoara",
+        "lat": "46.2201975",
+        "lon": "24.7934573"
+    },
+    {
+        "stationName": "Parcul Kreţulescu h.",
+        "lat": "45.273966",
+        "lon": "25.050154"
+    },
+    {
+        "stationName": "Câmpulung",
+        "lat": "45.24077245",
+        "lon": "25.0108436589622"
+    },
+    {
+        "stationName": "Schitu Goleşti",
+        "lat": "45.190136",
+        "lon": "25.0024807677492"
+    },
+    {
+        "stationName": "Lăzăreşti Hm.",
+        "lat": "46.1919",
+        "lon": "25.94339"
+    },
+    {
+        "stationName": "Drăghici h.",
+        "lat": "45.1295101",
+        "lon": "25.0447276"
+    },
+    {
+        "stationName": "Stâlpeni Hm.",
+        "lat": "45.047497",
+        "lon": "24.982115"
+    },
+    {
+        "stationName": "Clucereasa h.",
+        "lat": "44.9815329",
+        "lon": "24.9588299"
+    },
+    {
+        "stationName": "Ram. Ciumeşti Post Mac.",
+        "lat": "47.665229",
+        "lon": "22.335489"
+    },
+    {
+        "stationName": "Ciumeşti",
+        "lat": "47.6638203",
+        "lon": "22.340688"
+    },
+    {
+        "stationName": "Gropeni h.",
+        "lat": "45.0744895",
+        "lon": "27.8830185"
+    },
+    {
+        "stationName": "Ştefăneşti Argeş Hm.",
+        "lat": "44.862845",
+        "lon": "24.919885"
+    },
+    {
+        "stationName": "Ohaba de sub Piatră h.",
+        "lat": "45.5458354",
+        "lon": "22.9895266"
+    },
+    {
+        "stationName": "Ruşor h.",
+        "lat": "45.5297339",
+        "lon": "23.0261271"
+    },
+    {
+        "stationName": "Pui",
+        "lat": "45.5140735",
+        "lon": "23.0954723810821"
+    },
+    {
+        "stationName": "Ponor h.",
+        "lat": "46.3351172",
+        "lon": "23.4024522"
+    },
+    {
+        "stationName": "Baru Mare",
+        "lat": "45.4748816",
+        "lon": "23.1449151"
+    },
+    {
+        "stationName": "Livadia h.",
+        "lat": "45.4898721",
+        "lon": "23.1291141"
+    },
+    {
+        "stationName": "Crivadia Hm.",
+        "lat": "45.46495",
+        "lon": "23.20612"
+    },
+    {
+        "stationName": "Merişor Hm.",
+        "lat": "45.09645",
+        "lon": "25.5303"
+    },
+    {
+        "stationName": "Băniţa",
+        "lat": "45.4481306",
+        "lon": "23.2626051"
+    },
+    {
+        "stationName": "Peştera Bolii h.",
+        "lat": "45.447799",
+        "lon": "23.320683"
+    },
+    {
+        "stationName": "Petroşani Triaj h.",
+        "lat": "45.437193",
+        "lon": "23.36027"
+    },
+    {
+        "stationName": "Tulcea Oraş",
+        "lat": "45.1819253",
+        "lon": "28.7907050505526"
+    },
+    {
+        "stationName": "Tulcea Mărfuri",
+        "lat": "45.1622479",
+        "lon": "28.7692271"
+    },
+    {
+        "stationName": "Cataloi Hm.",
+        "lat": "45.095245",
+        "lon": "28.729667"
+    },
+    {
+        "stationName": "Mihail Kogălniceanu h.",
+        "lat": "44.3703051",
+        "lon": "28.4630982"
+    },
+    {
+        "stationName": "Zebil h.",
+        "lat": "43.81234",
+        "lon": "26.88018"
+    },
+    {
+        "stationName": "Babadag",
+        "lat": "44.891874",
+        "lon": "28.7160047620608"
+    },
+    {
+        "stationName": "Ceamurlia de Jos h.",
+        "lat": "44.7381367",
+        "lon": "28.7274162"
+    },
+    {
+        "stationName": "Baia Dobrogea",
+        "lat": "44.7283423",
+        "lon": "28.6831943"
+    },
+    {
+        "stationName": "Mihai Viteazu Hm.",
+        "lat": "44.63333",
+        "lon": "28.68333"
+    },
+    {
+        "stationName": "Cogealac",
+        "lat": "44.5579594",
+        "lon": "28.5581851"
+    },
+    {
+        "stationName": "Târguşor Dobrogea Hm.",
+        "lat": "44.464326",
+        "lon": "28.438733"
+    },
+    {
+        "stationName": "Nicolae Bălcescu",
+        "lat": "46.0334115",
+        "lon": "22.0933581"
+    },
+    {
+        "stationName": "Balinţ h.",
+        "lat": "45.8145056",
+        "lon": "21.85625"
+    },
+    {
+        "stationName": "Coşteiu de Sus h.",
+        "lat": "45.90337",
+        "lon": "22.3684055"
+    },
+    {
+        "stationName": "Curtea de Argeş",
+        "lat": "45.1469341",
+        "lon": "24.6779826"
+    },
+    {
+        "stationName": "Băiculeşti h.",
+        "lat": "45.0717618",
+        "lon": "24.6881058"
+    },
+    {
+        "stationName": "Semnal Vâlcele",
+        "lat": "44.446612",
+        "lon": "26.148466"
+    },
+    {
+        "stationName": "Merişani h.",
+        "lat": "44.9688645",
+        "lon": "24.7445983"
+    },
+    {
+        "stationName": "Bascov Hm.",
+        "lat": "44.904766",
+        "lon": "24.830389"
+    },
+    {
+        "stationName": "Dumbrăveni",
+        "lat": "45.14934935",
+        "lon": "23.5121787191202"
+    },
+    {
+        "stationName": "Crăciunel Hm.",
+        "lat": "46.18333",
+        "lon": "25.43333"
+    },
+    {
+        "stationName": "Mihalţ h.",
+        "lat": "46.16005",
+        "lon": "23.7252731"
+    },
+    {
+        "stationName": "Blaj",
+        "lat": "44.276844",
+        "lon": "24.1722782736192"
+    },
+    {
+        "stationName": "Cistei h.",
+        "lat": "46.186616",
+        "lon": "23.7536369"
+    },
+    {
+        "stationName": "Câmpu Libertăţii  h.",
+        "lat": "46.172339",
+        "lon": "23.9401"
+    },
+    {
+        "stationName": "Lunca h.",
+        "lat": "46.5254664",
+        "lon": "22.4500446"
+    },
+    {
+        "stationName": "Glogoveţ h.",
+        "lat": "46.1483394",
+        "lon": "24.0085952"
+    },
+    {
+        "stationName": "Semnal Gr.Th. Caracal",
+        "lat": "44.446612",
+        "lon": "26.148466"
+    },
+    {
+        "stationName": "Deveselu h.",
+        "lat": "44.0554029",
+        "lon": "24.3893839"
+    },
+    {
+        "stationName": "Frăsinet hc.",
+        "lat": "46.6156127",
+        "lon": "23.3850211"
+    },
+    {
+        "stationName": "Studiniţa h.",
+        "lat": "43.9740563",
+        "lon": "24.4251411"
+    },
+    {
+        "stationName": "Studina hc.",
+        "lat": "43.9587692",
+        "lon": "24.4156022"
+    },
+    {
+        "stationName": "Vişina h.",
+        "lat": "44.5907019",
+        "lon": "25.3330126"
+    },
+    {
+        "stationName": "Vişina Veche hc.",
+        "lat": "43.864428",
+        "lon": "24.441522"
+    },
+    {
+        "stationName": "Corabia",
+        "lat": "43.7748257",
+        "lon": "24.5008661"
+    },
+    {
+        "stationName": "Mănărade h.",
+        "lat": "46.1415823",
+        "lon": "23.9705507"
+    },
+    {
+        "stationName": "Bencei h.",
+        "lat": "45.926273",
+        "lon": "21.381094"
+    },
+    {
+        "stationName": "Pişchia h.",
+        "lat": "45.9041194",
+        "lon": "21.3403585"
+    },
+    {
+        "stationName": "Cerneteaz h.",
+        "lat": "45.8442951",
+        "lon": "21.2648103"
+    },
+    {
+        "stationName": "Giarmata Hm.",
+        "lat": "45.841228",
+        "lon": "21.314308"
+    },
+    {
+        "stationName": "Viile Giarmata h.",
+        "lat": "45.800268",
+        "lon": "21.292001"
+    },
+    {
+        "stationName": "Anina",
+        "lat": "45.0880712",
+        "lon": "21.853167"
+    },
+    {
+        "stationName": "Gârlişte Hm.",
+        "lat": "45.2",
+        "lon": "21.8"
+    },
+    {
+        "stationName": "Ciudanoviţa Pam.",
+        "lat": "45.14472",
+        "lon": "21.79778"
+    },
+    {
+        "stationName": "Dobrei hcv.",
+        "lat": "45.20915",
+        "lon": "23.95972"
+    },
+    {
+        "stationName": "Brădişoru de Jos h.",
+        "lat": "45.078578",
+        "lon": "21.714664"
+    },
+    {
+        "stationName": "Semnal YA Oraviţa",
+        "lat": "44.446612",
+        "lon": "26.148466"
+    },
+    {
+        "stationName": "Oraviţa",
+        "lat": "45.037958",
+        "lon": "21.6853183859211"
+    },
+    {
+        "stationName": "Bucureşti Obor",
+        "lat": "44.4487161",
+        "lon": "26.1404876"
+    },
+    {
+        "stationName": "R. 5 Pantelimon",
+        "lat": "44.4518794",
+        "lon": "26.2035562"
+    },
+    {
+        "stationName": "Mohu h.",
+        "lat": "45.7428441",
+        "lon": "24.2247245"
+    },
+    {
+        "stationName": "Glodu Someşului h.",
+        "lat": "47.28156",
+        "lon": "23.645514"
+    },
+    {
+        "stationName": "Scoreiu h.",
+        "lat": "45.7602577",
+        "lon": "24.5328524"
+    },
+    {
+        "stationName": "Ungheni",
+        "lat": "47.2058458",
+        "lon": "27.8024036865206"
+    },
+    {
+        "stationName": "Racoviţa h.",
+        "lat": "45.6997387",
+        "lon": "21.6363344"
+    },
+    {
+        "stationName": "Ioneşti Gorj h.",
+        "lat": "44.6238767",
+        "lon": "23.4301376"
+    },
+    {
+        "stationName": "Bicaz",
+        "lat": "46.9112275",
+        "lon": "26.0903478"
+    },
+    {
+        "stationName": "Tarcău Neamţ Hm.",
+        "lat": "46.893203",
+        "lon": "26.147764"
+    },
+    {
+        "stationName": "Stejaru h.",
+        "lat": "44.6845502",
+        "lon": "23.0735074"
+    },
+    {
+        "stationName": "Pângăraţi Hm.",
+        "lat": "46.929907",
+        "lon": "26.204262"
+    },
+    {
+        "stationName": "Vaduri h.",
+        "lat": "46.9350022",
+        "lon": "26.2570851"
+    },
+    {
+        "stationName": "Maglavit h.",
+        "lat": "44.0334267",
+        "lon": "23.0988387"
+    },
+    {
+        "stationName": "Golenţi Hm.",
+        "lat": "43.984384",
+        "lon": "23.055266"
+    },
+    {
+        "stationName": "Ram. Golenţi",
+        "lat": "43.984384",
+        "lon": "23.055266"
+    },
+    {
+        "stationName": "Calafat",
+        "lat": "43.9903184",
+        "lon": "22.9337403"
+    },
+    {
+        "stationName": "Odorhei",
+        "lat": "46.3047462",
+        "lon": "25.2950261"
+    },
+    {
+        "stationName": "Odorhei Sud hc.",
+        "lat": "46.3044007",
+        "lon": "25.2968218221681"
+    },
+    {
+        "stationName": "Feliceni h.",
+        "lat": "46.2731443",
+        "lon": "25.2784349"
+    },
+    {
+        "stationName": "Dobeni h.",
+        "lat": "46.2877919",
+        "lon": "25.1879206"
+    },
+    {
+        "stationName": "Lutiţa h.",
+        "lat": "46.244968",
+        "lon": "25.185077"
+    },
+    {
+        "stationName": "Porumbenii Mari h.",
+        "lat": "46.273921",
+        "lon": "25.1327143"
+    },
+    {
+        "stationName": "Porumbenii Mici h.",
+        "lat": "46.2723182",
+        "lon": "25.1023452"
+    },
+    {
+        "stationName": "Beteşti Est h.",
+        "lat": "46.28251",
+        "lon": "25.099461"
+    },
+    {
+        "stationName": "Beteşti h.",
+        "lat": "46.2902739",
+        "lon": "25.082425"
+    },
+    {
+        "stationName": "Cristur Hm.",
+        "lat": "45.828726",
+        "lon": "22.943078"
+    },
+    {
+        "stationName": "Salcia Teleorman Hm.",
+        "lat": "43.932768",
+        "lon": "24.933417"
+    },
+    {
+        "stationName": "Turnu Măgurele",
+        "lat": "43.7518306",
+        "lon": "24.8691717"
+    }
+]

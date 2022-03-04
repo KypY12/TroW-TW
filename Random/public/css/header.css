@@ -1,0 +1,874 @@
+body {
+    margin:0px;
+    padding: 0px;
+    border: 0px;
+    height: auto;
+}
+
+*::-moz-focus-inner { 
+    border: 0; 
+  }
+
+* {
+    outline: none;
+}
+
+*:focus {
+    outline: none;
+}
+
+/* ========================== */
+/* ===== NAVIGATION BAR ===== */
+/* ========================== */
+
+#navBar {
+    height: 6vw;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    position: sticky;
+    top:0px;
+    background-color: #6c0e23;
+    z-index: 4;
+}
+
+
+#navBarMenu {
+    list-style-type: none;
+    display: flex;
+    background-color: transparent;
+    padding: 0px;
+    border: 0px;
+    margin: 0px;
+    width: 100%;
+    height: 6vw;
+    align-items: center;
+    float: left;
+}
+
+.nav-bar-element {
+    border: 0px;
+    margin: 0px;
+    padding: 0px;
+    height: 100%;
+    width: 100%;
+    background-color: transparent;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    -webkit-transition: all 0.25s ease-out;
+    -moz-transition: all 0.25s ease-out;
+    -o-transition: all 0.25s ease-out;
+    transition: all 0.25s ease-out;
+    
+}
+
+.nav-bar-element:hover {
+    background-color: #f3ffb9;
+    color: #6c0e23;
+    border-bottom: 0.5vw solid transparent;
+   
+}
+
+.nav-bar-element:hover a{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding-top: 1vw;
+
+    color: #6c0e23;
+    height: 97%;
+    width: 100%;
+}
+
+.nav-bar-element:hover .nav-element-description{
+    display: block;   
+    font-size: 0.9vw;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-variant-caps: normal;
+    font-stretch: normal;
+    margin-top: 1vw;
+}
+
+.nav-bar-element a {
+    text-decoration: none;
+    text-align: center;
+    font-family: sans-serif;
+    font-variant-caps: all-small-caps;
+    font-stretch: expanded;
+    font-size: 1.3vw;
+    color: #f3ffb9;
+    
+}
+
+.nav-element-description {
+    display: none;
+    padding-left: 1vw;
+    padding-right: 1vw;
+}
+
+
+
+
+/* ================== */
+/* ===== HIGHER ===== */
+/* ================== */
+
+#higherPart {
+    width: 100%;
+    height: 24vw;
+    display: grid;
+
+}
+
+#higherPart #trainHigherImage{
+    grid-column: 1;
+    grid-row: 1;
+
+    position: relative;
+    background-color: black;
+    height: 100%;
+    width: 100%;
+    z-index: -3;
+
+    user-select: none;
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    -o-user-select: none;
+
+}
+
+#timeHigher {
+    grid-column: 1;
+    grid-row: 1;
+    top: 0px;
+    background-color: transparent;
+    display: grid;
+    border: 0px;
+    width: 100%;
+    height: 100%;
+}
+
+#timeHigher > iframe {
+
+    grid-column: 1;
+    grid-row: 1;
+    position: sticky;
+    top: 6vw;
+    left: 100%;
+    background-color: #6c0e23;
+    opacity: 0.8;
+    border-radius: 100px 0px 0px 100px;
+    z-index: -2;
+    
+}
+
+
+
+
+#quickMenuButtons {
+    grid-column: 1;
+    grid-row: 1;
+    width: 40vw;
+    height: 5vw;
+    display: grid;
+    grid-template-areas: "a b c";
+    grid-gap: 2px;
+    position: relative;
+    z-index: 0;
+    top: 3vw;
+    left: 5vw;
+}
+
+#quickMenuButtons .quick-menu-button {
+    color: #f3ffb9;
+    background-color: #6c0e23;
+    border: none;
+    border-radius: 10px 10px 0px 0px;
+    width: auto;
+    height: 3vw;
+}
+
+
+
+
+#quickMenuCompContainers {
+    grid-column: 1;
+    grid-row: 1;
+    width: 40vw;
+    height: 12vw;
+    
+    display: grid;
+    grid-gap: 2px;
+    position: relative;
+    top: 6vw;
+    left: 5vw;
+
+}
+
+#quickMenuCompContainers .quick-menu-comp-container {
+    color: #f3ffb9;
+    grid-row: 1;
+    grid-column: 1;
+    background-color: #92122e;
+    border: none;
+    width: 100%;
+    height: 100%;
+    display: grid;
+    border-radius: 0px 0px 50vw 50vw;
+}
+
+
+
+/* ------------------------------ */
+/* ----- PLANIFICARE TRASEU ----- */
+/* ------------------------------ */
+
+#planificareTraseu {
+    display: grid;
+    grid-template-areas: 
+    "form" 
+    "submitButton";
+
+}
+
+#planificareTraseu #obtineTraseuBtn {
+    grid-area: submitButton;
+    background-color: #6c0e23;
+    color: #f3ffb9;
+    font-size: 1.5vw;
+    z-index: 1;
+
+    
+    padding-left: 2vw;
+    padding-right: 2vw;
+    padding-top: 0.5vw;
+    padding-bottom: 0.5vw;
+
+    border: 0px;
+    border-radius: 50vw 50vw 0px 0px;
+    align-self: flex-end;
+    justify-self: center;
+
+    -webkit-transition: all 0.25s ease-out;
+    -moz-transition: all 0.25s ease-out;
+    -o-transition: all 0.25s ease-out;
+    transition: all 0.25s ease-out;
+
+}
+
+#planificareTraseu #obtineTraseuBtn:hover {
+    grid-area: submitButton;
+    background-color: #f3ffb9;
+    color: #6c0e23;
+    font-size: 1.5vw;
+
+    padding-left: 2.5vw;
+    padding-right: 2.5vw;
+
+}
+
+
+#quickMenuCompContainers #planificareTraseu > form{
+    grid-area: form;
+    display: grid;
+    grid-template-areas:
+    "garaPlecare garaSosire"
+    "ziua luna";
+    grid-column-gap: 0.5vw;
+    grid-row-gap: 0vw;
+    z-index: 1;
+
+    height: 9vw;
+    padding: 0.6vw;
+}
+
+#planificareTraseu > form input {
+    background-color: #92122e;
+    color: #f3ffb9;
+    border: double 0.2vw #f3ffb9;
+    border-radius: 10px;
+    padding-left: 0.6vw;
+    padding-right: 0.6vw;
+    text-align: center;
+    align-self: flex-start;
+
+    -webkit-transition: all 0.25s ease-out;
+    -moz-transition: all 0.25s ease-out;
+    -o-transition: all 0.25s ease-out;
+    transition: all 0.25s ease-out;
+}
+
+#planificareTraseu > form input:focus {
+
+    border-color: #92122e;
+    color: #6c0e23;
+    background-color: #f3ffb9;
+}
+  
+
+#plecareGaraInput {
+    grid-area: garaPlecare;
+    justify-self: right;
+    height: 3vw;
+    width: 15vw;
+}
+
+#sosireGaraInput {
+    grid-area: garaSosire;
+    justify-self: left;
+    height: 3vw;
+    width: 15vw;
+}
+
+#dateTravelDay {
+    grid-area: ziua;
+    justify-self: right;
+    height: 2.4vw;
+    width: 6vw;
+}
+
+#dateTravelMonth {
+    grid-area: luna;
+    justify-self: left;
+    height: 2.4vw;
+    width: 6vw;
+}
+
+
+
+/* ---------------------------- */
+/* ----- SOSIRI / PLECARI ----- */
+/* ---------------------------- */
+
+#sosiriPlecari {
+    display: grid;
+    grid-template-areas: 
+    "form" 
+    "submitButton";
+
+}
+
+#sosiriPlecari #obtineInformatiiBtn {
+    grid-area: submitButton;
+    background-color: #6c0e23;
+    color: #f3ffb9;
+    font-size: 1.5vw;
+    z-index: 1;
+
+    padding-left: 2vw;
+    padding-right: 2vw;
+    padding-top: 0.5vw;
+    padding-bottom: 0.5vw;
+
+    border: 0px;
+    border-radius: 50vw 50vw 0px 0px;
+    align-self: flex-end;
+    justify-self: center;
+
+    -webkit-transition: all 0.25s ease-out;
+    -moz-transition: all 0.25s ease-out;
+    -o-transition: all 0.25s ease-out;
+    transition: all 0.25s ease-out;
+
+}
+
+#sosiriPlecari #obtineInformatiiBtn:hover {
+    grid-area: submitButton;
+    background-color: #f3ffb9;
+    color: #6c0e23;
+    font-size: 1.5vw;
+
+    padding-left: 2.5vw;
+    padding-right: 2.5vw;
+
+}
+
+
+#quickMenuCompContainers #sosiriPlecari > form{
+    grid-area: form;
+    display: grid;
+    grid-template-areas:
+    "gara optiune"
+    "ziua luna";
+    grid-column-gap: 0.5vw;
+    grid-row-gap: 0vw;
+    z-index: 1;
+
+    height: 9vw;
+    padding: 0.6vw;
+}
+
+#sosiriPlecari > form > input {
+    background-color: #92122e;
+    color: #f3ffb9;
+    border: double 0.2vw #f3ffb9;
+    border-radius: 10px;
+    padding-left: 0.6vw;
+    padding-right: 0.6vw;
+    text-align: center;
+    align-self: flex-start;
+
+    -webkit-transition: all 0.25s ease-out;
+    -moz-transition: all 0.25s ease-out;
+    -o-transition: all 0.25s ease-out;
+    transition: all 0.25s ease-out;
+}
+
+#sosiriPlecari > form > input:focus {
+
+    border-color: #92122e;
+    color: #6c0e23;
+    background-color: #f3ffb9;
+}
+
+#garaInput {
+    grid-area: gara;
+    justify-self: right;
+    height: 3vw;
+    width: 15vw;
+}
+
+#dateTravelDaySP {
+    grid-area: ziua;
+    justify-self: right;
+    height: 2.4vw;
+    width: 6vw;
+
+}
+
+#dateTravelMonthSP {
+    grid-area: luna;
+    justify-self: left;
+    height: 2.4vw;
+    width: 6vw;
+    
+}
+
+
+/* --------------------------- */
+/* ------ Radio buttons ------ */
+
+#optiuneAfisareSP {
+    grid-area: optiune;
+    display: grid;
+    grid-template-areas:
+    "label1"
+    "label2";
+    grid-row-gap: 0.5vw;
+    height: 2vw;
+    width: 3vw;
+    margin-left: 1vw;
+}
+
+#plecariRadio {
+    z-index: 1;
+    background-color: #f3ffb9;
+    height: 1vw;
+    width: 1vw;
+    color: red;
+}
+
+#sosirileRadio {
+    z-index: 1;
+    height: 1vw;
+    width: 2vw;
+}
+
+input[type=radio]{
+  width: 2em;
+  margin: 0;
+  padding: 0;
+  font-size: 1em;
+  display: none;
+}
+
+input[type=radio] + label{
+    display: flex;
+  height: 1vw;
+
+}
+
+input[type=radio] + label > span{
+  display: block;
+  background: #f3ffb9;
+  height: 0.8vw;
+  width: 0.8vw;
+  border-radius: 0.2vw;
+  border: transparent 0.2vw solid;
+  margin-right: 1vw;
+}
+
+input[type=radio]:checked + label > span{
+  background-color: #f3ffb9; 
+}
+
+input[type=radio]:checked + label > span > span{
+    display: block;
+    width: 0.8vw;
+    height: 0.8vw;
+    border-radius: 1vw;
+    background-color: #6c0e23;
+  }
+
+
+/* ------------------------------ */
+/* ----- INFORMATII TRENURI ----- */
+/* ------------------------------ */
+
+
+#quickMenuCompContainers #informatiiTrenuri {
+    display: grid;
+    grid-gap: 0px;
+    grid-template-areas: 
+    "form" 
+    "submitButton";
+}
+
+#informatiiTrenuri #veziRutaTrenBtn {
+    grid-area: submitButton;
+    background-color: #6c0e23;
+    color: #f3ffb9;
+    font-size: 1.5vw;
+    z-index: 1;
+
+    padding-left: 2vw;
+    padding-right: 2vw;
+    padding-top: 0.5vw;
+    padding-bottom: 0.5vw;
+
+    border: 0px;
+    border-radius: 50vw 50vw 0px 0px;
+    align-self: flex-end;
+    justify-self: center;
+
+    -webkit-transition: all 0.25s ease-out;
+    -moz-transition: all 0.25s ease-out;
+    -o-transition: all 0.25s ease-out;
+    transition: all 0.25s ease-out;
+}
+
+#informatiiTrenuri #veziRutaTrenBtn:hover {
+    grid-area: submitButton;
+    background-color: #f3ffb9;
+    color: #6c0e23;
+    font-size: 1.5vw;
+
+    padding-left: 2.5vw;
+    padding-right: 2.5vw;
+
+}
+
+#quickMenuCompContainers #informatiiTrenuri > form{
+    grid-area: form;
+    z-index: 1;
+    justify-self: center;
+
+    height: 9vw;
+    padding: 0.6vw;
+}
+
+#informatiiTrenuri > form input {
+    background-color: #92122e;
+    color: #f3ffb9;
+    border: double 0.2vw #f3ffb9;
+    border-radius: 10px;
+    padding-left: 0.6vw;
+    padding-right: 0.6vw;
+    text-align: center;
+    justify-self: center;
+
+    margin-top: 3.5vw;
+    height: 3vw;
+    width: 15vw;
+
+    -webkit-transition: all 0.25s ease-out;
+    -moz-transition: all 0.25s ease-out;
+    -o-transition: all 0.25s ease-out;
+    transition: all 0.25s ease-out;
+}
+
+#informatiiTrenuri > form input:focus {
+
+    border-color: #92122e;
+    color: #6c0e23;
+    background-color: #f3ffb9;
+}
+
+
+
+
+
+
+
+/* ======================== */
+/* ===== MEDIA STYLES ===== */
+/* ======================== */
+
+@media only screen and (max-width:500px) { 
+      
+
+
+      input[type=radio] + label{
+          display: flex;
+          height: 1vw;
+          font-size: 7vw;
+      
+      }
+      
+      input[type=radio] + label > span{
+        display: block;
+        background: #f3ffb9;
+        height: 1.5vw;
+        width: 1.5vw;
+        border-radius: 0.2vw;
+        border: transparent 0.2vw solid;
+        margin-right: 1vw;
+      }
+      
+      input[type=radio]:checked + label > span{
+        background-color: #f3ffb9; 
+      }
+      
+      input[type=radio]:checked + label > span > span{
+          display: block;
+          width: 0.8vw;
+          height: 0.8vw;
+          border-radius: 1vw;
+          background-color: #6c0e23;
+        }
+
+        #quickMenuCompContainers .quick-menu-comp-container {
+            color: #f3ffb9;
+            grid-row: 1;
+            grid-column: 1;
+            background-color: #92122e;
+            border: none;
+            width: 100%;
+            height: 100%;
+            display: grid;
+            border-radius: 0px 0px 50vw 50vw;
+        }
+  
+
+
+}
+
+
+ @media only screen and (max-width: 740px) {
+    #navBar{
+        height: 15vw
+    }
+
+    #navBarMenu {
+        display: grid;
+        grid-template-areas:
+        "a b c"
+        "d e f";
+        width: 100%;
+        height: 100%;
+        align-items: center;
+    }
+    .nav-bar-element:hover {
+        background-color: #f3ffb9;
+        color: #6c0e23;
+    }
+    
+    .nav-bar-element:hover a{
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+    
+        color: #6c0e23;
+        height: auto;
+        width: auto;
+    }
+
+    .nav-bar-element:hover .nav-element-description{
+        display: none; 
+    }
+    
+    .nav-bar-element a {
+        font-size: 3vw;
+    }
+
+
+
+ }
+
+
+ @media only screen and (max-width:860px) { 
+    #timeHigher > iframe {
+        display:none;
+    } 
+
+
+    #optiuneAfisareSP {
+        grid-row-gap: 1vw;
+        height: 2vw;
+        width: 3vw;
+        margin-left: 1vw;
+    }
+    
+    
+    input[type=radio]{
+      width: 1vw;
+      margin: 0;
+      padding: 0;
+      font-size: 0.5vw;
+      display: none;
+    }
+    
+    input[type=radio] + label{
+        display: flex;
+        height: 1vw;
+        font-size: 2vw;
+    
+    }
+    
+    input[type=radio] + label > span{
+      display: block;
+      background: #f3ffb9;
+      height: 1.5vw;
+      width: 1.5vw;
+      border-radius: 0.2vw;
+      border: transparent 0.2vw solid;
+      margin-right: 1vw;
+    }
+    
+    input[type=radio]:checked + label > span{
+      background-color: #f3ffb9; 
+    }
+    
+    input[type=radio]:checked + label > span > span{
+        display: block;
+        width: 1.3vw;
+        height: 1.3vw;
+        border-radius: 1vw;
+        background-color: #6c0e23;
+      }
+
+      
+#higherPart {
+    height: 40vw;
+}
+
+#higherPart #trainHigherImage {
+    height: 40vw;
+}
+
+#quickMenuButtons {
+
+    height: 7vw;
+    width: 70vw;
+    top: 1vw;
+    left: 5vw;
+}
+
+#quickMenuButtons .quick-menu-button {
+    font-size: 2.4vw;
+    height: 8vw;
+}
+
+
+
+#quickMenuCompContainers {
+    grid-column: 1;
+    grid-row: 1;
+    width: 70vw;
+    height: 20vw;
+    top: 9vw;
+    font-size: 1vw;
+
+}
+
+#quickMenuCompContainers #planificareTraseu #obtineInformatiiBtn{
+    font-size:3vw;
+}
+
+#planificareTraseu #obtineTraseuBtn {
+    font-size: 3vw;
+}
+#planificareTraseu #obtineTraseuBtn:hover {
+    font-size: 3vw;
+}
+
+#sosiriPlecari #obtineInformatiiBtn {
+    font-size: 3vw;
+}
+#sosiriPlecari #obtineInformatiiBtn:hover {
+    font-size: 3vw;
+}
+
+#informatiiTrenuri #veziRutaTrenBtn {
+    font-size: 3vw;
+}
+#informatiiTrenuri #veziRutaTrenBtn:hover {
+    font-size: 3vw;
+}
+
+#plecareGaraInput {
+    grid-area: garaPlecare;
+    justify-self: right;
+    height: 4vw;
+    width: 20vw;
+}
+
+#sosireGaraInput {
+    grid-area: garaSosire;
+    justify-self: left;
+    height: 4vw;
+    width: 20vw;
+}
+
+#dateTravelDay {
+    grid-area: ziua;
+    justify-self: right;
+    height: 3vw;
+    width: 9vw;
+}
+
+#dateTravelMonth {
+    grid-area: luna;
+    justify-self: left;
+    height: 3vw;
+    width: 9vw;
+}
+
+#planificareTraseu > form input {
+    font-size: 3vw;
+    top: 2vw;
+
+
+}
+
+#sosiriPlecari > form input {
+    font-size: 1vw;
+    top: 2vw;
+}
+
+#informatiiTrenuri > form input {
+    font-size: 1vw;
+    top: 2vw;
+}
+
+#sosiriPlecari > form > input {
+    font-size: 3vw;
+    height: 4vw;
+    padding-left: 0.5vw;
+    padding-right: 0.5vw;
+}
+
+#informatiiTrenuri > form > input {
+    font-size: 3vw;
+    height: 4vw;
+    padding-left: 0.5vw;
+    padding-right: 0.5vw;
+}
+
+
+ }
+
+
